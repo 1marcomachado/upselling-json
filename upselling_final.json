@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-06-27T06:41:17.289130",
+  "gerado_em": "2025-06-28T06:47:35.239851",
   "produtos": [
     {
       "id": "365143",
@@ -4070,7 +4070,7 @@
         "383387",
         "379506",
         "367573",
-        "378197",
+        "378198",
         "383372"
       ]
     },
@@ -4169,7 +4169,7 @@
       ]
     },
     {
-      "id": "378197",
+      "id": "378198",
       "title": "Sandálias Ugg Golden Glow Pretas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1152685-BLK_1.jpg?1741606269",
       "gender": "female",
@@ -4271,7 +4271,7 @@
       "sugestoes": [
         "379516",
         "366647",
-        "378197",
+        "378198",
         "383372",
         "378236"
       ]
@@ -4492,7 +4492,7 @@
       "sale_price": null,
       "sugestoes": [
         "383372",
-        "378197",
+        "378198",
         "379516",
         "381031",
         "378212"
@@ -7342,7 +7342,7 @@
         "376628",
         "367610",
         "296478",
-        "380195",
+        "380196",
         "364399"
       ]
     },
@@ -8200,7 +8200,7 @@
       ]
     },
     {
-      "id": "380195",
+      "id": "380196",
       "title": "Sapatilhas Gant Cuzima Rosa Em Cetim e Camurça",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/30538956-G56D_1.jpg?1744101015",
       "gender": "female",
@@ -9500,6 +9500,24 @@
         "364624",
         "110297",
         "110296"
+      ]
+    },
+    {
+      "id": "386220",
+      "title": "Camisola Adidas Juventus F. C. Alternativa EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JJ4323_1.jpg?1750076326",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "Adidas Performance",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "349000",
+        "349372",
+        "344836",
+        "349670",
+        "383691"
       ]
     },
     {
@@ -19462,7 +19480,7 @@
     {
       "id": "359331",
       "title": "Chinelos Birkenstock Arizona Couro em Camurça Camel",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1027162_1.jpg?1722424677",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1027162_1.jpg?1751023397",
       "gender": "female",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -19508,7 +19526,7 @@
       "sugestoes": []
     },
     {
-      "id": "377547",
+      "id": "377543",
       "title": "Chinelos Birkenstock Arizona Couro em Camurça Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1029260_1.jpg?1740657872",
       "gender": "female",
@@ -19532,7 +19550,7 @@
       "sugestoes": []
     },
     {
-      "id": "311864",
+      "id": "311863",
       "title": "Chinelos Birkenstock Arizona Eva",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1019152_1.jpg?1680526549",
       "gender": "female",
@@ -19820,7 +19838,7 @@
       "sugestoes": []
     },
     {
-      "id": "329487",
+      "id": "329484",
       "title": "Chinelos Birkenstock Boston Oiled Leather Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/960811_1.jpg?1722931369",
       "gender": "male",
@@ -20465,7 +20483,7 @@
       "sugestoes": [
         "329422",
         "385602",
-        "358482",
+        "358483",
         "360480",
         "319806"
       ]
@@ -20556,7 +20574,7 @@
         "360480",
         "385611",
         "385865",
-        "358482",
+        "358483",
         "371580"
       ]
     },
@@ -20629,7 +20647,7 @@
         "350912",
         "343109",
         "360480",
-        "358482"
+        "358483"
       ]
     },
     {
@@ -20645,7 +20663,7 @@
       "sugestoes": [
         "350902",
         "360480",
-        "358482",
+        "358483",
         "358643",
         "327862"
       ]
@@ -22340,10 +22358,10 @@
       "price": "199.90",
       "sale_price": null,
       "sugestoes": [
-        "329487",
+        "329484",
         "316313",
         "360140",
-        "318784",
+        "318783",
         "311833"
       ]
     },
@@ -22358,7 +22376,7 @@
       "price": "189.90",
       "sale_price": null,
       "sugestoes": [
-        "329487",
+        "329484",
         "311833",
         "358525",
         "316313",
@@ -25131,7 +25149,7 @@
       "sale_price": null,
       "sugestoes": [
         "385832",
-        "385855"
+        "385856"
       ]
     },
     {
@@ -27719,7 +27737,7 @@
       "sugestoes": []
     },
     {
-      "id": "358482",
+      "id": "358483",
       "title": "Chinelos Adidas Adilette Shower K",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE2607_1.jpg?1721637584",
       "gender": "unissex",
@@ -27962,7 +27980,7 @@
       "sugestoes": []
     },
     {
-      "id": "7307",
+      "id": "7305",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Pretos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/051791_1.jpg?1680528705",
       "gender": "unissex",
@@ -28118,7 +28136,7 @@
       "sugestoes": []
     },
     {
-      "id": "318784",
+      "id": "318783",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951301_1.jpg?1740656291",
       "gender": "male",
@@ -28130,7 +28148,7 @@
       "sugestoes": []
     },
     {
-      "id": "377551",
+      "id": "377549",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951303_1.jpg?1740656301",
       "gender": "female",
@@ -29166,7 +29184,7 @@
       ]
     },
     {
-      "id": "385855",
+      "id": "385856",
       "title": "Chuteiras Adidas F50 Sparkfusion League FG/AG J",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR3959_1.jpg?1750773966",
       "gender": "female",
@@ -29190,7 +29208,7 @@
       "price": "149.90",
       "sale_price": "127.42",
       "sugestoes": [
-        "385855"
+        "385856"
       ]
     },
     {
@@ -29274,7 +29292,7 @@
       ]
     },
     {
-      "id": "384821",
+      "id": "384820",
       "title": "Chuteiras Adidas Predator Elite FT AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR4771_1.jpg?1747674234",
       "gender": "male",
@@ -29303,7 +29321,7 @@
       "sale_price": "237.92",
       "sugestoes": [
         "384779",
-        "384821",
+        "384820",
         "384761",
         "384927",
         "384799"
@@ -29321,7 +29339,7 @@
       "sale_price": "237.92",
       "sugestoes": [
         "384809",
-        "384821",
+        "384820",
         "384761",
         "384927",
         "384799"
@@ -29399,7 +29417,7 @@
         "384761",
         "384799",
         "384779",
-        "384821",
+        "384820",
         "385173"
       ]
     },
@@ -29449,7 +29467,7 @@
         "384779",
         "384809",
         "384927",
-        "384821",
+        "384820",
         "384799"
       ]
     },
@@ -29721,7 +29739,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "169.90",
-      "sale_price": null,
+      "sale_price": "110.44",
       "sugestoes": [
         "356794",
         "211005",
@@ -29739,7 +29757,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "169.90",
-      "sale_price": null,
+      "sale_price": "110.44",
       "sugestoes": [
         "211005",
         "356794",
@@ -29817,7 +29835,7 @@
         "375556",
         "127028",
         "370441",
-        "380680"
+        "380683"
       ]
     },
     {
@@ -32287,7 +32305,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "67.92",
       "sugestoes": [
         "329758",
         "383368",
@@ -32305,7 +32323,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "55.93",
       "sugestoes": [
         "301647",
         "331580",
@@ -32323,7 +32341,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "55.93",
       "sugestoes": [
         "301647",
         "231338",
@@ -32341,7 +32359,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "63.92",
       "sugestoes": [
         "231338",
         "231335",
@@ -33946,7 +33964,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "85.00",
-      "sale_price": "68.00",
+      "sale_price": null,
       "sugestoes": [
         "329758",
         "301647",
@@ -35000,7 +35018,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "59.94",
+      "sale_price": "49.95",
       "sugestoes": [
         "320829",
         "320790",
@@ -35539,7 +35557,7 @@
         "351662",
         "375838",
         "381366",
-        "351457",
+        "351458",
         "381291"
       ]
     },
@@ -35794,7 +35812,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "109.90",
-      "sale_price": null,
+      "sale_price": "76.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -35812,7 +35830,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "229.90",
-      "sale_price": "195.42",
+      "sale_price": "160.93",
       "sugestoes": [
         "369661",
         "25302",
@@ -35830,7 +35848,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "229.90",
-      "sale_price": "183.92",
+      "sale_price": "160.93",
       "sugestoes": [
         "25302",
         "369661",
@@ -36936,7 +36954,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "69.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -37008,7 +37026,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "71.92",
       "sugestoes": [
         "1991",
         "370140",
@@ -37026,7 +37044,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "89.90",
-      "sale_price": "67.43",
+      "sale_price": "62.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -37062,7 +37080,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "383368",
         "383122",
@@ -37080,7 +37098,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "383122",
         "329758",
@@ -42931,7 +42949,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": null,
+      "sale_price": "83.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -42949,7 +42967,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": null,
+      "sale_price": "83.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -44328,7 +44346,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "69.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -44346,7 +44364,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "69.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -44555,7 +44573,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "301647",
         "331580",
@@ -44565,7 +44583,7 @@
       ]
     },
     {
-      "id": "380880",
+      "id": "380881",
       "title": "Sapatilhas Nike AL8 Cinzentas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ3794-004_1.jpg?1744390315",
       "gender": "female",
@@ -44573,7 +44591,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -46663,7 +46681,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "55.93",
       "sugestoes": [
         "329758",
         "301647",
@@ -46738,7 +46756,7 @@
       "sale_price": null,
       "sugestoes": [
         "351662",
-        "351457",
+        "351458",
         "384059",
         "384055",
         "381432"
@@ -46853,7 +46871,7 @@
       ]
     },
     {
-      "id": "351457",
+      "id": "351458",
       "title": "Calções Nike Giannis Dri-FIT DNA",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FZ0827-365_1.jpg?1713428533",
       "gender": "male",
@@ -46893,7 +46911,7 @@
       "price": "59.90",
       "sale_price": "38.94",
       "sugestoes": [
-        "351457",
+        "351458",
         "255099",
         "381384",
         "381291",
@@ -48659,7 +48677,7 @@
       ]
     },
     {
-      "id": "358220",
+      "id": "358221",
       "title": "Sapatilhas New Balance GSB550 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GSB550-EB_1.jpg?1721319572",
       "gender": "unissex",
@@ -49171,7 +49189,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": "95.92",
+      "sale_price": "83.93",
       "sugestoes": [
         "369661",
         "25302",
@@ -49189,7 +49207,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": null,
+      "sale_price": "83.93",
       "sugestoes": [
         "25302",
         "369661",
@@ -49253,7 +49271,7 @@
       ]
     },
     {
-      "id": "380190",
+      "id": "380191",
       "title": "Sapatilhas Nike Cortez Azuis e Amarelas Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HF0263-402_1.jpg?1744100407",
       "gender": "male",
@@ -49433,7 +49451,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "109.90",
-      "sale_price": null,
+      "sale_price": "76.93",
       "sugestoes": [
         "380412",
         "329758",
@@ -49451,7 +49469,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "109.90",
-      "sale_price": null,
+      "sale_price": "76.93",
       "sugestoes": [
         "329758",
         "301647",
@@ -49469,7 +49487,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "69.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -49487,7 +49505,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "69.93",
       "sugestoes": [
         "25302",
         "369661",
@@ -49943,7 +49961,7 @@
       ]
     },
     {
-      "id": "380680",
+      "id": "380683",
       "title": "T-shirt Nike Sportswear Max90 Bege Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ0614-901_1.jpg?1744282440",
       "gender": "male",
@@ -50442,7 +50460,7 @@
       "sale_price": null,
       "sugestoes": [
         "278778",
-        "351457",
+        "351458",
         "333478",
         "373019",
         "381291"
@@ -50516,7 +50534,7 @@
         "333478",
         "381384",
         "376288",
-        "351457",
+        "351458",
         "373106"
       ]
     },
@@ -51023,7 +51041,7 @@
       ]
     },
     {
-      "id": "381071",
+      "id": "381072",
       "title": "Sapatilhas Nike Air Pegasus 2005 Cinzentas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ5271-002_1.jpg?1744717820",
       "gender": "female",
@@ -51031,7 +51049,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "149.90",
-      "sale_price": null,
+      "sale_price": "104.93",
       "sugestoes": [
         "301647",
         "359722",
@@ -51133,7 +51151,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "69.93",
       "sugestoes": [
         "329758",
         "383368",
@@ -51360,7 +51378,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "114.90",
-      "sale_price": null,
+      "sale_price": "80.43",
       "sugestoes": [
         "301647",
         "329758",
@@ -51653,7 +51671,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "169.90",
-      "sale_price": null,
+      "sale_price": "110.44",
       "sugestoes": [
         "369661",
         "214470",
@@ -52251,7 +52269,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "139.90",
-      "sale_price": null,
+      "sale_price": "97.93",
       "sugestoes": [
         "369661",
         "214470",
@@ -52287,7 +52305,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "139.90",
-      "sale_price": null,
+      "sale_price": "97.93",
       "sugestoes": [
         "25302",
         "369661",
@@ -52305,7 +52323,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "94.90",
-      "sale_price": "75.92",
+      "sale_price": "66.43",
       "sugestoes": [
         "301647",
         "329758",
@@ -52323,7 +52341,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "139.90",
-      "sale_price": "104.93",
+      "sale_price": "90.94",
       "sugestoes": [
         "369661",
         "25302",
@@ -61023,7 +61041,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "69.90",
-      "sale_price": null,
+      "sale_price": "48.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -61041,7 +61059,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "69.90",
-      "sale_price": null,
+      "sale_price": "48.93",
       "sugestoes": [
         "301647",
         "329758",
@@ -61197,7 +61215,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "79.92",
       "sugestoes": [
         "380367",
         "331023",
@@ -61233,7 +61251,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "109.90",
-      "sale_price": null,
+      "sale_price": "87.92",
       "sugestoes": [
         "25302",
         "380367",
@@ -61251,7 +61269,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "109.90",
-      "sale_price": null,
+      "sale_price": "87.92",
       "sugestoes": [
         "380367",
         "380335",
@@ -66777,7 +66795,7 @@
       ]
     },
     {
-      "id": "327236",
+      "id": "327237",
       "title": "Sapatilhas New Balance ML610 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ML610-TBA_1.jpg?1688049599",
       "gender": "unissex",
@@ -67212,8 +67230,8 @@
     },
     {
       "id": "236449",
-      "title": "Sapatilhas New Balance MR530",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-SG_1.jpg?1702903580",
+      "title": "Sapatilhas New Balance MR530 Brancas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-SG_1.jpg?1751017441",
       "gender": "unissex",
       "site": "1",
       "category": "Calçado > Sapatilhas",
@@ -67224,7 +67242,7 @@
         "376834",
         "373268",
         "373264",
-        "330257",
+        "333921",
         "330254"
       ]
     },
@@ -70622,7 +70640,7 @@
       ]
     },
     {
-      "id": "363556",
+      "id": "363557",
       "title": "Sapatilhas Pepe Jeans London Snake W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PLS40024-999_1.jpg?1724250367",
       "gender": "female",
@@ -70723,7 +70741,7 @@
       "sale_price": "59.94",
       "sugestoes": [
         "367479",
-        "363556",
+        "363557",
         "369322",
         "356666",
         "356673"
@@ -70740,7 +70758,7 @@
       "price": "99.90",
       "sale_price": "69.93",
       "sugestoes": [
-        "363556",
+        "363557",
         "369322",
         "367504",
         "367479",
@@ -76025,7 +76043,7 @@
         "347305",
         "357717",
         "347716",
-        "357099",
+        "357100",
         "347696"
       ]
     },
@@ -76350,7 +76368,7 @@
         "12834",
         "311833",
         "7293",
-        "318784"
+        "318783"
       ]
     },
     {
@@ -76442,7 +76460,7 @@
       "price": "34.99",
       "sale_price": null,
       "sugestoes": [
-        "358482",
+        "358483",
         "350912",
         "319806",
         "360480",
@@ -77764,6 +77782,18 @@
       ]
     },
     {
+      "id": "386279",
+      "title": "Sapatilhas Adidas Court Flight Padel W Bege e Douradas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JQ9209_1.jpg?1751022187",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "379560",
       "title": "Sapatilhas Adidas Courtjam Control 3 M Brancas e Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI4236_1.jpg?1743091880",
@@ -78752,7 +78782,7 @@
       "price": "44.90",
       "sale_price": null,
       "sugestoes": [
-        "358482",
+        "358483",
         "350912",
         "360480",
         "319806",
@@ -78770,7 +78800,7 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
-        "358482",
+        "358483",
         "350912",
         "319806",
         "360480",
@@ -78788,7 +78818,7 @@
       "price": "32.99",
       "sale_price": null,
       "sugestoes": [
-        "358482",
+        "358483",
         "360480",
         "319806",
         "350912",
@@ -78806,7 +78836,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "358482",
+        "358483",
         "327862",
         "350912",
         "314457",
@@ -78897,7 +78927,7 @@
       "sale_price": "26.53",
       "sugestoes": [
         "350912",
-        "358482",
+        "358483",
         "350902",
         "360480",
         "327862"
@@ -78918,7 +78948,7 @@
         "350902",
         "350912",
         "358643",
-        "358482"
+        "358483"
       ]
     },
     {
@@ -78934,7 +78964,7 @@
       "sugestoes": [
         "350912",
         "327583",
-        "358482",
+        "358483",
         "329422",
         "166572"
       ]
@@ -78951,7 +78981,7 @@
       "sale_price": "27.93",
       "sugestoes": [
         "350912",
-        "358482",
+        "358483",
         "327583",
         "329422",
         "327862"
@@ -78986,7 +79016,7 @@
       "price": "39.90",
       "sale_price": "19.95",
       "sugestoes": [
-        "358482",
+        "358483",
         "350912",
         "360480",
         "319806",
@@ -79006,7 +79036,7 @@
       "sugestoes": [
         "360480",
         "350912",
-        "358482",
+        "358483",
         "350902",
         "358643"
       ]
@@ -79024,7 +79054,7 @@
       "sugestoes": [
         "360480",
         "350912",
-        "358482",
+        "358483",
         "350902",
         "319806"
       ]
@@ -79043,7 +79073,7 @@
         "350912",
         "327583",
         "329422",
-        "358482",
+        "358483",
         "166572"
       ]
     },
@@ -79064,6 +79094,18 @@
         "347414",
         "302408"
       ]
+    },
+    {
+      "id": "386266",
+      "title": "Sapatilhas Adidas Novaflight 2 Padel W Bege e Douradas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP9762_1.jpg?1751021440",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": []
     },
     {
       "id": "385905",
@@ -79983,25 +80025,10 @@
       "sale_price": "31.43",
       "sugestoes": [
         "360480",
-        "358482",
+        "358483",
         "350912",
         "319806",
         "351564"
-      ]
-    },
-    {
-      "id": "385321",
-      "title": "Sapatilhas Adidas Top Sala Competition II IN J",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR5392_1.jpg?1748619902",
-      "gender": "unissex",
-      "site": "2",
-      "category": "Calçado > Futsal > Sapatilhas",
-      "brand": "Adidas Performance",
-      "price": "54.90",
-      "sale_price": null,
-      "sugestoes": [
-        "385263",
-        "385250"
       ]
     },
     {
@@ -80017,6 +80044,21 @@
       "sugestoes": [
         "385302",
         "385311"
+      ]
+    },
+    {
+      "id": "385321",
+      "title": "Sapatilhas Adidas Top Sala Competition II IN J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR5392_1.jpg?1748619902",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385263",
+        "385250"
       ]
     },
     {
@@ -80069,7 +80111,7 @@
     },
     {
       "id": "347763",
-      "title": "Sapatilhas Adidas Vl Court 3.0",
+      "title": "Sapatilhas Adidas VL Court 3.0",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID6279_1.jpg?1709903593",
       "gender": "unissex",
       "site": "1",
@@ -80082,12 +80124,12 @@
         "360480",
         "351564",
         "358643",
-        "358482"
+        "358483"
       ]
     },
     {
       "id": "343109",
-      "title": "Sapatilhas Adidas Vl Court 3.0",
+      "title": "Sapatilhas Adidas VL Court 3.0",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID6280_1.jpg?1706809115",
       "gender": "unissex",
       "site": "1",
@@ -80099,13 +80141,13 @@
         "350912",
         "350902",
         "360480",
-        "358482",
+        "358483",
         "327862"
       ]
     },
     {
       "id": "340581",
-      "title": "Sapatilhas Adidas Vl Court 3.0",
+      "title": "Sapatilhas Adidas VL Court 3.0",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID8796_1.jpg?1734537020",
       "gender": "unissex",
       "site": "1",
@@ -80115,7 +80157,7 @@
       "sale_price": null,
       "sugestoes": [
         "327862",
-        "358482",
+        "358483",
         "314457",
         "358643",
         "351564"
@@ -80123,7 +80165,7 @@
     },
     {
       "id": "340172",
-      "title": "Sapatilhas Adidas Vl Court 3.0",
+      "title": "Sapatilhas Adidas VL Court 3.0",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID8797_1.jpg?1702636652",
       "gender": "unissex",
       "site": "1",
@@ -80136,12 +80178,12 @@
         "360480",
         "350912",
         "358643",
-        "358482"
+        "358483"
       ]
     },
     {
       "id": "343286",
-      "title": "Sapatilhas Adidas Vl Court 3.0",
+      "title": "Sapatilhas Adidas VL Court 3.0",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID9069_1.jpg?1706894021",
       "gender": "unissex",
       "site": "1",
@@ -80153,7 +80195,7 @@
         "350912",
         "350902",
         "360480",
-        "358482",
+        "358483",
         "319806"
       ]
     },
@@ -80188,7 +80230,7 @@
       "sugestoes": [
         "350912",
         "360480",
-        "358482",
+        "358483",
         "350902",
         "319806"
       ]
@@ -80206,7 +80248,7 @@
       "sugestoes": [
         "350912",
         "350902",
-        "358482",
+        "358483",
         "360480",
         "358643"
       ]
@@ -80225,7 +80267,7 @@
         "351564",
         "314457",
         "327862",
-        "358482",
+        "358483",
         "358643"
       ]
     },
@@ -80240,7 +80282,7 @@
       "price": "74.90",
       "sale_price": null,
       "sugestoes": [
-        "358482",
+        "358483",
         "350912",
         "360480",
         "327862",
@@ -80367,7 +80409,7 @@
       "sale_price": null,
       "sugestoes": [
         "314457",
-        "358482",
+        "358483",
         "319806",
         "327862",
         "350912"
@@ -80540,7 +80582,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "59.94",
       "sugestoes": [
         "200169",
         "320829",
@@ -82732,10 +82774,10 @@
       "sale_price": "12.00",
       "sugestoes": [
         "386106",
+        "386220",
         "357601",
         "349258",
-        "349712",
-        "358295"
+        "349712"
       ]
     },
     {
@@ -82753,7 +82795,7 @@
         "349721",
         "359846",
         "357601",
-        "349258"
+        "386220"
       ]
     },
     {
@@ -82822,10 +82864,10 @@
       "sale_price": "16.50",
       "sugestoes": [
         "386106",
+        "386220",
         "357601",
         "359846",
-        "349258",
-        "288789"
+        "349258"
       ]
     },
     {
@@ -82861,7 +82903,7 @@
         "385693",
         "386106",
         "349258",
-        "385425"
+        "386220"
       ]
     },
     {
@@ -82897,7 +82939,7 @@
         "349712",
         "386106",
         "349258",
-        "359846"
+        "386220"
       ]
     },
     {
@@ -82947,11 +82989,11 @@
       "price": "29.99",
       "sale_price": "15.00",
       "sugestoes": [
+        "386220",
         "357601",
         "359846",
         "386106",
-        "349721",
-        "349258"
+        "349721"
       ]
     },
     {
@@ -83003,9 +83045,9 @@
       "sugestoes": [
         "386106",
         "359846",
+        "386220",
         "357601",
-        "349721",
-        "349258"
+        "349721"
       ]
     },
     {
@@ -83183,9 +83225,9 @@
       "sugestoes": [
         "349721",
         "349258",
+        "386220",
         "349712",
-        "385425",
-        "288789"
+        "385425"
       ]
     },
     {
@@ -83346,11 +83388,11 @@
       "price": "32.99",
       "sale_price": "16.50",
       "sugestoes": [
+        "386220",
         "349721",
         "349258",
         "386106",
-        "288789",
-        "358295"
+        "288789"
       ]
     },
     {
@@ -83364,11 +83406,11 @@
       "price": "49.90",
       "sale_price": "24.95",
       "sugestoes": [
+        "386220",
         "349721",
         "359846",
         "386106",
-        "288789",
-        "349712"
+        "288789"
       ]
     },
     {
@@ -83434,11 +83476,11 @@
       "price": "29.99",
       "sale_price": "15.00",
       "sugestoes": [
+        "386220",
         "386106",
         "357601",
         "349712",
-        "349258",
-        "359846"
+        "349258"
       ]
     },
     {
@@ -83507,10 +83549,10 @@
       "sale_price": null,
       "sugestoes": [
         "349258",
+        "386220",
         "288789",
         "385425",
-        "385714",
-        "386106"
+        "385714"
       ]
     },
     {
@@ -87289,7 +87331,7 @@
       ]
     },
     {
-      "id": "357099",
+      "id": "357100",
       "title": "Vestido Adidas Farm Rio W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IY0761_1.jpg?1720166696",
       "gender": "female",
