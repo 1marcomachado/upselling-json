@@ -921,7 +921,7 @@
   },
   {
     "id": "271006",
-    "title": "Meias Mizuno Volley",
+    "title": "Meias Mizuno Pretas",
     "category": "Acessórios > Vários desportos > Meias",
     "brand": "Mizuno",
     "site": "2",
@@ -1200,7 +1200,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "379085",
+    "id": "379086",
     "title": "Sapatilhas On Running Cloud 6 Waterproof Cinzentas",
     "category": "Calçado > Sapatilhas",
     "brand": "On Running",
@@ -5000,7 +5000,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "372208",
+    "id": "372212",
     "title": "Sapatilhas Converse Sport Casual",
     "category": "Calçado > Sapatilhas",
     "brand": "Converse/All Star",
@@ -5580,7 +5580,7 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Calções'"
   },
   {
-    "id": "376292",
+    "id": "376293",
     "title": "Calções de Treino Nike Dri-FIT Form 18cm Pretos Para Homem",
     "category": "Roupa > Fitness & Training > Calções",
     "brand": "Nike",
@@ -8040,7 +8040,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "379560",
+    "id": "379561",
     "title": "Sapatilhas Adidas Courtjam Control 3 M Brancas e Verdes",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
@@ -8060,12 +8060,32 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "385897",
-    "title": "Sapatilhas Adidas Novaflight 2 Padel W Brancas",
+    "id": "386418",
+    "title": "Sapatilhas Adidas Crazyquick LS Padel M Brancas e Vermelhas",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
-    "gender": "female",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386405",
+    "title": "Sapatilhas Adidas Boost Crazyquick Padel M Brancas e Vermelhas",
+    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386395",
+    "title": "Sapatilhas Adidas Courtquick Padel M Brancas e Verdes",
+    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
@@ -8100,8 +8120,28 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "385897",
+    "title": "Sapatilhas Adidas Novaflight 2 Padel W Brancas",
+    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "385905",
     "title": "Sapatilhas Adidas Courtquick Padel W Brancas e Verdes",
+    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386428",
+    "title": "Sapatilhas Adidas Lightstrike Crazyquick Padel W Cinzentas e Verdes",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
@@ -8150,7 +8190,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "379555",
+    "id": "379556",
     "title": "Sapatilhas Adidas Solematch Control 2 M",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
