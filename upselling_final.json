@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-06-30T06:51:58.168224",
+  "gerado_em": "2025-07-01T06:50:59.602543",
   "produtos": [
     {
       "id": "365143",
@@ -3282,7 +3282,7 @@
       "price": "94.90",
       "sale_price": "42.71",
       "sugestoes": [
-        "377461"
+        "377462"
       ]
     },
     {
@@ -3298,7 +3298,7 @@
       "sugestoes": []
     },
     {
-      "id": "377461",
+      "id": "377462",
       "title": "Chuteiras Puma Future 8 Pro Creativity FG/AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/108650-01_1.jpg?1740659134",
       "gender": "male",
@@ -7521,7 +7521,7 @@
     },
     {
       "id": "271006",
-      "title": "Meias Mizuno Volley",
+      "title": "Meias Mizuno Pretas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/32EX0X0109_1.jpg?1751033664",
       "gender": "unissex",
       "site": "2",
@@ -8248,7 +8248,7 @@
       "sugestoes": []
     },
     {
-      "id": "379085",
+      "id": "379086",
       "title": "Sapatilhas On Running Cloud 6 Waterproof Cinzentas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/3MF10063030_1.jpg?1742483673",
       "gender": "male",
@@ -16285,7 +16285,7 @@
       "sale_price": null,
       "sugestoes": [
         "372927",
-        "376292",
+        "376293",
         "383524",
         "306326",
         "319660"
@@ -25802,7 +25802,7 @@
       ]
     },
     {
-      "id": "372208",
+      "id": "372212",
       "title": "Sapatilhas Converse Sport Casual",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/A10548C_1.jpg?1736358768",
       "gender": "male",
@@ -30188,7 +30188,7 @@
         "338532",
         "320845",
         "372370",
-        "372267",
+        "372269",
         "338557"
       ]
     },
@@ -30562,7 +30562,7 @@
       ]
     },
     {
-      "id": "369730",
+      "id": "369731",
       "title": "Chuteiras Nike Tiempo Legend 10 Elite FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV4328-001_1.jpg?1731064261",
       "gender": "male",
@@ -31132,7 +31132,7 @@
       "price": "37.99",
       "sale_price": null,
       "sugestoes": [
-        "376292",
+        "376293",
         "372927",
         "383524",
         "306326",
@@ -31140,7 +31140,7 @@
       ]
     },
     {
-      "id": "376292",
+      "id": "376293",
       "title": "Calções de Treino Nike Dri-FIT Form 18cm Pretos Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV9857-010_1.jpg?1739467305",
       "gender": "male",
@@ -31218,7 +31218,7 @@
       "sale_price": null,
       "sugestoes": [
         "372927",
-        "376292",
+        "376293",
         "383524",
         "306326",
         "319660"
@@ -38670,7 +38670,7 @@
         "372370",
         "372420",
         "372374",
-        "372267"
+        "372269"
       ]
     },
     {
@@ -38771,7 +38771,7 @@
         "373135",
         "372370",
         "372361",
-        "372267"
+        "372269"
       ]
     },
     {
@@ -38877,7 +38877,7 @@
       ]
     },
     {
-      "id": "372267",
+      "id": "372269",
       "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8329-800_1.jpg?1736440990",
       "gender": "unissex",
@@ -39250,7 +39250,7 @@
         "372292",
         "372374",
         "373135",
-        "372267",
+        "372269",
         "372389"
       ]
     },
@@ -42897,7 +42897,7 @@
       "price": "169.90",
       "sale_price": "84.95",
       "sugestoes": [
-        "372267",
+        "372269",
         "372292",
         "373135",
         "372361",
@@ -45505,7 +45505,7 @@
       ]
     },
     {
-      "id": "383947",
+      "id": "383945",
       "title": "Sapatilhas Nike Air Max 1 Premium Brancas Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV1211-100_1.jpg?1746625793",
       "gender": "male",
@@ -53459,6 +53459,21 @@
       ]
     },
     {
+      "id": "386415",
+      "title": "Leggings de Treino Adidas Optime Essentials Stash Pocket Full-Length Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JW7645_1.jpg?1751291486",
+      "gender": "female",
+      "site": "2",
+      "category": "Roupa > Fitness & Training > Leggings",
+      "brand": "Adidas Performance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "344792",
+        "347313"
+      ]
+    },
+    {
       "id": "287724",
       "title": "Calções Adidas Techfit",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/H23160_1.jpg?1653583768",
@@ -60134,7 +60149,7 @@
       ]
     },
     {
-      "id": "363580",
+      "id": "363581",
       "title": "Sapatilhas Pepe Jeans London Snake W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PLS40024-800_1.jpg?1724252829",
       "gender": "female",
@@ -60184,7 +60199,7 @@
         "356542",
         "363562",
         "367504",
-        "363580"
+        "363581"
       ]
     },
     {
@@ -65559,7 +65574,7 @@
     },
     {
       "id": "340675",
-      "title": "Saco Adidas Tiro League S",
+      "title": "Saco de Futebol Adidas Tiro League S Preto",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HS9752_1.jpg?1704726660",
       "gender": "unissex",
       "site": "2",
@@ -65577,8 +65592,8 @@
     },
     {
       "id": "340676",
-      "title": "Saco Adidas Tiro League S",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB8659_1.jpg?1704725900",
+      "title": "Saco de Futebol Adidas Tiro League S Azul",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB8659_1.jpg?1751292846",
       "gender": "unissex",
       "site": "2",
       "category": "Acessórios > Futebol > Sacos",
@@ -65588,8 +65603,8 @@
       "sugestoes": [
         "346314",
         "385517",
-        "341352",
         "305516",
+        "341352",
         "331765"
       ]
     },
@@ -67400,7 +67415,7 @@
       "sugestoes": []
     },
     {
-      "id": "379560",
+      "id": "379561",
       "title": "Sapatilhas Adidas Courtjam Control 3 M Brancas e Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI4236_1.jpg?1743091880",
       "gender": "male",
@@ -67424,14 +67439,38 @@
       "sugestoes": []
     },
     {
-      "id": "385897",
-      "title": "Sapatilhas Adidas Novaflight 2 Padel W Brancas",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IG1609_1.jpg?1750235852",
-      "gender": "female",
+      "id": "386418",
+      "title": "Sapatilhas Adidas Crazyquick LS Padel M Brancas e Vermelhas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE3924_1.jpg?1751037056",
+      "gender": "male",
       "site": "2",
       "category": "Calçado > Padel & Ténis > Sapatilhas",
       "brand": "Adidas Performance",
-      "price": "110.00",
+      "price": "120.00",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386405",
+      "title": "Sapatilhas Adidas Boost Crazyquick Padel M Brancas e Vermelhas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IH3636_1.jpg?1751035454",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386395",
+      "title": "Sapatilhas Adidas Courtquick Padel M Brancas e Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP7232_1.jpg?1751026689",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "79.90",
       "sale_price": null,
       "sugestoes": []
     },
@@ -69180,6 +69219,18 @@
       "sugestoes": []
     },
     {
+      "id": "385897",
+      "title": "Sapatilhas Adidas Novaflight 2 Padel W Brancas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IG1609_1.jpg?1750235852",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "110.00",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "355252",
       "title": "Sapatilhas Adidas Ozmillen Cinzentas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF3448_1.jpg?1718379836",
@@ -69206,6 +69257,18 @@
       "category": "Calçado > Padel & Ténis > Sapatilhas",
       "brand": "Adidas Performance",
       "price": "79.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386428",
+      "title": "Sapatilhas Adidas Lightstrike Crazyquick Padel W Cinzentas e Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR9325_1.jpg?1751037863",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "120.00",
       "sale_price": null,
       "sugestoes": []
     },
@@ -69527,7 +69590,7 @@
       ]
     },
     {
-      "id": "379555",
+      "id": "379556",
       "title": "Sapatilhas Adidas Solematch Control 2 M",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IH3088_1.jpg?1743092466",
       "gender": "male",
@@ -70555,7 +70618,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Sportswear",
       "price": "69.90",
-      "sale_price": null,
+      "sale_price": "52.43",
       "sugestoes": [
         "360480",
         "358483",
@@ -70994,24 +71057,6 @@
         "360509",
         "378164",
         "222047"
-      ]
-    },
-    {
-      "id": "75072",
-      "title": "Sapatilhas Vans Authentic",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EE3RED_1.jpg?1675874691",
-      "gender": "unissex",
-      "site": "1",
-      "category": "Calçado > Sapatilhas",
-      "brand": "Vans",
-      "price": "69.90",
-      "sale_price": null,
-      "sugestoes": [
-        "378164",
-        "360508",
-        "222047",
-        "261312",
-        "360509"
       ]
     },
     {
@@ -72598,7 +72643,7 @@
       "price": "230.00",
       "sale_price": "158.70",
       "sugestoes": [
-        "379762",
+        "379761",
         "379771",
         "379750",
         "379790",
@@ -72681,7 +72726,7 @@
       ]
     },
     {
-      "id": "379762",
+      "id": "379761",
       "title": "Chuteiras New Balance Furon Pro V8 FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/SF2FE-J8_1.jpg?1743173319",
       "gender": "male",
@@ -72757,7 +72802,7 @@
       "price": "89.90",
       "sale_price": "58.44",
       "sugestoes": [
-        "379762",
+        "379761",
         "379752",
         "379750",
         "379790",
@@ -73190,7 +73235,7 @@
         "379800",
         "379752",
         "379771",
-        "379762"
+        "379761"
       ]
     },
     {
@@ -73226,7 +73271,7 @@
         "379750",
         "379771",
         "379752",
-        "379762"
+        "379761"
       ]
     },
     {
@@ -73262,7 +73307,7 @@
         "379750",
         "379771",
         "379752",
-        "379762"
+        "379761"
       ]
     },
     {
@@ -74447,6 +74492,7 @@
       "sale_price": "27.93",
       "sugestoes": [
         "344792",
+        "386415",
         "344915"
       ]
     },
@@ -76857,7 +76903,7 @@
       ]
     },
     {
-      "id": "383423",
+      "id": "383424",
       "title": "Sapatilhas New Balance U740 V2 Cinzentas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U740-GS2_1.jpg?1746015404",
       "gender": "female",
@@ -78068,8 +78114,8 @@
         "378228",
         "378259",
         "359658",
-        "75072",
-        "373340"
+        "373340",
+        "364041"
       ]
     },
     {
