@@ -5020,7 +5020,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "372080",
+    "id": "372083",
     "title": "Sapatilhas Converse Sport Casual",
     "category": "Calçado > Sapatilhas",
     "brand": "Converse/All Star",
@@ -8140,16 +8140,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "386428",
-    "title": "Sapatilhas Adidas Lightstrike Crazyquick Padel W Cinzentas e Verdes",
-    "category": "Calçado > Padel & Ténis > Sapatilhas",
-    "brand": "Adidas Performance",
-    "site": "2",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "305709",
     "title": "Sapatilhas Adidas Predator Accuracy.4 IN",
     "category": "Calçado > Futsal > Sapatilhas",
@@ -8280,7 +8270,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "262815",
+    "id": "262816",
     "title": "Sapatilhas Le Coq Sportif Lcs R1000 Bijoux W",
     "category": "Calçado > Sapatilhas",
     "brand": "Le Coq Sportif",
