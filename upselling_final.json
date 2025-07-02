@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-01T06:50:59.602543",
+  "gerado_em": "2025-07-02T06:49:00.536114",
   "produtos": [
     {
       "id": "365143",
@@ -9600,7 +9600,7 @@
         "239935",
         "348241",
         "378475",
-        "348103"
+        "348105"
       ]
     },
     {
@@ -10468,7 +10468,7 @@
       "sugestoes": []
     },
     {
-      "id": "348103",
+      "id": "348105",
       "title": "Sandálias Havaianas Una Açaí",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/4149616-2801_1.jpg?1710344357",
       "gender": "female",
@@ -21152,6 +21152,24 @@
       ]
     },
     {
+      "id": "386438",
+      "title": "Camisola Adidas S. L. Benfica Principal Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JN9942_1.jpg?1751039088",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "Adidas Performance",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385783",
+        "349312",
+        "385734",
+        "385697",
+        "349394"
+      ]
+    },
+    {
       "id": "364730",
       "title": "Camisola com Capuz Santa Cruz Youth Goal Flame Kids",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/SCA-YHD-054-BLK_1.jpg?1727283497",
@@ -22033,7 +22051,7 @@
     },
     {
       "id": "385578",
-      "title": "Casaco De Treino Adidas S. L. Benfica Tiro 25 Competition Junior EP25/26",
+      "title": "Camisola com Fecho de Treino Adidas S. L. Benfica Tiro 25 Competition Junior EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JM1217_1.jpg?1749199764",
       "gender": "unissex",
       "site": "2",
@@ -22328,7 +22346,7 @@
       "sugestoes": []
     },
     {
-      "id": "374650",
+      "id": "374651",
       "title": "Sapatilhas Nike P-6000 Prateadas Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/CD6404-023_1.jpg?1738173328",
       "gender": "male",
@@ -24259,7 +24277,7 @@
       ]
     },
     {
-      "id": "383440",
+      "id": "383441",
       "title": "Chuteiras Adidas F50 League LL FG/MG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE1240_1.jpg?1746023406",
       "gender": "male",
@@ -25826,7 +25844,7 @@
       "sugestoes": []
     },
     {
-      "id": "372080",
+      "id": "372083",
       "title": "Sapatilhas Converse Sport Casual",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/A12748C_1.jpg?1736249643",
       "gender": "male",
@@ -27776,7 +27794,7 @@
       "sale_price": "29.95",
       "sugestoes": [
         "350714",
-        "349288",
+        "349289",
         "349166",
         "337958",
         "278459"
@@ -29575,7 +29593,7 @@
       "sugestoes": [
         "278459",
         "339780",
-        "349288",
+        "349289",
         "349936",
         "349166"
       ]
@@ -30487,7 +30505,7 @@
       "sale_price": null,
       "sugestoes": [
         "278459",
-        "349288",
+        "349289",
         "349166",
         "349936",
         "339780"
@@ -31897,10 +31915,10 @@
       "sale_price": null,
       "sugestoes": [
         "385705",
+        "386438",
         "386111",
         "356683",
-        "385742",
-        "385530"
+        "385742"
       ]
     },
     {
@@ -33796,9 +33814,9 @@
       "sugestoes": [
         "385730",
         "356683",
+        "386438",
         "385705",
-        "385742",
-        "349312"
+        "385742"
       ]
     },
     {
@@ -37162,7 +37180,7 @@
       "sale_price": "47.94",
       "sugestoes": [
         "299461",
-        "349288",
+        "349289",
         "337958",
         "349936",
         "349166"
@@ -37678,7 +37696,7 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
-        "349288",
+        "349289",
         "337958",
         "349936",
         "278459",
@@ -37686,7 +37704,7 @@
       ]
     },
     {
-      "id": "349288",
+      "id": "349289",
       "title": "Calções Nike Portugal Alternativo Stadium 2024/25 Jr",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ4422-441_1.jpg?1711562424",
       "gender": "unissex",
@@ -41238,7 +41256,7 @@
       ]
     },
     {
-      "id": "377007",
+      "id": "377008",
       "title": "Sapatilhas New Balance GR740 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GR740-WN_1.jpg?1740055077",
       "gender": "unissex",
@@ -43955,7 +43973,7 @@
       ]
     },
     {
-      "id": "381072",
+      "id": "381073",
       "title": "Sapatilhas Nike Air Pegasus 2005 Cinzentas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ5271-002_1.jpg?1744717820",
       "gender": "female",
@@ -55584,7 +55602,7 @@
         "326118",
         "164312",
         "327051",
-        "332593"
+        "332595"
       ]
     },
     {
@@ -56370,9 +56388,27 @@
       "sale_price": "34.95",
       "sugestoes": [
         "385544",
+        "386465",
         "356269",
         "326950",
-        "385417",
+        "385417"
+      ]
+    },
+    {
+      "id": "386457",
+      "title": "Casaco com Capuz New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231569-NIK_1.jpg?1751367608",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385544",
+        "386465",
+        "385103",
+        "385413",
         "385937"
       ]
     },
@@ -56391,7 +56427,7 @@
         "356269",
         "385937",
         "385417",
-        "356184"
+        "386465"
       ]
     },
     {
@@ -56485,7 +56521,7 @@
       ]
     },
     {
-      "id": "327237",
+      "id": "327236",
       "title": "Sapatilhas New Balance ML610 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ML610-TBA_1.jpg?1688049599",
       "gender": "unissex",
@@ -56570,6 +56606,24 @@
       "sale_price": null,
       "sugestoes": [
         "333971"
+      ]
+    },
+    {
+      "id": "386444",
+      "title": "Sapatilhas de Running New Balance Fresh Foam X More v6 Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MMOR-LC6_1.jpg?1751301698",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "169.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340977",
+        "340986",
+        "290848",
+        "341039",
+        "341051"
       ]
     },
     {
@@ -56763,7 +56817,8 @@
       "price": "57.90",
       "sale_price": "37.64",
       "sugestoes": [
-        "356206"
+        "356206",
+        "386469"
       ]
     },
     {
@@ -56777,7 +56832,8 @@
       "price": "57.90",
       "sale_price": "37.64",
       "sugestoes": [
-        "356206"
+        "356206",
+        "386469"
       ]
     },
     {
@@ -56959,9 +57015,9 @@
       "sugestoes": [
         "385937",
         "385544",
+        "386465",
         "385417",
-        "385115",
-        "369132"
+        "386461"
       ]
     },
     {
@@ -56978,8 +57034,8 @@
         "385417",
         "385937",
         "385544",
-        "385115",
-        "326950"
+        "386465",
+        "386457"
       ]
     },
     {
@@ -56996,8 +57052,8 @@
         "385544",
         "385937",
         "385417",
-        "369132",
-        "356197"
+        "386465",
+        "386457"
       ]
     },
     {
@@ -57135,7 +57191,7 @@
         "356184",
         "356197",
         "356202",
-        "354815"
+        "386469"
       ]
     },
     {
@@ -57149,11 +57205,11 @@
       "price": "89.90",
       "sale_price": "62.93",
       "sugestoes": [
+        "386469",
         "326579",
         "385099",
         "326635",
-        "385103",
-        "356184"
+        "386457"
       ]
     },
     {
@@ -57221,11 +57277,11 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
+        "386469",
         "326579",
         "385099",
         "385413",
-        "356202",
-        "356197"
+        "356202"
       ]
     },
     {
@@ -57257,11 +57313,11 @@
       "price": "59.90",
       "sale_price": "41.93",
       "sugestoes": [
+        "386469",
         "385103",
         "385413",
         "385950",
-        "385099",
-        "326579"
+        "385099"
       ]
     },
     {
@@ -57284,7 +57340,7 @@
     },
     {
       "id": "356206",
-      "title": "Polo New Balance Saída F. C. Porto E24/25",
+      "title": "Polo New Balance Saída F. C. Porto EP24/25",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231467-BUL_1.jpg?1718968740",
       "gender": "male",
       "site": "2",
@@ -57298,6 +57354,60 @@
         "356184",
         "326579",
         "356202"
+      ]
+    },
+    {
+      "id": "386469",
+      "title": "Polo New Balance Saída F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231467-IKW_1.jpg?1751382756",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Polos",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386452",
+        "386461",
+        "369132",
+        "385544",
+        "386465"
+      ]
+    },
+    {
+      "id": "386452",
+      "title": "Camisola de Treino New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231579-IKW_1.jpg?1751368614",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386469",
+        "326579",
+        "385103",
+        "356184",
+        "385099"
+      ]
+    },
+    {
+      "id": "386461",
+      "title": "Camisola New Balance F. C. Porto Lightweight EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231580-IKW_1.jpg?1751368124",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "39.99",
+      "sale_price": null,
+      "sugestoes": [
+        "386469",
+        "385103",
+        "385099",
+        "326579",
+        "385413"
       ]
     },
     {
@@ -57330,10 +57440,28 @@
       "sale_price": null,
       "sugestoes": [
         "385099",
+        "386457",
+        "386469",
         "326579",
+        "326635"
+      ]
+    },
+    {
+      "id": "386465",
+      "title": "Camisola com Fecho New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231590-STW_1.jpg?1751366916",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386457",
+        "386469",
+        "385099",
         "326635",
-        "385103",
-        "356184"
+        "385103"
       ]
     },
     {
@@ -57382,8 +57510,8 @@
         "340986",
         "290848",
         "378044",
-        "372949",
-        "372020"
+        "386444",
+        "372949"
       ]
     },
     {
@@ -57401,7 +57529,7 @@
         "290848",
         "378044",
         "372949",
-        "372020"
+        "386444"
       ]
     },
     {
@@ -57419,7 +57547,7 @@
         "340986",
         "378044",
         "375803",
-        "375915"
+        "386444"
       ]
     },
     {
@@ -65826,7 +65954,7 @@
     },
     {
       "id": "385956",
-      "title": "Sapatilhas Adidas Bubblecomfy Criança",
+      "title": "Sapatilhas Adidas Bubblecomfy I Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI1608_1.jpg?1750236611",
       "gender": "unissex",
       "site": "1",
@@ -67563,7 +67691,7 @@
       ]
     },
     {
-      "id": "332593",
+      "id": "332595",
       "title": "Sapatilhas Adidas Forum Low",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FY7755_1.jpg?1692982436",
       "gender": "unissex",
@@ -68848,7 +68976,7 @@
     },
     {
       "id": "385602",
-      "title": "Sapatilhas Adidas com Velcro Grand Court 2.0 Bege",
+      "title": "Sapatilhas Adidas Grand Court 2.0 CF I Bege e Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JQ7996_1.jpg?1749633090",
       "gender": "unissex",
       "site": "1",
@@ -69257,18 +69385,6 @@
       "category": "Calçado > Padel & Ténis > Sapatilhas",
       "brand": "Adidas Performance",
       "price": "79.90",
-      "sale_price": null,
-      "sugestoes": []
-    },
-    {
-      "id": "386428",
-      "title": "Sapatilhas Adidas Lightstrike Crazyquick Padel W Cinzentas e Verdes",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR9325_1.jpg?1751037863",
-      "gender": "female",
-      "site": "2",
-      "category": "Calçado > Padel & Ténis > Sapatilhas",
-      "brand": "Adidas Performance",
-      "price": "120.00",
       "sale_price": null,
       "sugestoes": []
     },
@@ -71272,7 +71388,7 @@
       "sugestoes": []
     },
     {
-      "id": "262815",
+      "id": "262816",
       "title": "Sapatilhas Le Coq Sportif Lcs R1000 Bijoux W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/2220236_1.jpg?1667900470",
       "gender": "female",
@@ -78759,7 +78875,7 @@
     },
     {
       "id": "214451",
-      "title": "Sapatilhas New Balance WS327 V1",
+      "title": "Sapatilhas New Balance WS327 V1 Pretas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WS327-KC_1.jpg?1732017224",
       "gender": "female",
       "site": "1",
