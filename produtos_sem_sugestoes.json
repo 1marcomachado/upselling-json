@@ -5030,7 +5030,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "372091",
+    "id": "372093",
     "title": "Sapatilhas Converse Sport Casual",
     "category": "Calçado > Sapatilhas",
     "brand": "Converse/All Star",
@@ -6440,7 +6440,7 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Calções'"
   },
   {
-    "id": "385161",
+    "id": "385162",
     "title": "Calções de Ganga Carhartt WIP Brandon W Azuis",
     "category": "Roupa > Calções",
     "brand": "Carhartt WIP",
@@ -7280,6 +7280,16 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "386765",
+    "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Camel Para Homem",
+    "category": "Calçado > Trail > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "371634",
     "title": "Sapatilhas New Balance FuelCell Venym V1 Pretas Para Homem",
     "category": "Calçado > Trail > Sapatilhas",
@@ -8040,7 +8050,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "379561",
+    "id": "379560",
     "title": "Sapatilhas Adidas Courtjam Control 3 M Brancas e Verdes",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
@@ -8060,7 +8070,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "386418",
+    "id": "386419",
     "title": "Sapatilhas Adidas Crazyquick LS Padel M Brancas e Vermelhas",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
@@ -8082,6 +8092,16 @@
   {
     "id": "386395",
     "title": "Sapatilhas Adidas Courtquick Padel M Brancas e Verdes",
+    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386755",
+    "title": "Sapatilhas Adidas Courtquick Padel M Brancas e Vermelhas",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
@@ -8132,6 +8152,16 @@
   {
     "id": "385905",
     "title": "Sapatilhas Adidas Courtquick Padel W Brancas e Verdes",
+    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386428",
+    "title": "Sapatilhas Adidas Lightstrike Crazyquick Padel W Cinzentas e Verdes",
     "category": "Calçado > Padel & Ténis > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
@@ -8710,6 +8740,26 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "386651",
+    "title": "Sapatilhas New Balance Fresh Foam Trainer Bege e Brancas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386660",
+    "title": "Sapatilhas New Balance Fresh Foam Trainer Brancas e Verdes Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "349854",
     "title": "Calções de Banho Vans Primary Solid Elastic Pretos",
     "category": "Roupa > Calções",
@@ -8730,7 +8780,7 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Calções'"
   },
   {
-    "id": "348865",
+    "id": "348866",
     "title": "Calções de Banho Vans Primary Solid Elastic",
     "category": "Roupa > Calções",
     "brand": "Vans",
@@ -8830,6 +8880,16 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "386583",
+    "title": "Sapatilhas New Balance Fresh Foam Arishi v4 TIRALUX Bege Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "375785",
     "title": "Sapatilhas New Balance Fresh Foam X EVOZ v4 Bege Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
@@ -8842,6 +8902,16 @@
   {
     "id": "375792",
     "title": "Sapatilhas New Balance Fresh Foam X EVOZ v4 Pretas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386797",
+    "title": "Sapatilhas New Balance FuelCell Rebel v5 Castanhas e Bege Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
@@ -8932,6 +9002,16 @@
   {
     "id": "379589",
     "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Laranja Para Mulher",
+    "category": "Calçado > Trail > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386790",
+    "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Camel Para Mulher",
     "category": "Calçado > Trail > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
