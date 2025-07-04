@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-02T06:49:00.536114",
+  "gerado_em": "2025-07-04T06:46:14.512221",
   "produtos": [
     {
       "id": "365143",
@@ -2820,7 +2820,7 @@
       "price": "139.90",
       "sale_price": "62.96",
       "sugestoes": [
-        "376403",
+        "376406",
         "374135",
         "375181",
         "376391",
@@ -2828,7 +2828,7 @@
       ]
     },
     {
-      "id": "376403",
+      "id": "376406",
       "title": "Chuteiras Puma Future 8 Match FG/AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/108140-01_1.jpg?1739536383",
       "gender": "male",
@@ -3019,7 +3019,7 @@
       "sale_price": "103.46",
       "sugestoes": [
         "376346",
-        "376403",
+        "376406",
         "375181",
         "374026",
         "374056"
@@ -3050,7 +3050,7 @@
       "sugestoes": [
         "376358",
         "375181",
-        "376403",
+        "376406",
         "374045",
         "376346"
       ]
@@ -3272,7 +3272,7 @@
       ]
     },
     {
-      "id": "376323",
+      "id": "376324",
       "title": "Chuteiras Puma Future 8 Match Creativity FG/AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/108431-01_1.jpg?1739524450",
       "gender": "male",
@@ -3308,7 +3308,7 @@
       "price": "139.90",
       "sale_price": "62.96",
       "sugestoes": [
-        "376323"
+        "376324"
       ]
     },
     {
@@ -7104,7 +7104,7 @@
       ]
     },
     {
-      "id": "380229",
+      "id": "380230",
       "title": "Sapatilhas Gant Baylle Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/30633836-G223D_1.jpg?1744103233",
       "gender": "male",
@@ -11090,7 +11090,7 @@
       ]
     },
     {
-      "id": "363090",
+      "id": "363092",
       "title": "Sapatilhas Lacoste Women's Baseshot 224",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/48SFA0010-40F_1.jpg?1723549240",
       "gender": "female",
@@ -17993,7 +17993,7 @@
         "385611",
         "386204",
         "385865",
-        "358483"
+        "386731"
       ]
     },
     {
@@ -19475,10 +19475,10 @@
       "sale_price": "45.43",
       "sugestoes": [
         "354802",
+        "386739",
+        "386751",
         "375568",
-        "375564",
-        "345850",
-        "375572"
+        "375564"
       ]
     },
     {
@@ -19492,11 +19492,11 @@
       "price": "64.90",
       "sale_price": null,
       "sugestoes": [
+        "386739",
         "354802",
+        "386751",
         "375568",
-        "375564",
-        "345850",
-        "385216"
+        "375564"
       ]
     },
     {
@@ -24094,7 +24094,7 @@
       ]
     },
     {
-      "id": "380388",
+      "id": "380391",
       "title": "Chuteiras Adidas Copa Pure III Elite FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID9038_1.jpg?1744122626",
       "gender": "male",
@@ -24365,7 +24365,7 @@
       ]
     },
     {
-      "id": "377325",
+      "id": "377332",
       "title": "Chuteiras Adidas F50 League MG J",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE3752_1.jpg?1740417842",
       "gender": "unissex",
@@ -24418,7 +24418,7 @@
         "379890",
         "379910",
         "379882",
-        "380388"
+        "380391"
       ]
     },
     {
@@ -24501,7 +24501,7 @@
       ]
     },
     {
-      "id": "337834",
+      "id": "337835",
       "title": "Chuteiras Adidas Predator Accuracy.3 FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GZ0015_1.jpg?1697196080",
       "gender": "male",
@@ -24565,7 +24565,7 @@
       "price": "49.90",
       "sale_price": "24.95",
       "sugestoes": [
-        "377325"
+        "377332"
       ]
     },
     {
@@ -24689,7 +24689,7 @@
       "sugestoes": [
         "379910",
         "379882",
-        "380388",
+        "380391",
         "380456"
       ]
     },
@@ -24742,7 +24742,7 @@
       "sugestoes": [
         "379890",
         "379882",
-        "380388",
+        "380391",
         "380456"
       ]
     },
@@ -24883,7 +24883,7 @@
       "sugestoes": [
         "379890",
         "379910",
-        "380388",
+        "380391",
         "380456"
       ]
     },
@@ -25856,7 +25856,7 @@
       "sugestoes": []
     },
     {
-      "id": "372091",
+      "id": "372093",
       "title": "Sapatilhas Converse Sport Casual",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/A13786C_1.jpg?1736252463",
       "gender": "male",
@@ -25973,24 +25973,6 @@
         "134052",
         "348950",
         "1759"
-      ]
-    },
-    {
-      "id": "1395",
-      "title": "Spray Crep Protect Cure 200 ML",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/3809930000_1.jpg?1705926584",
-      "gender": "unissex",
-      "site": "1",
-      "category": "Acessórios > Limpeza Calçado",
-      "brand": "Crep Protect",
-      "price": "15.00",
-      "sale_price": null,
-      "sugestoes": [
-        "1760",
-        "1759",
-        "308000",
-        "228319",
-        "384336"
       ]
     },
     {
@@ -28947,7 +28929,7 @@
       ]
     },
     {
-      "id": "230441",
+      "id": "230442",
       "title": "Sapatilhas Nike Court Vision Alta Leather",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DM0113-100_1.jpg?1675183688",
       "gender": "female",
@@ -30819,7 +30801,7 @@
         "384047",
         "381016",
         "255343",
-        "380799",
+        "380800",
         "383919"
       ]
     },
@@ -35918,7 +35900,7 @@
       ]
     },
     {
-      "id": "380482",
+      "id": "380484",
       "title": "Sapatilhas Nike V2K Run Prateadas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FD0736-100_1.jpg?1744186704",
       "gender": "female",
@@ -37506,7 +37488,7 @@
       ]
     },
     {
-      "id": "380881",
+      "id": "380880",
       "title": "Sapatilhas Nike AL8 Cinzentas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ3794-004_1.jpg?1744390315",
       "gender": "female",
@@ -38877,7 +38859,7 @@
       ]
     },
     {
-      "id": "369803",
+      "id": "369804",
       "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8329-700_1.jpg?1731079348",
       "gender": "male",
@@ -38924,7 +38906,7 @@
       "sale_price": "61.69",
       "sugestoes": [
         "367762",
-        "369803",
+        "369804",
         "367684",
         "369741",
         "367848"
@@ -39752,7 +39734,7 @@
       "sugestoes": [
         "375851",
         "370181",
-        "380799",
+        "380800",
         "366788",
         "380795"
       ]
@@ -40648,6 +40630,24 @@
       "sugestoes": []
     },
     {
+      "id": "386566",
+      "title": "Sapatilhas New Balance GC1000 V1 Castanhas e Prateadas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GC1000-NK_1.jpg?1751450980",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "139.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "333921",
+        "376834",
+        "330257",
+        "330254"
+      ]
+    },
+    {
       "id": "346350",
       "title": "Sapatilhas New Balance GC1906 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GC1906-RD_1.jpg?1709889808",
@@ -40787,6 +40787,24 @@
         "373264",
         "333921",
         "376834",
+        "330257",
+        "330254"
+      ]
+    },
+    {
+      "id": "386723",
+      "title": "Sapatilhas New Balance GC2002 V1 Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GC2002-RT_1.jpg?1751469641",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "376834",
+        "333921",
         "330257",
         "330254"
       ]
@@ -41113,7 +41131,7 @@
     },
     {
       "id": "307902",
-      "title": "Sapatilhas New Balance GR530",
+      "title": "Sapatilhas New Balance GR530 V1 Cinzentas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GR530-CB_1.jpg?1709833912",
       "gender": "unissex",
       "site": "1",
@@ -41131,7 +41149,7 @@
     },
     {
       "id": "342549",
-      "title": "Sapatilhas New Balance GR530 V1",
+      "title": "Sapatilhas New Balance GR530 V1 Brancas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GR530-SB1_1.jpg?1706527089",
       "gender": "unissex",
       "site": "1",
@@ -41149,7 +41167,7 @@
     },
     {
       "id": "359085",
-      "title": "Sapatilhas New Balance GR530 V1",
+      "title": "Sapatilhas New Balance GR530 V1 Brancas e Amarelas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GR530-GA_1.jpg?1722243580",
       "gender": "unissex",
       "site": "1",
@@ -42953,7 +42971,7 @@
       "sugestoes": [
         "359987",
         "367694",
-        "380799",
+        "380800",
         "362171",
         "359818"
       ]
@@ -43147,7 +43165,7 @@
       "price": "59.99",
       "sale_price": null,
       "sugestoes": [
-        "380799",
+        "380800",
         "367694",
         "255343",
         "359987",
@@ -43166,7 +43184,7 @@
       "sale_price": null,
       "sugestoes": [
         "384047",
-        "380799",
+        "380800",
         "383919",
         "255343",
         "384306"
@@ -43220,7 +43238,7 @@
       "sale_price": null,
       "sugestoes": [
         "367694",
-        "380799",
+        "380800",
         "366942",
         "358744",
         "359818"
@@ -43237,7 +43255,7 @@
       "price": "119.90",
       "sale_price": null,
       "sugestoes": [
-        "380799",
+        "380800",
         "378147",
         "383919",
         "367694",
@@ -43473,7 +43491,7 @@
       "sale_price": null,
       "sugestoes": [
         "367092",
-        "380799",
+        "380800",
         "359987",
         "380795",
         "370181"
@@ -43973,7 +43991,7 @@
       ]
     },
     {
-      "id": "381073",
+      "id": "381071",
       "title": "Sapatilhas Nike Air Pegasus 2005 Cinzentas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ5271-002_1.jpg?1744717820",
       "gender": "female",
@@ -44424,7 +44442,7 @@
         "384047",
         "255348",
         "380809",
-        "380799",
+        "380800",
         "367694"
       ]
     },
@@ -44501,7 +44519,7 @@
       ]
     },
     {
-      "id": "380799",
+      "id": "380800",
       "title": "Calças Nike Sportswear Classic Woven Proteção UV Mid-Rise Pretas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM8976-010_1.jpg?1744373096",
       "gender": "female",
@@ -44931,7 +44949,7 @@
         "359987",
         "380809",
         "359818",
-        "380799"
+        "380800"
       ]
     },
     {
@@ -45309,7 +45327,7 @@
       "sugestoes": [
         "255343",
         "366942",
-        "380799",
+        "380800",
         "384047",
         "358046"
       ]
@@ -45624,7 +45642,7 @@
       "sale_price": null,
       "sugestoes": [
         "372788",
-        "230441",
+        "230442",
         "380539",
         "372509",
         "232060"
@@ -48082,7 +48100,7 @@
       "sale_price": null,
       "sugestoes": [
         "332510",
-        "385161",
+        "385162",
         "385164",
         "366365",
         "385140"
@@ -48419,7 +48437,7 @@
       "sugestoes": []
     },
     {
-      "id": "385161",
+      "id": "385162",
       "title": "Calções de Ganga Carhartt WIP Brandon W Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I031919.01.02_1.jpg?1748433476",
       "gender": "female",
@@ -48697,7 +48715,7 @@
         "385164",
         "386061",
         "385156",
-        "385161"
+        "385162"
       ]
     },
     {
@@ -48881,7 +48899,7 @@
       "sugestoes": [
         "331758",
         "332510",
-        "385161",
+        "385162",
         "385156",
         "386061"
       ]
@@ -48898,7 +48916,7 @@
       "sale_price": null,
       "sugestoes": [
         "332510",
-        "385161",
+        "385162",
         "385156",
         "331758",
         "385164"
@@ -50179,7 +50197,7 @@
         "386033",
         "385086",
         "331758",
-        "385161"
+        "385162"
       ]
     },
     {
@@ -50196,7 +50214,7 @@
         "385086",
         "385140",
         "386061",
-        "385161",
+        "385162",
         "366365"
       ]
     },
@@ -50215,7 +50233,7 @@
         "385086",
         "331758",
         "332510",
-        "385161"
+        "385162"
       ]
     },
     {
@@ -51651,7 +51669,7 @@
       "price": "109.00",
       "sale_price": null,
       "sugestoes": [
-        "385161",
+        "385162",
         "385164",
         "332510",
         "366365",
@@ -51670,7 +51688,7 @@
       "sale_price": null,
       "sugestoes": [
         "332510",
-        "385161",
+        "385162",
         "385164",
         "385140",
         "366365"
@@ -52587,10 +52605,10 @@
       "sale_price": null,
       "sugestoes": [
         "354802",
+        "386751",
+        "386739",
         "375564",
-        "375568",
-        "345850",
-        "385216"
+        "375568"
       ]
     },
     {
@@ -52604,16 +52622,16 @@
       "price": "69.90",
       "sale_price": null,
       "sugestoes": [
+        "386739",
+        "386751",
         "354802",
         "375568",
-        "375564",
-        "345850",
-        "373751"
+        "375564"
       ]
     },
     {
       "id": "342408",
-      "title": "Sapatilhas New Balance IZ530 V1",
+      "title": "Sapatilhas New Balance IZ530 V1 Brancas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IZ530-SB1_1.jpg?1706275015",
       "gender": "unissex",
       "site": "1",
@@ -52788,6 +52806,24 @@
         "333921",
         "330257",
         "376834",
+        "330254"
+      ]
+    },
+    {
+      "id": "386704",
+      "title": "Sapatilhas New Balance IZ530 V1 Brancas e Amarelas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IZ530-GA_1.jpg?1751467565",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "333921",
+        "376834",
+        "330257",
         "330254"
       ]
     },
@@ -53020,6 +53056,42 @@
       ]
     },
     {
+      "id": "386739",
+      "title": "Camisola de Treino New Balance F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JT231579-AZ_1.jpg?1751470606",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "39.99",
+      "sale_price": null,
+      "sugestoes": [
+        "385462",
+        "385090",
+        "354820",
+        "385408",
+        "385093"
+      ]
+    },
+    {
+      "id": "386751",
+      "title": "Camisola com Fecho New Balance F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JT231590-AZ_1.jpg?1751472478",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385093",
+        "385462",
+        "385090",
+        "385779",
+        "385408"
+      ]
+    },
+    {
       "id": "385093",
       "title": "Equipamento New Balance F. C. Porto Principal Junior EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JY230413-HME_1.jpg?1749218747",
@@ -53031,10 +53103,10 @@
       "sale_price": null,
       "sugestoes": [
         "354802",
+        "386751",
+        "386739",
         "375568",
-        "375564",
-        "345850",
-        "375572"
+        "375564"
       ]
     },
     {
@@ -53048,11 +53120,11 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
+        "386739",
+        "386751",
         "354802",
         "375564",
-        "375568",
-        "375572",
-        "345850"
+        "375568"
       ]
     },
     {
@@ -53066,11 +53138,11 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
+        "386739",
+        "386751",
         "375564",
         "375568",
-        "385216",
-        "373751",
-        "354802"
+        "385216"
       ]
     },
     {
@@ -53958,7 +54030,7 @@
       ]
     },
     {
-      "id": "371159",
+      "id": "371162",
       "title": "Sapatilhas New Balance M1000 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1000-EA_1.jpg?1733849609",
       "gender": "male",
@@ -54063,6 +54135,41 @@
         "330257",
         "333921",
         "330254"
+      ]
+    },
+    {
+      "id": "386483",
+      "title": "Sapatilhas New Balance M1000 V1 Azuis e Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1000-P_1.jpg?1751386081",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "169.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376796",
+        "383660",
+        "376800",
+        "375455",
+        "383680"
+      ]
+    },
+    {
+      "id": "386500",
+      "title": "Sapatilhas New Balance M1000 V1 Castanhas e Prateadas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1000-N_1.jpg?1751386785",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "169.90",
+      "sale_price": null,
+      "sugestoes": [
+        "330400",
+        "376813",
+        "376644",
+        "383656"
       ]
     },
     {
@@ -56247,7 +56354,7 @@
         "349854",
         "378189",
         "366489",
-        "348865"
+        "348866"
       ]
     },
     {
@@ -56305,6 +56412,42 @@
       ]
     },
     {
+      "id": "386782",
+      "title": "Sapatilhas New Balance FuelCell Rebel v5 Castanhas e Bege Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MFCX-LY5_1.jpg?1751543200",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "290848",
+        "340986",
+        "340977",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "386803",
+      "title": "Sapatilhas New Balance FuelCell Rebel v5 Salmão e Brancas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MFCX-LV5_1.jpg?1751540685",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340977",
+        "340986",
+        "290848",
+        "341039",
+        "341051"
+      ]
+    },
+    {
       "id": "386110",
       "title": "Mini Bola Adidas Manchester United F. C. Match EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP3060_1.jpg?1750667732",
@@ -56355,7 +56498,7 @@
         "340977",
         "341039",
         "341051",
-        "375915"
+        "386639"
       ]
     },
     {
@@ -56387,11 +56530,11 @@
       "price": "69.90",
       "sale_price": "34.95",
       "sugestoes": [
+        "386747",
         "385544",
+        "386578",
         "386465",
-        "356269",
-        "326950",
-        "385417"
+        "356269"
       ]
     },
     {
@@ -56406,10 +56549,10 @@
       "sale_price": null,
       "sugestoes": [
         "385544",
+        "386578",
         "386465",
-        "385103",
-        "385413",
-        "385937"
+        "386747",
+        "385103"
       ]
     },
     {
@@ -56424,10 +56567,10 @@
       "sale_price": null,
       "sugestoes": [
         "385544",
+        "386747",
         "356269",
         "385937",
-        "385417",
-        "386465"
+        "386578"
       ]
     },
     {
@@ -56818,7 +56961,8 @@
       "sale_price": "37.64",
       "sugestoes": [
         "356206",
-        "386469"
+        "386469",
+        "386634"
       ]
     },
     {
@@ -56833,7 +56977,8 @@
       "sale_price": "37.64",
       "sugestoes": [
         "356206",
-        "386469"
+        "386469",
+        "386634"
       ]
     },
     {
@@ -56897,7 +57042,7 @@
       "sugestoes": []
     },
     {
-      "id": "253222",
+      "id": "253224",
       "title": "Sapatilhas New Balance MR530",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-EMA_1.jpg?1702902976",
       "gender": "unissex",
@@ -56934,7 +57079,7 @@
     },
     {
       "id": "302989",
-      "title": "Sapatilhas New Balance MR530",
+      "title": "Sapatilhas New Balance MR530 Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-AA_1.jpg?1710525313",
       "gender": "female",
       "site": "1",
@@ -56959,6 +57104,41 @@
       "brand": "New Balance",
       "price": "119.90",
       "sale_price": "71.94",
+      "sugestoes": [
+        "330400",
+        "376644",
+        "376813",
+        "383656"
+      ]
+    },
+    {
+      "id": "386534",
+      "title": "Sapatilhas New Balance MR530 Cinzentas e Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-ACS_1.jpg?1751444041",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "376834",
+        "330257",
+        "333921",
+        "330254"
+      ]
+    },
+    {
+      "id": "386549",
+      "title": "Sapatilhas New Balance MR530 Bege e Castanhas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-ASM_1.jpg?1751444636",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
       "sugestoes": [
         "330400",
         "376644",
@@ -57013,11 +57193,11 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
+        "386578",
         "385937",
         "385544",
         "386465",
-        "385417",
-        "386461"
+        "385417"
       ]
     },
     {
@@ -57032,10 +57212,10 @@
       "sale_price": null,
       "sugestoes": [
         "385417",
+        "386578",
         "385937",
         "385544",
-        "386465",
-        "386457"
+        "386465"
       ]
     },
     {
@@ -57051,9 +57231,9 @@
       "sugestoes": [
         "385544",
         "385937",
+        "386578",
         "385417",
-        "386465",
-        "386457"
+        "386465"
       ]
     },
     {
@@ -57205,11 +57385,11 @@
       "price": "89.90",
       "sale_price": "62.93",
       "sugestoes": [
+        "386634",
         "386469",
         "326579",
         "385099",
-        "326635",
-        "386457"
+        "326635"
       ]
     },
     {
@@ -57280,8 +57460,8 @@
         "386469",
         "326579",
         "385099",
-        "385413",
-        "356202"
+        "386634",
+        "385413"
       ]
     },
     {
@@ -57313,11 +57493,11 @@
       "price": "59.90",
       "sale_price": "41.93",
       "sugestoes": [
+        "386634",
         "386469",
         "385103",
         "385413",
-        "385950",
-        "385099"
+        "385950"
       ]
     },
     {
@@ -57339,6 +57519,24 @@
       ]
     },
     {
+      "id": "386681",
+      "title": "T-shirt New Balance F. C. Porto Logo EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231464-NVG_1.jpg?1751464767",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "36.99",
+      "sale_price": null,
+      "sugestoes": [
+        "386634",
+        "386469",
+        "326579",
+        "385103",
+        "385099"
+      ]
+    },
+    {
       "id": "356206",
       "title": "Polo New Balance Saída F. C. Porto EP24/25",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231467-BUL_1.jpg?1718968740",
@@ -57351,9 +57549,9 @@
       "sugestoes": [
         "355039",
         "356174",
+        "386743",
         "356184",
-        "326579",
-        "356202"
+        "326579"
       ]
     },
     {
@@ -57367,11 +57565,29 @@
       "price": "44.90",
       "sale_price": null,
       "sugestoes": [
+        "386681",
         "386452",
         "386461",
-        "369132",
-        "385544",
-        "386465"
+        "386573",
+        "386578"
+      ]
+    },
+    {
+      "id": "386634",
+      "title": "Polo New Balance Saída F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231467-NVG_1.jpg?1751465584",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Polos",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386681",
+        "386452",
+        "386573",
+        "386461",
+        "386578"
       ]
     },
     {
@@ -57386,15 +57602,33 @@
       "sale_price": null,
       "sugestoes": [
         "386469",
+        "386634",
         "326579",
         "385103",
+        "356184"
+      ]
+    },
+    {
+      "id": "386743",
+      "title": "Camisola de Treino New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231579-AZ_1.jpg?1751471111",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
         "356184",
-        "385099"
+        "356197",
+        "356202",
+        "356206",
+        "326579"
       ]
     },
     {
       "id": "386461",
-      "title": "Camisola New Balance F. C. Porto Lightweight EP25/26",
+      "title": "T-shirt New Balance F. C. Porto Lightweight EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231580-IKW_1.jpg?1751368124",
       "gender": "male",
       "site": "2",
@@ -57403,11 +57637,29 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
+        "386634",
         "386469",
         "385103",
         "385099",
-        "326579",
-        "385413"
+        "326579"
+      ]
+    },
+    {
+      "id": "386573",
+      "title": "T-shirt New Balance F. C. Porto Lightweight EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231580-NVG_1.jpg?1751463180",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "39.99",
+      "sale_price": null,
+      "sugestoes": [
+        "386634",
+        "386469",
+        "385099",
+        "385103",
+        "326579"
       ]
     },
     {
@@ -57442,8 +57694,8 @@
         "385099",
         "386457",
         "386469",
-        "326579",
-        "326635"
+        "386634",
+        "326579"
       ]
     },
     {
@@ -57457,11 +57709,47 @@
       "price": "69.90",
       "sale_price": null,
       "sugestoes": [
+        "386634",
         "386457",
         "386469",
         "385099",
-        "326635",
+        "326635"
+      ]
+    },
+    {
+      "id": "386578",
+      "title": "Camisola com Fecho New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231590-NVG_1.jpg?1751464017",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386634",
+        "386469",
+        "386457",
+        "385099",
         "385103"
+      ]
+    },
+    {
+      "id": "386747",
+      "title": "Camisola com Fecho New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231590-AZ_1.jpg?1751471820",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas de Clubes",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385099",
+        "326635",
+        "326579",
+        "356197",
+        "354815"
       ]
     },
     {
@@ -57509,9 +57797,9 @@
       "sugestoes": [
         "340986",
         "290848",
+        "386639",
         "378044",
-        "386444",
-        "372949"
+        "386669"
       ]
     },
     {
@@ -57527,9 +57815,9 @@
       "sugestoes": [
         "340986",
         "290848",
-        "378044",
-        "372949",
-        "386444"
+        "386639",
+        "386669",
+        "378044"
       ]
     },
     {
@@ -57545,9 +57833,9 @@
       "sugestoes": [
         "290848",
         "340986",
+        "386639",
         "378044",
-        "375803",
-        "386444"
+        "386669"
       ]
     },
     {
@@ -57923,7 +58211,7 @@
       "price": "119.90",
       "sale_price": null,
       "sugestoes": [
-        "348865",
+        "348866",
         "167670",
         "349854",
         "261399",
@@ -57941,7 +58229,7 @@
       "price": "119.90",
       "sale_price": "83.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "349854",
         "261497",
         "261399",
@@ -58012,6 +58300,18 @@
       "id": "378103",
       "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Verdes Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MTHIER-O9_1.jpg?1741352923",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386765",
+      "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Camel Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MTHIER-V9_1.jpg?1751550174",
       "gender": "male",
       "site": "2",
       "category": "Calçado > Trail > Sapatilhas",
@@ -58198,7 +58498,7 @@
       "sale_price": null,
       "sugestoes": [
         "357476",
-        "363090",
+        "363092",
         "380964",
         "363357",
         "380969"
@@ -58216,7 +58516,7 @@
       "sale_price": null,
       "sugestoes": [
         "357476",
-        "363090",
+        "363092",
         "363357",
         "260793",
         "380964"
@@ -58234,7 +58534,7 @@
       "sale_price": null,
       "sugestoes": [
         "357476",
-        "363090",
+        "363092",
         "307979",
         "380964",
         "307895"
@@ -58272,7 +58572,7 @@
         "357476",
         "380964",
         "346870",
-        "363090",
+        "363092",
         "260793"
       ]
     },
@@ -58432,7 +58732,7 @@
       "sale_price": null,
       "sugestoes": [
         "357476",
-        "363090",
+        "363092",
         "363357",
         "307979",
         "363100"
@@ -59450,7 +59750,7 @@
     },
     {
       "id": "385798",
-      "title": "Sapatilhas New Balance 2002 F. C. Porto Junior Wide Azuis",
+      "title": "Sapatilhas New Balance PC2002 F. C. Porto Wide Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PC2002-FP_1.jpg?1750072669",
       "gender": "unissex",
       "site": "1",
@@ -59462,6 +59762,24 @@
         "376834",
         "373264",
         "373289",
+        "330257",
+        "330254"
+      ]
+    },
+    {
+      "id": "386561",
+      "title": "Sapatilhas New Balance PC2002 V1 Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PC2002-RT_1.jpg?1751446955",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "333921",
+        "376834",
         "330257",
         "330254"
       ]
@@ -59504,7 +59822,7 @@
     },
     {
       "id": "355099",
-      "title": "Sapatilhas New Balance PC9060 V1",
+      "title": "Sapatilhas New Balance PC9060 V1 Cinzentas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PC9060-GY_1.jpg?1718290016",
       "gender": "unissex",
       "site": "1",
@@ -59518,6 +59836,24 @@
         "330254",
         "376834",
         "330269"
+      ]
+    },
+    {
+      "id": "386556",
+      "title": "Sapatilhas New Balance PC9060 V1 Castanhas e Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PC9060-EX_1.jpg?1751446215",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "333921",
+        "376834",
+        "330257",
+        "330254"
       ]
     },
     {
@@ -59842,6 +60178,24 @@
         "330269",
         "373289",
         "373264"
+      ]
+    },
+    {
+      "id": "386603",
+      "title": "Sapatilhas New Balance PH370 V1 Azuis e Brancas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PH370-AG_1.jpg?1751454894",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376834",
+        "373264",
+        "330254",
+        "330269",
+        "330257"
       ]
     },
     {
@@ -64438,8 +64792,8 @@
     },
     {
       "id": "319393",
-      "title": "Sapatilhas New Balance PZ530",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PZ530-CB_1.jpg?1682585831",
+      "title": "Sapatilhas New Balance PZ530 V1 Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PZ530-CB_1.jpg?1751466063",
       "gender": "unissex",
       "site": "1",
       "category": "Calçado > Sapatilhas",
@@ -64450,8 +64804,8 @@
         "376834",
         "373264",
         "333921",
-        "330257",
-        "330254"
+        "330254",
+        "330269"
       ]
     },
     {
@@ -64474,8 +64828,8 @@
     },
     {
       "id": "342424",
-      "title": "Sapatilhas New Balance PZ530 V1",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PZ530-SB1_1.jpg?1706273101",
+      "title": "Sapatilhas New Balance PZ530 V1 Brancas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PZ530-SB1_1.jpg?1751539104",
       "gender": "unissex",
       "site": "1",
       "category": "Calçado > Sapatilhas",
@@ -65950,6 +66304,24 @@
         "377926",
         "377766",
         "378283"
+      ]
+    },
+    {
+      "id": "386774",
+      "title": "Sapatilhas Adidas Barreda Decode EL C Cinzentas e Brancas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JQ8850_1.jpg?1751551557",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "360480",
+        "358483",
+        "314457",
+        "358643",
+        "351564"
       ]
     },
     {
@@ -67479,7 +67851,7 @@
         "337800",
         "341254",
         "341258",
-        "377325"
+        "377332"
       ]
     },
     {
@@ -67543,7 +67915,7 @@
       "sugestoes": []
     },
     {
-      "id": "379561",
+      "id": "379560",
       "title": "Sapatilhas Adidas Courtjam Control 3 M Brancas e Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI4236_1.jpg?1743091880",
       "gender": "male",
@@ -67567,7 +67939,7 @@
       "sugestoes": []
     },
     {
-      "id": "386418",
+      "id": "386419",
       "title": "Sapatilhas Adidas Crazyquick LS Padel M Brancas e Vermelhas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE3924_1.jpg?1751037056",
       "gender": "male",
@@ -67594,6 +67966,18 @@
       "id": "386395",
       "title": "Sapatilhas Adidas Courtquick Padel M Brancas e Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP7232_1.jpg?1751026689",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "79.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386755",
+      "title": "Sapatilhas Adidas Courtquick Padel M Brancas e Vermelhas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE3925_1.jpg?1751535892",
       "gender": "male",
       "site": "2",
       "category": "Calçado > Padel & Ténis > Sapatilhas",
@@ -69389,6 +69773,18 @@
       "sugestoes": []
     },
     {
+      "id": "386428",
+      "title": "Sapatilhas Adidas Lightstrike Crazyquick Padel W Cinzentas e Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR9325_1.jpg?1751037863",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Padel & Ténis > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "120.00",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "305709",
       "title": "Sapatilhas Adidas Predator Accuracy.4 IN",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FZ6117_1.jpg?1675958739",
@@ -70549,9 +70945,45 @@
       ]
     },
     {
+      "id": "386731",
+      "title": "Sapatilhas Adidas Tensaur Sport 2.0 CF C Azuis",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE0922_1.jpg?1751468615",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "37.99",
+      "sale_price": null,
+      "sugestoes": [
+        "358483",
+        "360480",
+        "319806",
+        "327862",
+        "358643"
+      ]
+    },
+    {
       "id": "386243",
       "title": "Sapatilhas Adidas Tensaur Sport 2.0 CF I Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF1734_1.jpg?1751020803",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "32.99",
+      "sale_price": null,
+      "sugestoes": [
+        "360480",
+        "358483",
+        "358643",
+        "319806",
+        "351564"
+      ]
+    },
+    {
+      "id": "386695",
+      "title": "Sapatilhas Adidas Tensaur Sport 2.0 CF I Brancas e Azuis",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF1735_1.jpg?1751467395",
       "gender": "unissex",
       "site": "1",
       "category": "Calçado > Sapatilhas",
@@ -70813,6 +71245,24 @@
         "358483",
         "351564",
         "314457"
+      ]
+    },
+    {
+      "id": "386594",
+      "title": "Sapatilhas Adidas VL Court 3.0 Brancas e Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR8635_1.jpg?1751453361",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "333856",
+        "334307",
+        "340648",
+        "347414",
+        "302403"
       ]
     },
     {
@@ -71082,7 +71532,7 @@
         "341468",
         "350476",
         "341293",
-        "377325"
+        "377332"
       ]
     },
     {
@@ -71198,7 +71648,7 @@
       "price": "94.90",
       "sale_price": "66.43",
       "sugestoes": [
-        "348865",
+        "348866",
         "261399",
         "261497",
         "349854",
@@ -71217,7 +71667,7 @@
       "sale_price": null,
       "sugestoes": [
         "261399",
-        "348865",
+        "348866",
         "349854",
         "261497",
         "384964"
@@ -71253,7 +71703,7 @@
       "sale_price": null,
       "sugestoes": [
         "261399",
-        "348865",
+        "348866",
         "192338",
         "261497",
         "349854"
@@ -71368,7 +71818,7 @@
       "price": "94.90",
       "sale_price": null,
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "192338",
         "167670",
@@ -71506,7 +71956,7 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
-        "348865",
+        "348866",
         "349854",
         "261497",
         "167670",
@@ -71524,7 +71974,7 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
-        "348865",
+        "348866",
         "349854",
         "261497",
         "261399",
@@ -71748,7 +72198,7 @@
       "price": "94.90",
       "sale_price": "66.43",
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "349854",
         "167670",
@@ -71802,7 +72252,7 @@
       "price": "99.90",
       "sale_price": "69.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "261399",
         "349854",
         "261497",
@@ -71820,7 +72270,7 @@
       "price": "139.90",
       "sale_price": "97.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "349854",
         "261399",
         "261497",
@@ -71838,7 +72288,7 @@
       "price": "139.90",
       "sale_price": "97.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "261399",
         "349854",
         "261497",
@@ -71856,7 +72306,7 @@
       "price": "134.90",
       "sale_price": "94.43",
       "sugestoes": [
-        "348865",
+        "348866",
         "349854",
         "261497",
         "261399",
@@ -71892,7 +72342,7 @@
       "price": "79.90",
       "sale_price": "55.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "349854",
         "192338",
@@ -72006,7 +72456,7 @@
       "price": "79.90",
       "sale_price": "55.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "349854",
         "261399",
@@ -72042,7 +72492,7 @@
       "price": "99.90",
       "sale_price": "59.94",
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "349854",
         "261399",
@@ -72150,7 +72600,7 @@
       "price": "84.90",
       "sale_price": "59.43",
       "sugestoes": [
-        "348865",
+        "348866",
         "349854",
         "261399",
         "261497",
@@ -72444,7 +72894,7 @@
       "price": "139.90",
       "sale_price": "97.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "261399",
         "349854",
         "261497",
@@ -72972,8 +73422,8 @@
         "385462",
         "373751",
         "385408",
-        "354820",
-        "385090"
+        "386739",
+        "354820"
       ]
     },
     {
@@ -73561,7 +74011,7 @@
         "383161",
         "372498",
         "359722",
-        "230441"
+        "230442"
       ]
     },
     {
@@ -74663,7 +75113,7 @@
         "349854",
         "384968",
         "385560",
-        "348865"
+        "348866"
       ]
     },
     {
@@ -74951,7 +75401,7 @@
       ]
     },
     {
-      "id": "347866",
+      "id": "347863",
       "title": "T-shirt The North Face Redbox Celebration",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A87NVFN4_1.jpg?1715262828",
       "gender": "male",
@@ -75377,7 +75827,7 @@
       "sugestoes": [
         "349854",
         "261497",
-        "348865",
+        "348866",
         "384968",
         "385560"
       ]
@@ -75397,7 +75847,7 @@
         "261497",
         "349854",
         "385560",
-        "348865"
+        "348866"
       ]
     },
     {
@@ -76598,6 +77048,24 @@
       ]
     },
     {
+      "id": "386490",
+      "title": "Sapatilhas New Balance 2002 Azuis e Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U2002-RU_1.jpg?1751386235",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376796",
+        "375455",
+        "383660",
+        "383680",
+        "376800"
+      ]
+    },
+    {
       "id": "371730",
       "title": "Sapatilhas New Balance 327 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U327-LT_1.jpg?1735828702",
@@ -76647,6 +77115,42 @@
         "376936",
         "383660",
         "377081",
+        "375455"
+      ]
+    },
+    {
+      "id": "386473",
+      "title": "Sapatilhas New Balance 327 V1 Castanhas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U327-LNC_1.jpg?1751384213",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376796",
+        "383660",
+        "383680",
+        "375455",
+        "376936"
+      ]
+    },
+    {
+      "id": "386713",
+      "title": "Sapatilhas New Balance 327 V1 Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U327-LND_1.jpg?1751468275",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376796",
+        "383660",
+        "376917",
+        "376623",
         "375455"
       ]
     },
@@ -76755,6 +77259,24 @@
         "383660",
         "383680",
         "383668",
+        "375455"
+      ]
+    },
+    {
+      "id": "386608",
+      "title": "Sapatilhas New Balance U471 V1 Bege e Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U471-KAA_1.jpg?1751455835",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376796",
+        "383668",
+        "383660",
+        "383652",
         "375455"
       ]
     },
@@ -76871,6 +77393,24 @@
       "brand": "New Balance",
       "price": "119.90",
       "sale_price": "83.93",
+      "sugestoes": [
+        "376796",
+        "383660",
+        "375455",
+        "383680",
+        "383668"
+      ]
+    },
+    {
+      "id": "386505",
+      "title": "Sapatilhas New Balance U574 V2 Castanhas e Amarelas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U574-BYW_1.jpg?1751387533",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
       "sugestoes": [
         "376796",
         "383660",
@@ -77233,7 +77773,7 @@
       ]
     },
     {
-      "id": "379660",
+      "id": "379659",
       "title": "Sapatilhas New Balance U9060 V1 Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-EEK_1.jpg?1743410156",
       "gender": "unissex",
@@ -77266,6 +77806,76 @@
         "333921",
         "330254",
         "376834"
+      ]
+    },
+    {
+      "id": "386514",
+      "title": "Sapatilhas New Balance U9060 V1 Pretas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-IMA_1.jpg?1751387995",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383656",
+        "376813",
+        "376644",
+        "330400"
+      ]
+    },
+    {
+      "id": "386521",
+      "title": "Sapatilhas New Balance U9060 V1 Bege e Vermelhas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-PSD_1.jpg?1751388716",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "333921",
+        "376834",
+        "330257",
+        "330254"
+      ]
+    },
+    {
+      "id": "386618",
+      "title": "Sapatilhas New Balance U9060 V1 Cinzentas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-ERD_1.jpg?1751456977",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "376834",
+        "333921",
+        "330254",
+        "330269"
+      ]
+    },
+    {
+      "id": "386685",
+      "title": "Sapatilhas New Balance U9060 V1 Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-ERB_1.jpg?1751457463",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": [
+        "376644",
+        "376813",
+        "383656",
+        "330400"
       ]
     },
     {
@@ -77477,6 +78087,66 @@
       ]
     },
     {
+      "id": "386651",
+      "title": "Sapatilhas New Balance Fresh Foam Trainer Bege e Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/UTRN-AE_1.jpg?1751458896",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386660",
+      "title": "Sapatilhas New Balance Fresh Foam Trainer Brancas e Verdes Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/UTRN-AF_1.jpg?1751463765",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386669",
+      "title": "Sapatilhas New Balance Fresh Foam Trainer Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/UTRN-AA_1.jpg?1751466473",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340986",
+        "290848",
+        "340977",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "386639",
+      "title": "Sapatilhas New Balance Fresh Foam Trainer Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/UTRN-AB_1.jpg?1751458055",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340986",
+        "290848",
+        "340977",
+        "341039",
+        "341051"
+      ]
+    },
+    {
       "id": "363171",
       "title": "Sapatilhas New Balance WRPD RUNNER V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/UWRPD-NBS_1.jpg?1723557054",
@@ -77586,7 +78256,7 @@
       "sale_price": "69.93",
       "sugestoes": [
         "261399",
-        "348865",
+        "348866",
         "349854",
         "261497",
         "192338"
@@ -77603,7 +78273,7 @@
       "price": "99.90",
       "sale_price": "69.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "349854",
         "261399",
@@ -77621,7 +78291,7 @@
       "price": "99.90",
       "sale_price": "69.93",
       "sugestoes": [
-        "348865",
+        "348866",
         "192338",
         "167670",
         "261497",
@@ -77765,7 +78435,7 @@
       "price": "84.90",
       "sale_price": "59.43",
       "sugestoes": [
-        "348865",
+        "348866",
         "261497",
         "261399",
         "349854",
@@ -77910,7 +78580,7 @@
       "sale_price": null,
       "sugestoes": [
         "261399",
-        "348865",
+        "348866",
         "261497",
         "349854",
         "192338"
@@ -77941,7 +78611,7 @@
       "sugestoes": []
     },
     {
-      "id": "348865",
+      "id": "348866",
       "title": "Calções de Banho Vans Primary Solid Elastic",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/VN000G75P8X1_1.jpg?1710931461",
       "gender": "male",
@@ -78121,7 +78791,7 @@
       "sugestoes": [
         "349854",
         "261497",
-        "348865",
+        "348866",
         "384968",
         "385560"
       ]
@@ -78140,7 +78810,7 @@
         "349854",
         "384968",
         "261497",
-        "348865",
+        "348866",
         "385560"
       ]
     },
@@ -78355,7 +79025,7 @@
       "sugestoes": [
         "349854",
         "261497",
-        "348865",
+        "348866",
         "385560",
         "384968"
       ]
@@ -78373,7 +79043,7 @@
       "sugestoes": [
         "261497",
         "349854",
-        "348865",
+        "348866",
         "384968",
         "385560"
       ]
@@ -78393,7 +79063,7 @@
         "384968",
         "261497",
         "385560",
-        "348865"
+        "348866"
       ]
     },
     {
@@ -78482,7 +79152,7 @@
         "261497",
         "385560",
         "349854",
-        "348865",
+        "348866",
         "384968"
       ]
     },
@@ -78601,6 +79271,18 @@
       "sugestoes": []
     },
     {
+      "id": "386583",
+      "title": "Sapatilhas New Balance Fresh Foam Arishi v4 TIRALUX Bege Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WARIS-TG4_1.jpg?1751452892",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "375664",
       "title": "Sutiã Desportivo New Balance Essential Train Suporte Médio Preto",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WB51035-0BK_1.jpg?1738930142",
@@ -78711,6 +79393,18 @@
       "category": "Calçado > Running > Sapatilhas",
       "brand": "New Balance",
       "price": "129.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386797",
+      "title": "Sapatilhas New Balance FuelCell Rebel v5 Castanhas e Bege Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WFCX-LJ5_1.jpg?1751544963",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
       "sale_price": null,
       "sugestoes": []
     },
@@ -79142,8 +79836,8 @@
         "376644",
         "330400",
         "383656",
-        "338651",
-        "342625"
+        "386514",
+        "338651"
       ]
     },
     {
@@ -79161,7 +79855,7 @@
         "383656",
         "330400",
         "338651",
-        "379635"
+        "386514"
       ]
     },
     {
@@ -79180,6 +79874,18 @@
       "id": "379589",
       "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Laranja Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WTHIER-G9_1.jpg?1743158290",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386790",
+      "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Camel Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WTHIER-V9_1.jpg?1751551859",
       "gender": "female",
       "site": "2",
       "category": "Calçado > Trail > Sapatilhas",
