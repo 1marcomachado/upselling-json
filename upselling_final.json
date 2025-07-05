@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-04T06:46:14.512221",
+  "gerado_em": "2025-07-05T06:36:35.338275",
   "produtos": [
     {
       "id": "365143",
@@ -4185,7 +4185,7 @@
         "341707",
         "341712",
         "372241",
-        "378151",
+        "378152",
         "372227"
       ]
     },
@@ -4203,7 +4203,7 @@
         "341707",
         "378872",
         "341712",
-        "378151",
+        "378152",
         "377368"
       ]
     },
@@ -4311,7 +4311,7 @@
         "376768",
         "376763",
         "347740",
-        "378151",
+        "378152",
         "319596"
       ]
     },
@@ -4438,7 +4438,7 @@
         "341712",
         "372241",
         "377368",
-        "378151"
+        "378152"
       ]
     },
     {
@@ -4676,7 +4676,7 @@
       ]
     },
     {
-      "id": "378151",
+      "id": "378152",
       "title": "Saia de Ganga Midi Only ONLLumi Back Slit Azul",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/15339976-MBD_1.jpg?1741349319",
       "gender": "female",
@@ -9347,7 +9347,7 @@
         "378527",
         "320362",
         "378534",
-        "314321",
+        "314324",
         "181015"
       ]
     },
@@ -9944,7 +9944,7 @@
       "price": "37.90",
       "sale_price": null,
       "sugestoes": [
-        "314321",
+        "314324",
         "351070",
         "1407",
         "1442",
@@ -9962,7 +9962,7 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
-        "314321",
+        "314324",
         "351070",
         "1442",
         "212602",
@@ -10222,7 +10222,7 @@
       ]
     },
     {
-      "id": "314321",
+      "id": "314324",
       "title": "Sapatilhas Havaianas TNS Canvas Roots",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/4148366-0001_1.jpg?1680771228",
       "gender": "unissex",
@@ -17146,7 +17146,7 @@
       "sugestoes": []
     },
     {
-      "id": "346115",
+      "id": "346111",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Kids Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/552903_1.jpg?1708964998",
       "gender": "unissex",
@@ -17222,6 +17222,18 @@
       "title": "Chinelos Birkenstock Arizona Couro em Camurça Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030916_1.jpg?1751015888",
       "gender": "male",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386899",
+      "title": "Chinelos Birkenstock Arizona Couro em Camurça Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1025720_1.jpg?1751631925",
+      "gender": "female",
       "site": "1",
       "category": "Calçado > Chinelos",
       "brand": "Birkenstock",
@@ -17424,7 +17436,7 @@
     {
       "id": "328731",
       "title": "Chinelos Birkenstock Arizona Oiled Leather Castanhos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/0052531_1.jpg?1689587024",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/0052531_1.jpg?1751616505",
       "gender": "male",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -17508,7 +17520,7 @@
     {
       "id": "328736",
       "title": "Chinelos Birkenstock Boston Oiled Leather Castanhos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/860131_1.jpg?1689588760",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/860131_1.jpg?1751619925",
       "gender": "male",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -17531,8 +17543,8 @@
     },
     {
       "id": "329484",
-      "title": "Chinelos Birkenstock Boston Oiled Leather Castanhos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/960811_1.jpg?1722931369",
+      "title": "Chinelos Birkenstock Boston Oiled Leather Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/960811_1.jpg?1751617767",
       "gender": "male",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -19096,9 +19108,9 @@
       "sugestoes": [
         "328736",
         "329484",
+        "386862",
         "311833",
-        "316313",
-        "346082"
+        "316313"
       ]
     },
     {
@@ -21454,7 +21466,7 @@
         "327561",
         "327592",
         "376840",
-        "385926"
+        "385927"
       ]
     },
     {
@@ -21472,7 +21484,7 @@
         "327561",
         "384845",
         "327569",
-        "385926"
+        "385927"
       ]
     },
     {
@@ -21523,7 +21535,7 @@
       "sale_price": null,
       "sugestoes": [
         "327569",
-        "385926",
+        "385927",
         "288402",
         "376840",
         "288400"
@@ -21544,7 +21556,7 @@
         "327569",
         "288402",
         "385738",
-        "385926"
+        "385927"
       ]
     },
     {
@@ -21579,7 +21591,7 @@
         "327569",
         "376840",
         "288400",
-        "385926",
+        "385927",
         "288402"
       ]
     },
@@ -21597,7 +21609,7 @@
         "288402",
         "327561",
         "327569",
-        "385926",
+        "385927",
         "384325"
       ]
     },
@@ -21616,7 +21628,7 @@
         "384845",
         "384325",
         "345531",
-        "385926"
+        "385927"
       ]
     },
     {
@@ -21630,7 +21642,7 @@
       "price": "24.99",
       "sale_price": null,
       "sugestoes": [
-        "385926",
+        "385927",
         "288400",
         "363391",
         "327592",
@@ -21651,7 +21663,7 @@
         "376840",
         "363391",
         "305516",
-        "385926",
+        "385927",
         "327561"
       ]
     },
@@ -21667,7 +21679,7 @@
       "sale_price": "17.49",
       "sugestoes": [
         "288402",
-        "385926",
+        "385927",
         "384325",
         "384845",
         "376840"
@@ -21686,7 +21698,7 @@
       "sugestoes": [
         "288402",
         "376840",
-        "385926",
+        "385927",
         "327569",
         "345531"
       ]
@@ -21702,7 +21714,7 @@
       "price": "59.90",
       "sale_price": "41.93",
       "sugestoes": [
-        "385926",
+        "385927",
         "288402",
         "327561",
         "327569",
@@ -21720,7 +21732,7 @@
       "price": "24.99",
       "sale_price": "17.49",
       "sugestoes": [
-        "385926",
+        "385927",
         "288400",
         "327569",
         "288402",
@@ -23051,7 +23063,7 @@
     {
       "id": "7293",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Castanhos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/051701_1.jpg?1680526369",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/051701_1.jpg?1751630447",
       "gender": "male",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -23217,6 +23229,30 @@
       "sugestoes": []
     },
     {
+      "id": "386907",
+      "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030863_1.jpg?1751631038",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386917",
+      "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030865_1.jpg?1751631038",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "310162",
       "title": "Chinelos Birkenstock Barbados Eva",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1015399_1.jpg?1680104836",
@@ -23241,6 +23277,30 @@
       "sugestoes": []
     },
     {
+      "id": "386850",
+      "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030861_1.jpg?1751623389",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386862",
+      "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030814_1.jpg?1751623389",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "358520",
       "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1025788_1.jpg?1721644320",
@@ -23256,6 +23316,42 @@
       "id": "359544",
       "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1025844_1.jpg?1721644320",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386856",
+      "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1024721_1.jpg?1751625027",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386841",
+      "title": "Chinelos Birkenstock Boston Couro em Camurça Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030883_1.jpg?1751626296",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386868",
+      "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1024714_1.jpg?1751624737",
       "gender": "female",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -25976,6 +26072,24 @@
       ]
     },
     {
+      "id": "1395",
+      "title": "Spray Crep Protect Cure 200 ML",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/3809930000_1.jpg?1705926584",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Acessórios > Limpeza Calçado",
+      "brand": "Crep Protect",
+      "price": "15.00",
+      "sale_price": null,
+      "sugestoes": [
+        "1760",
+        "1759",
+        "308000",
+        "228319",
+        "384336"
+      ]
+    },
+    {
       "id": "341056",
       "title": "Solução Crep Protect Cure Refill V2.0 250 ML",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/5056243301867_1.jpg?1705334382",
@@ -26859,7 +26973,7 @@
       "sugestoes": []
     },
     {
-      "id": "247377",
+      "id": "247378",
       "title": "Sapatilhas Nike Blazer Mid 77",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DA4086-100_1.jpg?1652720004",
       "gender": "unissex",
@@ -35235,7 +35349,7 @@
       "sugestoes": [
         "131613",
         "159452",
-        "247377",
+        "247378",
         "338421",
         "153674"
       ]
@@ -41310,7 +41424,7 @@
       ]
     },
     {
-      "id": "377502",
+      "id": "377504",
       "title": "Sapatilhas New Balance GR740 V1 Brancas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GR740-WM_1.jpg?1740673855",
       "gender": "unissex",
@@ -48064,7 +48178,7 @@
       "sale_price": null,
       "sugestoes": [
         "349369",
-        "349333",
+        "349334",
         "376732",
         "373274",
         "308913"
@@ -48461,7 +48575,7 @@
       "sugestoes": []
     },
     {
-      "id": "349333",
+      "id": "349334",
       "title": "Calções de Ganga Carhartt WIP Brandon Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I031921.01.06_1.jpg?1715600522",
       "gender": "male",
@@ -50441,7 +50555,7 @@
       "sugestoes": [
         "378722",
         "377364",
-        "349333",
+        "349334",
         "349359",
         "377993"
       ]
@@ -51620,6 +51734,24 @@
         "370003",
         "373274",
         "385129"
+      ]
+    },
+    {
+      "id": "386883",
+      "title": "Calças Carhartt WIP Double Knee Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035556.07E.5F_1.jpg?1751630046",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Calças",
+      "brand": "Carhartt WIP",
+      "price": "159.00",
+      "sale_price": null,
+      "sugestoes": [
+        "385124",
+        "376732",
+        "373274",
+        "376213",
+        "345218"
       ]
     },
     {
@@ -52894,7 +53026,7 @@
       "sugestoes": [
         "383196",
         "381551",
-        "384286",
+        "384287",
         "384875",
         "345900"
       ]
@@ -52914,11 +53046,11 @@
         "382944",
         "381570",
         "383084",
-        "384286"
+        "384287"
       ]
     },
     {
-      "id": "384282",
+      "id": "384283",
       "title": "Casaco Fred Perry Chenille Tape Track Verde",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/J9051-Q20_1.jpg?1746809529",
       "gender": "male",
@@ -52928,7 +53060,7 @@
       "price": "169.90",
       "sale_price": null,
       "sugestoes": [
-        "384286",
+        "384287",
         "383245",
         "382944",
         "382960",
@@ -53216,7 +53348,7 @@
       "price": "149.90",
       "sale_price": null,
       "sugestoes": [
-        "384286",
+        "384287",
         "383196",
         "381413",
         "381494",
@@ -53270,7 +53402,7 @@
       "price": "159.90",
       "sale_price": null,
       "sugestoes": [
-        "384286",
+        "384287",
         "384208",
         "382952",
         "384871",
@@ -53290,7 +53422,7 @@
       "sugestoes": [
         "382956",
         "381545",
-        "384286",
+        "384287",
         "382952",
         "384208"
       ]
@@ -53306,7 +53438,7 @@
       "price": "169.90",
       "sale_price": null,
       "sugestoes": [
-        "384286",
+        "384287",
         "384894",
         "383239",
         "384871",
@@ -53476,7 +53608,7 @@
         "334566",
         "330254",
         "358283",
-        "355084"
+        "355083"
       ]
     },
     {
@@ -53876,7 +54008,7 @@
       ]
     },
     {
-      "id": "385926",
+      "id": "385927",
       "title": "Luvas de Guarda-Redes Adidas Predator Pro",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JZ5787_1.jpg?1750245116",
       "gender": "unissex",
@@ -54205,6 +54337,42 @@
         "340986",
         "341039",
         "290848",
+        "341051"
+      ]
+    },
+    {
+      "id": "386812",
+      "title": "Sapatilhas New Balance Fresh Foam X 1080 v14 Cinzentas e Brancas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1080-14F_1.jpg?1751555557",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": [
+        "290848",
+        "340986",
+        "340977",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "386923",
+      "title": "Sapatilhas New Balance Fresh Foam X 1080 v14 Salmão e Brancas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1080-14P_1.jpg?1751632217",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": [
+        "290848",
+        "340986",
+        "340977",
+        "341039",
         "341051"
       ]
     },
@@ -54673,7 +54841,7 @@
         "381581",
         "381586",
         "382901",
-        "384286"
+        "384287"
       ]
     },
     {
@@ -55049,7 +55217,7 @@
       "sugestoes": [
         "384208",
         "381545",
-        "384286",
+        "384287",
         "384871",
         "344628"
       ]
@@ -55230,7 +55398,7 @@
         "381749",
         "381564",
         "381551",
-        "384286",
+        "384287",
         "382936"
       ]
     },
@@ -55263,9 +55431,9 @@
       "price": "129.90",
       "sale_price": null,
       "sugestoes": [
-        "384286",
+        "384287",
         "344628",
-        "384282",
+        "384283",
         "384894",
         "384278"
       ]
@@ -55307,6 +55475,42 @@
       ]
     },
     {
+      "id": "386875",
+      "title": "Sapatilhas de Running New Balance Fresh Foam X 880 v15 Narrow Azuis e Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M880-I15_1.jpg?1751630142",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340986",
+        "340977",
+        "290848",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "386890",
+      "title": "Sapatilhas de Running New Balance Fresh Foam X 880 v15 Narrow Cinzentas e Amarelas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M880-J15_1.jpg?1751630574",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340986",
+        "340977",
+        "290848",
+        "341039",
+        "341051"
+      ]
+    },
+    {
       "id": "382952",
       "title": "T-shirt Fred Perry Fine Stripe Às Riscas Branca e Verde",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M9851-760_1.jpg?1745407448",
@@ -55337,7 +55541,7 @@
       "sugestoes": [
         "384875",
         "381551",
-        "384286",
+        "384287",
         "381739",
         "383196"
       ]
@@ -55357,7 +55561,7 @@
         "365040",
         "384871",
         "381498",
-        "384286"
+        "384287"
       ]
     },
     {
@@ -55445,7 +55649,7 @@
       "sugestoes": [
         "384289",
         "381481",
-        "384282",
+        "384283",
         "382944",
         "90527"
       ]
@@ -55464,12 +55668,12 @@
         "382956",
         "381545",
         "384208",
-        "384286",
+        "384287",
         "382952"
       ]
     },
     {
-      "id": "384286",
+      "id": "384287",
       "title": "Camisa Polo Fred Perry Chenille Tape Verde",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M9907-Q20_1.jpg?1746809650",
       "gender": "male",
@@ -55481,7 +55685,7 @@
       "sugestoes": [
         "383239",
         "383196",
-        "384282",
+        "384283",
         "382944",
         "381425"
       ]
@@ -55534,7 +55738,7 @@
       "sale_price": null,
       "sugestoes": [
         "382956",
-        "384286",
+        "384287",
         "384208",
         "383239",
         "382952"
@@ -55996,7 +56200,7 @@
         "305415",
         "340122",
         "385404",
-        "385926",
+        "385927",
         "327524"
       ]
     },
@@ -56403,6 +56607,42 @@
       "brand": "New Balance",
       "price": "129.90",
       "sale_price": "103.92",
+      "sugestoes": [
+        "340986",
+        "340977",
+        "290848",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "386930",
+      "title": "Sapatilhas de Running New Balance Fuelcell Propel v5 Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MFCPR-CV5_1.jpg?1751636841",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340977",
+        "340986",
+        "290848",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "386939",
+      "title": "Sapatilhas de Running New Balance Fuelcell Propel v5 Bege e Verdes Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MFCPR-CA5_1.jpg?1751638220",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "129.90",
+      "sale_price": null,
       "sugestoes": [
         "340986",
         "340977",
@@ -58446,7 +58686,7 @@
       "sale_price": null,
       "sugestoes": [
         "334566",
-        "355084",
+        "355083",
         "364690",
         "340922",
         "360020"
@@ -58883,7 +59123,7 @@
       ]
     },
     {
-      "id": "355084",
+      "id": "355083",
       "title": "Sapatilhas New Balance NW327 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NW327-KB_1.jpg?1718286420",
       "gender": "unissex",
@@ -66224,8 +66464,8 @@
         "12834",
         "316313",
         "7293",
-        "328731",
-        "328736"
+        "328736",
+        "318783"
       ]
     },
     {
@@ -68315,7 +68555,7 @@
       ]
     },
     {
-      "id": "219015",
+      "id": "347693",
       "title": "Sapatilhas Adidas Gazelle",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BB5498_1.jpg?1709824226",
       "gender": "male",
@@ -69743,7 +69983,7 @@
       "sugestoes": []
     },
     {
-      "id": "355252",
+      "id": "355253",
       "title": "Sapatilhas Adidas Ozmillen Cinzentas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF3448_1.jpg?1718379836",
       "gender": "male",
@@ -71838,7 +72078,7 @@
       "sugestoes": []
     },
     {
-      "id": "262816",
+      "id": "262815",
       "title": "Sapatilhas Le Coq Sportif Lcs R1000 Bijoux W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/2220236_1.jpg?1667900470",
       "gender": "female",
@@ -79175,6 +79415,18 @@
       ]
     },
     {
+      "id": "386820",
+      "title": "Sapatilhas New Balance Fresh Foam X 1080 v14 Cinzentas e Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/W1080-14E_1.jpg?1751554269",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "189.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "375922",
       "title": "Sapatilhas New Balance Fresh Foam 520 v9 Pretas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/W520-LK9_1.jpg?1739190870",
@@ -79397,6 +79649,18 @@
       "sugestoes": []
     },
     {
+      "id": "386948",
+      "title": "Sapatilhas de Running New Balance Fuelcell Propel v5 Bege e Rosa Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WFCPR-CS5_1.jpg?1751638738",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "386797",
       "title": "Sapatilhas New Balance FuelCell Rebel v5 Castanhas e Bege Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WFCX-LJ5_1.jpg?1751544963",
@@ -79516,6 +79780,18 @@
       "category": "Calçado > Running > Sapatilhas",
       "brand": "New Balance",
       "price": "119.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "386826",
+      "title": "Sapatilhas de Running New Balance Fresh Foam X More v6 Bege Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WMOR-LB6_1.jpg?1751561557",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "169.90",
       "sale_price": null,
       "sugestoes": []
     },
@@ -79857,6 +80133,18 @@
         "338651",
         "386514"
       ]
+    },
+    {
+      "id": "386832",
+      "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Bordeaux Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WTGARO-C2_1.jpg?1751562064",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": []
     },
     {
       "id": "377946",
