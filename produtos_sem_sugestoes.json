@@ -2950,7 +2950,7 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
   },
   {
-    "id": "346115",
+    "id": "346111",
     "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Kids Azuis",
     "category": "Calçado > Chinelos",
     "brand": "Birkenstock",
@@ -3016,6 +3016,16 @@
     "brand": "Birkenstock",
     "site": "1",
     "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
+    "id": "386899",
+    "title": "Chinelos Birkenstock Arizona Couro em Camurça Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
   },
@@ -3271,7 +3281,7 @@
   },
   {
     "id": "329484",
-    "title": "Chinelos Birkenstock Boston Oiled Leather Castanhos",
+    "title": "Chinelos Birkenstock Boston Oiled Leather Bege",
     "category": "Calçado > Chinelos",
     "brand": "Birkenstock",
     "site": "1",
@@ -4360,6 +4370,26 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
   },
   {
+    "id": "386907",
+    "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
+    "id": "386917",
+    "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
     "id": "310162",
     "title": "Chinelos Birkenstock Barbados Eva",
     "category": "Calçado > Chinelos",
@@ -4380,6 +4410,26 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
   },
   {
+    "id": "386850",
+    "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
+    "id": "386862",
+    "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
     "id": "358520",
     "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
     "category": "Calçado > Chinelos",
@@ -4391,6 +4441,36 @@
   },
   {
     "id": "359544",
+    "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
+    "id": "386856",
+    "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
+    "id": "386841",
+    "title": "Chinelos Birkenstock Boston Couro em Camurça Bege",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
+  },
+  {
+    "id": "386868",
     "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
     "category": "Calçado > Chinelos",
     "brand": "Birkenstock",
@@ -6460,7 +6540,7 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Calções'"
   },
   {
-    "id": "349333",
+    "id": "349334",
     "title": "Calções de Ganga Carhartt WIP Brandon Azuis",
     "category": "Roupa > Calções",
     "brand": "Carhartt WIP",
@@ -8300,7 +8380,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "262816",
+    "id": "262815",
     "title": "Sapatilhas Le Coq Sportif Lcs R1000 Bijoux W",
     "category": "Calçado > Sapatilhas",
     "brand": "Le Coq Sportif",
@@ -8800,6 +8880,16 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Calções'"
   },
   {
+    "id": "386820",
+    "title": "Sapatilhas New Balance Fresh Foam X 1080 v14 Cinzentas e Brancas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "375922",
     "title": "Sapatilhas New Balance Fresh Foam 520 v9 Pretas Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
@@ -8910,6 +9000,16 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "386948",
+    "title": "Sapatilhas de Running New Balance Fuelcell Propel v5 Bege e Rosa Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "386797",
     "title": "Sapatilhas New Balance FuelCell Rebel v5 Castanhas e Bege Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
@@ -8942,6 +9042,16 @@
   {
     "id": "377161",
     "title": "Sapatilhas New Balance Fresh Foam X Kaiha Road v1 Brancas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386826",
+    "title": "Sapatilhas de Running New Balance Fresh Foam X More v6 Bege Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
@@ -8983,6 +9093,16 @@
     "id": "385422",
     "title": "Camisola New Balance F. C. Porto Alternativa W EP25/26",
     "category": "Roupa > Futebol > Camisolas de Clubes",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "386832",
+    "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Bordeaux Para Mulher",
+    "category": "Calçado > Trail > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
     "gender": "female",
