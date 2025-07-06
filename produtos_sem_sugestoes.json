@@ -480,16 +480,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "345714",
-    "title": "Sapatilhas Asics GEL-NYC",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Asics",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "384981",
     "title": "Sapatilhas Asics GEL-1130 Brancas e Prateadas",
     "category": "Calçado > Sapatilhas",
@@ -3060,7 +3050,7 @@
     "motivo": "Sem candidatos nas categorias complementares para 'Chinelos'"
   },
   {
-    "id": "316319",
+    "id": "316320",
     "title": "Chinelos Birkenstock Arizona Eva Amarelos",
     "category": "Calçado > Chinelos",
     "brand": "Birkenstock",
@@ -8920,7 +8910,7 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "378747",
+    "id": "378746",
     "title": "Sapatilhas New Balance Fresh Foam 520 v9 Cinzentas Wide Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
     "brand": "New Balance",
