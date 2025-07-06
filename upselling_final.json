@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-05T06:36:35.338275",
+  "gerado_em": "2025-07-06T06:45:58.973886",
   "produtos": [
     {
       "id": "365143",
@@ -426,7 +426,7 @@
       "sugestoes": [
         "267647",
         "371887",
-        "378662",
+        "378660",
         "375510",
         "371834"
       ]
@@ -462,7 +462,7 @@
       "sugestoes": [
         "267647",
         "373212",
-        "378662",
+        "378660",
         "373244",
         "375510"
       ]
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "id": "378662",
+      "id": "378660",
       "title": "Luvas de Guarda-Redes Puma Ultra Play RC Junior",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/041952-06_1.jpg?1741888647",
       "gender": "unissex",
@@ -775,7 +775,7 @@
       "sugestoes": [
         "375510",
         "344198",
-        "378662",
+        "378660",
         "371838",
         "267647"
       ]
@@ -831,7 +831,7 @@
         "267647",
         "329022",
         "344198",
-        "378662"
+        "378660"
       ]
     },
     {
@@ -848,7 +848,7 @@
         "344198",
         "329022",
         "375510",
-        "378662",
+        "378660",
         "373244"
       ]
     },
@@ -867,7 +867,7 @@
         "329022",
         "267647",
         "375510",
-        "378662"
+        "378660"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
       "sale_price": "24.95",
       "sugestoes": [
         "344035",
-        "378662",
+        "378660",
         "375623",
         "373247",
         "373250"
@@ -4118,18 +4118,6 @@
       "sugestoes": []
     },
     {
-      "id": "345714",
-      "title": "Sapatilhas Asics GEL-NYC",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1201A789-103_1.jpg?1708687721",
-      "gender": "male",
-      "site": "1",
-      "category": "Calçado > Sapatilhas",
-      "brand": "Asics",
-      "price": "149.90",
-      "sale_price": null,
-      "sugestoes": []
-    },
-    {
       "id": "384981",
       "title": "Sapatilhas Asics GEL-1130 Brancas e Prateadas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1201B020-100_1.jpg?1748250686",
@@ -5465,7 +5453,7 @@
       ]
     },
     {
-      "id": "384515",
+      "id": "384516",
       "title": "Sandálias Crocs Flip Miami Thong Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/209793-0WW_1.jpg?1747143108",
       "gender": "female",
@@ -12989,7 +12977,7 @@
       "price": "24.99",
       "sale_price": "22.49",
       "sugestoes": [
-        "378662",
+        "378660",
         "376638",
         "365136",
         "329022",
@@ -13007,7 +12995,7 @@
       "price": "19.99",
       "sale_price": "17.99",
       "sugestoes": [
-        "378662",
+        "378660",
         "267647",
         "371851",
         "375510",
@@ -13026,7 +13014,7 @@
       "sale_price": "17.99",
       "sugestoes": [
         "365136",
-        "378662",
+        "378660",
         "376638",
         "371890",
         "267647"
@@ -13044,7 +13032,7 @@
       "sale_price": "17.99",
       "sugestoes": [
         "376638",
-        "378662",
+        "378660",
         "371890",
         "267647",
         "329022"
@@ -17278,7 +17266,7 @@
       "sugestoes": []
     },
     {
-      "id": "316319",
+      "id": "316320",
       "title": "Chinelos Birkenstock Arizona Eva Amarelos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1022466_1.jpg?1681317181",
       "gender": "female",
@@ -25072,7 +25060,7 @@
       ]
     },
     {
-      "id": "345122",
+      "id": "345123",
       "title": "Chuteiras Adidas X Crazyfast Club.4 Messi MG J",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID0720_1.jpg?1708427162",
       "gender": "unissex",
@@ -36996,7 +36984,7 @@
         "384773",
         "380653",
         "380633",
-        "383405"
+        "383406"
       ]
     },
     {
@@ -37602,7 +37590,7 @@
       ]
     },
     {
-      "id": "380880",
+      "id": "380881",
       "title": "Sapatilhas Nike AL8 Cinzentas e Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ3794-004_1.jpg?1744390315",
       "gender": "female",
@@ -38542,7 +38530,7 @@
       "price": "279.90",
       "sale_price": "237.92",
       "sugestoes": [
-        "383405",
+        "383406",
         "384116",
         "380639",
         "380653",
@@ -38550,7 +38538,7 @@
       ]
     },
     {
-      "id": "383405",
+      "id": "383406",
       "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy FG/MG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ1456-301_1.jpg?1746013948",
       "gender": "male",
@@ -39343,7 +39331,7 @@
       "price": "159.90",
       "sale_price": "135.92",
       "sugestoes": [
-        "383405",
+        "383406",
         "380653",
         "380813",
         "380639",
@@ -60684,7 +60672,7 @@
       "sale_price": "69.93",
       "sugestoes": [
         "367519",
-        "363557",
+        "363556",
         "363562",
         "359325",
         "367479"
@@ -60853,7 +60841,7 @@
       ]
     },
     {
-      "id": "363557",
+      "id": "363556",
       "title": "Sapatilhas Pepe Jeans London Snake W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PLS40024-999_1.jpg?1724250367",
       "gender": "female",
@@ -60955,7 +60943,7 @@
       "sugestoes": [
         "367479",
         "367476",
-        "363557",
+        "363556",
         "369322",
         "356666"
       ]
@@ -60972,7 +60960,7 @@
       "sale_price": "69.93",
       "sugestoes": [
         "367476",
-        "363557",
+        "363556",
         "369322",
         "356542",
         "367504"
@@ -66451,7 +66439,7 @@
       "sugestoes": []
     },
     {
-      "id": "346082",
+      "id": "346086",
       "title": "Sandálias Birkenstock Milano Birko-Flor",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/34791_1.jpg?1708963453",
       "gender": "male",
@@ -68771,7 +68759,7 @@
       ]
     },
     {
-      "id": "354322",
+      "id": "354323",
       "title": "Sapatilhas Adidas Gazelle Bold W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IG4381_1.jpg?1717514248",
       "gender": "female",
@@ -70065,7 +70053,7 @@
       "price": "49.90",
       "sale_price": "19.96",
       "sugestoes": [
-        "345122",
+        "345123",
         "341525",
         "337800",
         "345100",
@@ -71751,7 +71739,7 @@
       "sale_price": "24.95",
       "sugestoes": [
         "329572",
-        "345122",
+        "345123",
         "305751",
         "330043",
         "345100"
@@ -71794,7 +71782,7 @@
       ]
     },
     {
-      "id": "357539",
+      "id": "357540",
       "title": "Sapatilhas Adidas X_PLR Phase",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID0427_1.jpg?1709637294",
       "gender": "male",
@@ -79463,7 +79451,7 @@
       "sugestoes": []
     },
     {
-      "id": "378747",
+      "id": "378746",
       "title": "Sapatilhas New Balance Fresh Foam 520 v9 Cinzentas Wide Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/W520-LE9_1.jpg?1742215813",
       "gender": "female",
