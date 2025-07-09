@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-08T18:54:19.626906",
+  "gerado_em": "2025-07-09T06:46:33.213542",
   "produtos": [
     {
       "id": "365143",
@@ -9611,7 +9611,7 @@
         "212441",
         "181093",
         "24516",
-        "181106",
+        "181104",
         "314536"
       ]
     },
@@ -9707,7 +9707,7 @@
         "24516",
         "348308",
         "239680",
-        "181106"
+        "181104"
       ]
     },
     {
@@ -10209,7 +10209,7 @@
         "239680",
         "348308",
         "24516",
-        "181106",
+        "181104",
         "23847"
       ]
     },
@@ -11227,7 +11227,7 @@
         "212441",
         "24516",
         "23847",
-        "181106",
+        "181104",
         "181093"
       ]
     },
@@ -11417,7 +11417,7 @@
         "212441",
         "24516",
         "23847",
-        "181106",
+        "181104",
         "348308"
       ]
     },
@@ -11473,7 +11473,7 @@
       "sugestoes": [
         "23847",
         "212654",
-        "181106",
+        "181104",
         "314536",
         "24516"
       ]
@@ -11511,7 +11511,7 @@
       "sugestoes": [
         "212441",
         "314536",
-        "181106",
+        "181104",
         "181093",
         "23847"
       ]
@@ -11882,7 +11882,7 @@
       "sale_price": null,
       "sugestoes": [
         "24516",
-        "181106",
+        "181104",
         "378358",
         "348308",
         "212441"
@@ -11904,7 +11904,7 @@
         "348308",
         "24516",
         "239680",
-        "181106"
+        "181104"
       ]
     },
     {
@@ -19223,7 +19223,7 @@
       ]
     },
     {
-      "id": "377543",
+      "id": "377544",
       "mpn": "1029260",
       "title": "Chinelos Birkenstock Arizona Couro em Camurça Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1029260_1.jpg?1740657872",
@@ -19534,7 +19534,7 @@
       "id": "328740",
       "mpn": "0052533",
       "title": "Chinelos Birkenstock Arizona Oiled Leather Castanhos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/0052533_1.jpg?1689590973",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/0052533_1.jpg?1751992793",
       "gender": "female",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -19542,8 +19542,8 @@
       "price": "119.90",
       "sale_price": null,
       "sugestoes": [
-        "380289",
-        "380421"
+        "380421",
+        "380289"
       ]
     },
     {
@@ -20249,9 +20249,9 @@
       "sugestoes": [
         "385935",
         "340065",
-        "341352",
-        "151015",
-        "354775"
+        "387133",
+        "387146",
+        "341352"
       ]
     },
     {
@@ -20267,10 +20267,10 @@
       "sale_price": null,
       "sugestoes": [
         "341352",
+        "387146",
         "337276",
         "385935",
-        "340668",
-        "342756"
+        "340668"
       ]
     },
     {
@@ -21345,7 +21345,7 @@
       "price": "149.90",
       "sale_price": "104.93",
       "sugestoes": [
-        "365339"
+        "365341"
       ]
     },
     {
@@ -21740,8 +21740,8 @@
         "354802",
         "386739",
         "386751",
-        "375568",
-        "375564"
+        "387308",
+        "387338"
       ]
     },
     {
@@ -21759,8 +21759,8 @@
         "386739",
         "354802",
         "386751",
-        "375568",
-        "375564"
+        "387338",
+        "387308"
       ]
     },
     {
@@ -25620,7 +25620,7 @@
       "price": "39.90",
       "sale_price": null,
       "sugestoes": [
-        "347693",
+        "219015",
         "374588",
         "202561",
         "202548",
@@ -25962,7 +25962,7 @@
       "id": "7305",
       "mpn": "051791",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Pretos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/051791_1.jpg?1680528705",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/051791_1.jpg?1751992613",
       "gender": "unissex",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -26180,7 +26180,7 @@
       "id": "318783",
       "mpn": "951301",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951301_1.jpg?1740656291",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951301_1.jpg?1751992235",
       "gender": "male",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -26196,7 +26196,7 @@
       "id": "377549",
       "mpn": "951303",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951303_1.jpg?1740656301",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951303_1.jpg?1751993148",
       "gender": "female",
       "site": "1",
       "category": "Calçado > Chinelos",
@@ -26204,12 +26204,12 @@
       "price": "129.90",
       "sale_price": null,
       "sugestoes": [
-        "380421",
-        "380289"
+        "380289",
+        "380421"
       ]
     },
     {
-      "id": "386907",
+      "id": "386908",
       "mpn": "1030863",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030863_1.jpg?1751631038",
@@ -27279,9 +27279,9 @@
       "sugestoes": [
         "369601",
         "354655",
+        "387182",
         "328171",
-        "328307",
-        "286055"
+        "387190"
       ]
     },
     {
@@ -27298,9 +27298,9 @@
       "sugestoes": [
         "369601",
         "354655",
+        "387182",
         "328171",
-        "328307",
-        "286055"
+        "387190"
       ]
     },
     {
@@ -27317,9 +27317,9 @@
       "sugestoes": [
         "369601",
         "354655",
-        "328307",
-        "328171",
-        "286055"
+        "387190",
+        "387182",
+        "328307"
       ]
     },
     {
@@ -27367,10 +27367,10 @@
       "sale_price": "91.96",
       "sugestoes": [
         "369601",
+        "387190",
         "354655",
         "328171",
-        "286055",
-        "279275"
+        "286055"
       ]
     },
     {
@@ -27408,7 +27408,7 @@
         "349533",
         "337780",
         "342756",
-        "306486"
+        "387246"
       ]
     },
     {
@@ -27468,6 +27468,25 @@
       ]
     },
     {
+      "id": "386976",
+      "mpn": "JH6302",
+      "title": "Chuteiras Adidas Copa Pure III Elite FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH6302_1.jpg?1751293862",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "249.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387259",
+        "387270",
+        "387099",
+        "387159",
+        "386992"
+      ]
+    },
+    {
       "id": "384790",
       "mpn": "JH6301",
       "title": "Chuteiras Adidas Copa Pure III Elite LL FG",
@@ -27503,6 +27522,82 @@
         "373551",
         "372541",
         "373585"
+      ]
+    },
+    {
+      "id": "387259",
+      "mpn": "JH6298",
+      "title": "Chuteiras Adidas Copa Pure III League FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH6298_1.jpg?1751535648",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386976",
+        "386992",
+        "387182",
+        "387159",
+        "387099"
+      ]
+    },
+    {
+      "id": "387242",
+      "mpn": "JI0036",
+      "title": "Chuteiras Adidas F50 Club Velcro FG/MG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0036_1.jpg?1751542020",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387198",
+        "387235",
+        "387246",
+        "387228",
+        "387146"
+      ]
+    },
+    {
+      "id": "387171",
+      "mpn": "JI0043",
+      "title": "Chuteiras Adidas F50 Club FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0043_1.jpg?1751543609",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387026",
+        "387038",
+        "387002",
+        "387061",
+        "387190"
+      ]
+    },
+    {
+      "id": "387198",
+      "mpn": "JI0030",
+      "title": "Chuteiras Adidas F50 Club FG/MG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0030_1.jpg?1751541271",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387242",
+        "387246",
+        "387235",
+        "387228",
+        "387146"
       ]
     },
     {
@@ -27544,6 +27639,44 @@
       ]
     },
     {
+      "id": "387061",
+      "mpn": "JH7638",
+      "title": "Chuteiras Adidas F50 Elite AG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7638_1.jpg?1751535012",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "259.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387026",
+        "386982",
+        "387002",
+        "387038",
+        "387015"
+      ]
+    },
+    {
+      "id": "387026",
+      "mpn": "JH7615",
+      "title": "Chuteiras Adidas F50 Elite FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7615_1.jpg?1751534582",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "259.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387061",
+        "386982",
+        "387038",
+        "387171",
+        "387002"
+      ]
+    },
+    {
       "id": "384956",
       "mpn": "JH7713",
       "title": "Chuteiras Adidas F50 Elite FG J",
@@ -27569,6 +27702,82 @@
       "sale_price": "161.94",
       "sugestoes": [
         "376648"
+      ]
+    },
+    {
+      "id": "387015",
+      "mpn": "JR5364",
+      "title": "Chuteiras Adidas F50 Elite LL AG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR5364_1.jpg?1751532579",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387122",
+        "387061",
+        "387026",
+        "386982",
+        "387109"
+      ]
+    },
+    {
+      "id": "387122",
+      "mpn": "JH7628",
+      "title": "Chuteiras Adidas F50 Elite LL FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7628_1.jpg?1751357484",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387015",
+        "387026",
+        "387061",
+        "387109",
+        "386982"
+      ]
+    },
+    {
+      "id": "387228",
+      "mpn": "JH7709",
+      "title": "Chuteiras Adidas F50 Elite LL FG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7709_1.jpg?1751544491",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387235",
+        "387198",
+        "387242",
+        "387246",
+        "387133"
+      ]
+    },
+    {
+      "id": "386982",
+      "mpn": "JH7633",
+      "title": "Chuteiras Adidas F50 Elite SG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7633_1.jpg?1751533867",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "259.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387026",
+        "387061",
+        "387038",
+        "387171",
+        "387122"
       ]
     },
     {
@@ -27617,11 +27826,11 @@
       "price": "99.90",
       "sale_price": "84.92",
       "sugestoes": [
+        "387190",
         "354655",
         "286055",
-        "328171",
-        "328307",
-        "369601"
+        "387182",
+        "328171"
       ]
     },
     {
@@ -27638,9 +27847,9 @@
       "sugestoes": [
         "354655",
         "328171",
-        "286055",
-        "328307",
-        "369601"
+        "387190",
+        "387182",
+        "286055"
       ]
     },
     {
@@ -27656,10 +27865,10 @@
       "sale_price": "84.92",
       "sugestoes": [
         "354655",
+        "387190",
+        "387182",
         "286055",
-        "328171",
-        "328307",
-        "369601"
+        "328171"
       ]
     },
     {
@@ -27680,6 +27889,25 @@
       ]
     },
     {
+      "id": "387109",
+      "mpn": "JH7734",
+      "title": "Chuteiras Adidas F50 League LL FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7734_1.jpg?1751538573",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387122",
+        "387038",
+        "387061",
+        "387002",
+        "387026"
+      ]
+    },
+    {
       "id": "374339",
       "mpn": "IE1235",
       "title": "Chuteiras Adidas F50 League MG",
@@ -27696,6 +27924,25 @@
         "372541",
         "373660",
         "375765"
+      ]
+    },
+    {
+      "id": "387002",
+      "mpn": "JH7728",
+      "title": "Chuteiras Adidas F50 League MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7728_1.jpg?1751540135",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "89.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387061",
+        "387171",
+        "387190",
+        "387085",
+        "387038"
       ]
     },
     {
@@ -27779,6 +28026,25 @@
       ]
     },
     {
+      "id": "387038",
+      "mpn": "JH7683",
+      "title": "Chuteiras Adidas F50 Pro FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7683_1.jpg?1751539227",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387026",
+        "387061",
+        "387171",
+        "387220",
+        "387085"
+      ]
+    },
+    {
       "id": "356047",
       "mpn": "IF6917",
       "title": "Chuteiras Adidas F50 Pro Messi FG J",
@@ -27793,6 +28059,25 @@
         "354896",
         "356478",
         "356943"
+      ]
+    },
+    {
+      "id": "387085",
+      "mpn": "JH7678",
+      "title": "Chuteiras Adidas F50 Pro MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7678_1.jpg?1751540545",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387002",
+        "387038",
+        "387026",
+        "387171",
+        "387190"
       ]
     },
     {
@@ -27856,10 +28141,10 @@
       "sale_price": "28.47",
       "sugestoes": [
         "354655",
+        "387182",
+        "387190",
         "328307",
-        "328171",
-        "286055",
-        "369601"
+        "328171"
       ]
     },
     {
@@ -27874,11 +28159,11 @@
       "price": "69.90",
       "sale_price": "20.97",
       "sugestoes": [
+        "387146",
         "349533",
         "337780",
         "306486",
-        "354775",
-        "342756"
+        "354775"
       ]
     },
     {
@@ -27898,6 +28183,44 @@
         "354775",
         "342756",
         "306486"
+      ]
+    },
+    {
+      "id": "387133",
+      "mpn": "JH8868",
+      "title": "Chuteiras Adidas Predator Club FG/MG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH8868_1.jpg?1751542706",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387146",
+        "387228",
+        "387246",
+        "387235",
+        "387198"
+      ]
+    },
+    {
+      "id": "387281",
+      "mpn": "JH8847",
+      "title": "Chuteiras Adidas Predator Club FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH8847_1.jpg?1751537754",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387182",
+        "387270",
+        "387073",
+        "387099",
+        "387159"
       ]
     },
     {
@@ -27929,9 +28252,9 @@
       "sugestoes": [
         "349533",
         "306486",
+        "387146",
         "342756",
-        "337780",
-        "354775"
+        "337780"
       ]
     },
     {
@@ -27951,6 +28274,44 @@
         "354616",
         "355586",
         "355204"
+      ]
+    },
+    {
+      "id": "387050",
+      "mpn": "JS0946",
+      "title": "Chuteiras Adidas Predator Elite AG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JS0946_1.jpg?1751298366",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "259.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387159",
+        "386992",
+        "387073",
+        "387099",
+        "387182"
+      ]
+    },
+    {
+      "id": "387073",
+      "mpn": "JS0945",
+      "title": "Chuteiras Adidas Predator Elite FT AG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JS0945_1.jpg?1751296501",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "279.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387159",
+        "387050",
+        "387099",
+        "386992",
+        "387270"
       ]
     },
     {
@@ -28004,10 +28365,10 @@
       "sale_price": "129.95",
       "sugestoes": [
         "354655",
+        "387182",
+        "387190",
         "328307",
-        "286055",
-        "328171",
-        "369601"
+        "286055"
       ]
     },
     {
@@ -28067,6 +28428,25 @@
       ]
     },
     {
+      "id": "387099",
+      "mpn": "JI1092",
+      "title": "Chuteiras Adidas Predator Elite FT FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI1092_1.jpg?1751295352",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "279.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387073",
+        "387050",
+        "387159",
+        "386992",
+        "387182"
+      ]
+    },
+    {
       "id": "384779",
       "mpn": "JR4529",
       "title": "Chuteiras Adidas Predator Elite FT SG",
@@ -28104,6 +28484,44 @@
       ]
     },
     {
+      "id": "387159",
+      "mpn": "JH8877",
+      "title": "Chuteiras Adidas Predator Elite LL AG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH8877_1.jpg?1751297105",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386992",
+        "387050",
+        "387073",
+        "387099",
+        "387182"
+      ]
+    },
+    {
+      "id": "386992",
+      "mpn": "JI1075",
+      "title": "Chuteiras Adidas Predator Elite LL FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI1075_1.jpg?1751294449",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387159",
+        "387050",
+        "387073",
+        "387099",
+        "387182"
+      ]
+    },
+    {
       "id": "341352",
       "mpn": "IG7754",
       "title": "Chuteiras Adidas Predator 24 League LL FG J",
@@ -28116,10 +28534,10 @@
       "sale_price": "35.95",
       "sugestoes": [
         "349533",
+        "387146",
         "306486",
         "342756",
-        "354775",
-        "337780"
+        "354775"
       ]
     },
     {
@@ -28135,10 +28553,10 @@
       "sale_price": "129.95",
       "sugestoes": [
         "369601",
+        "387190",
         "354655",
-        "328307",
-        "328171",
-        "286055"
+        "387182",
+        "328307"
       ]
     },
     {
@@ -28155,9 +28573,9 @@
       "sugestoes": [
         "349533",
         "342756",
+        "387146",
         "354775",
-        "306486",
-        "337780"
+        "306486"
       ]
     },
     {
@@ -28209,10 +28627,10 @@
       "sale_price": "84.92",
       "sugestoes": [
         "354655",
+        "387190",
+        "387182",
         "286055",
-        "328171",
-        "328307",
-        "369601"
+        "328171"
       ]
     },
     {
@@ -28283,9 +28701,9 @@
       "sugestoes": [
         "354655",
         "369601",
-        "328307",
-        "286055",
-        "328171"
+        "387182",
+        "387190",
+        "328307"
       ]
     },
     {
@@ -28302,9 +28720,9 @@
       "sugestoes": [
         "349533",
         "306486",
+        "387146",
         "342756",
-        "354775",
-        "337780"
+        "354775"
       ]
     },
     {
@@ -28346,7 +28764,26 @@
       ]
     },
     {
-      "id": "345123",
+      "id": "387270",
+      "mpn": "JS4074",
+      "title": "Chuteiras Adidas Predator Pro FT MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JS4074_1.jpg?1751539722",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387281",
+        "387073",
+        "387159",
+        "387182",
+        "387099"
+      ]
+    },
+    {
+      "id": "345113",
       "mpn": "ID0720",
       "title": "Chuteiras Adidas X Crazyfast Club.4 Messi MG J",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID0720_1.jpg?1708427162",
@@ -28359,9 +28796,9 @@
       "sugestoes": [
         "337780",
         "354775",
+        "387235",
         "342756",
-        "306486",
-        "329672"
+        "306486"
       ]
     },
     {
@@ -28380,7 +28817,7 @@
         "349533",
         "354775",
         "337780",
-        "306486"
+        "387146"
       ]
     },
     {
@@ -28395,11 +28832,11 @@
       "price": "49.90",
       "sale_price": "24.95",
       "sugestoes": [
+        "387246",
         "342756",
         "354775",
         "337780",
-        "306486",
-        "349533"
+        "306486"
       ]
     },
     {
@@ -28417,8 +28854,8 @@
         "342756",
         "349533",
         "354775",
-        "337780",
-        "306486"
+        "387235",
+        "337780"
       ]
     },
     {
@@ -28436,8 +28873,8 @@
         "342756",
         "337780",
         "354775",
-        "306486",
-        "349533"
+        "387235",
+        "387246"
       ]
     },
     {
@@ -28454,9 +28891,9 @@
       "sugestoes": [
         "342756",
         "349533",
+        "387246",
         "354775",
-        "337780",
-        "306486"
+        "387235"
       ]
     },
     {
@@ -28472,10 +28909,10 @@
       "sale_price": "33.55",
       "sugestoes": [
         "342756",
+        "387246",
         "354775",
         "349533",
-        "337780",
-        "306486"
+        "387235"
       ]
     },
     {
@@ -28494,7 +28931,7 @@
         "337780",
         "354775",
         "342756",
-        "306486"
+        "387246"
       ]
     },
     {
@@ -28773,7 +29210,7 @@
         "385638",
         "333558",
         "370104",
-        "352977"
+        "352978"
       ]
     },
     {
@@ -41389,7 +41826,7 @@
       ]
     },
     {
-      "id": "352977",
+      "id": "352978",
       "mpn": "FD7757-010",
       "title": "Camisola Nike Equipamento Principal Sporting C. P. EP24/25",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FD7757-010_1.jpg?1716370156",
@@ -45003,7 +45440,7 @@
       ]
     },
     {
-      "id": "381451",
+      "id": "381452",
       "mpn": "FZ5510-423",
       "title": "Calções de Basquetebol Nike Fly Crossover 18cm Azuis Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FZ5510-423_1.jpg?1744821990",
@@ -49663,7 +50100,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "169.90",
-      "sale_price": "110.44",
+      "sale_price": null,
       "sugestoes": [
         "214470",
         "356794",
@@ -58633,9 +59070,9 @@
       "sugestoes": [
         "354802",
         "386751",
+        "387338",
         "386739",
-        "375564",
-        "375568"
+        "387308"
       ]
     },
     {
@@ -58651,10 +59088,10 @@
       "sale_price": null,
       "sugestoes": [
         "386739",
+        "387353",
         "386751",
-        "354802",
-        "375568",
-        "375564"
+        "387350",
+        "387308"
       ]
     },
     {
@@ -59070,6 +59507,44 @@
       ]
     },
     {
+      "id": "387308",
+      "mpn": "JJ231569-NIK",
+      "title": "Casaco com Capuz New Balance F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JJ231569-NIK_1.jpg?1751896812",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385462",
+        "386751",
+        "387353",
+        "387350",
+        "385093"
+      ]
+    },
+    {
+      "id": "387338",
+      "mpn": "JJ231582-IKW",
+      "title": "Casaco New Balance F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JJ231582-IKW_1.jpg?1751891365",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386751",
+        "385462",
+        "387353",
+        "385093",
+        "385090"
+      ]
+    },
+    {
       "id": "381539",
       "mpn": "589-06",
       "title": "Pulseira Susmie's Jolly Vermelha",
@@ -59086,6 +59561,44 @@
         "385600",
         "385623",
         "382266"
+      ]
+    },
+    {
+      "id": "387353",
+      "mpn": "JP231573-NV",
+      "title": "Calças New Balance Slim F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP231573-NV_1.jpg?1751889332",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Calças",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385462",
+        "387308",
+        "385408",
+        "387338",
+        "385093"
+      ]
+    },
+    {
+      "id": "387350",
+      "mpn": "JP231574-NV",
+      "title": "Calças New Balance Slim F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP231574-NV_1.jpg?1751888855",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Roupa > Futebol > Calças",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385462",
+        "387308",
+        "387338",
+        "385408",
+        "354802"
       ]
     },
     {
@@ -59140,9 +59653,9 @@
       "sugestoes": [
         "385093",
         "385462",
-        "385090",
-        "385779",
-        "385408"
+        "387308",
+        "387338",
+        "385090"
       ]
     },
     {
@@ -59160,8 +59673,8 @@
         "354802",
         "386751",
         "386739",
-        "375568",
-        "375564"
+        "387338",
+        "387353"
       ]
     },
     {
@@ -59176,11 +59689,11 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
+        "387353",
         "386739",
-        "386751",
-        "354802",
-        "375564",
-        "375568"
+        "387350",
+        "387308",
+        "386751"
       ]
     },
     {
@@ -59196,10 +59709,10 @@
       "sale_price": null,
       "sugestoes": [
         "386739",
+        "387338",
         "386751",
-        "375564",
-        "375568",
-        "385216"
+        "387308",
+        "387353"
       ]
     },
     {
@@ -59241,7 +59754,7 @@
       ]
     },
     {
-      "id": "181106",
+      "id": "181104",
       "mpn": "K4129697-3544",
       "title": "Sandálias Havaianas Luna",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/K4129697-3544_1.jpg?1588674118",
@@ -59907,9 +60420,9 @@
       "sugestoes": [
         "385752",
         "152236",
+        "387270",
         "385726",
-        "358755",
-        "326754"
+        "387281"
       ]
     },
     {
@@ -59982,10 +60495,10 @@
       "sale_price": "12.48",
       "sugestoes": [
         "152236",
-        "384790",
-        "279275",
-        "374339",
-        "384761"
+        "387281",
+        "387002",
+        "387270",
+        "384790"
       ]
     },
     {
@@ -62952,7 +63465,7 @@
         "385544",
         "386578",
         "386465",
-        "356269"
+        "387304"
       ]
     },
     {
@@ -62970,8 +63483,27 @@
         "385544",
         "386578",
         "386465",
-        "386747",
-        "385103"
+        "387304",
+        "387300"
+      ]
+    },
+    {
+      "id": "387341",
+      "mpn": "MJ231569-NVG",
+      "title": "Casaco com Capuz New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231569-NVG_1.jpg?1751891032",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "385544",
+        "386578",
+        "387304",
+        "386465",
+        "387300"
       ]
     },
     {
@@ -62991,6 +63523,101 @@
         "356269",
         "385937",
         "386578"
+      ]
+    },
+    {
+      "id": "387293",
+      "mpn": "MJ231571-AZ",
+      "title": "Casaco New Balance Impermeável F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231571-AZ_1.jpg?1751899114",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "386465",
+        "385544",
+        "387300",
+        "385417"
+      ]
+    },
+    {
+      "id": "387311",
+      "mpn": "MJ231571-IKW",
+      "title": "Casaco New Balance Impermeável F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231571-IKW_1.jpg?1751897176",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "386465",
+        "385544",
+        "387300",
+        "386469"
+      ]
+    },
+    {
+      "id": "387315",
+      "mpn": "MJ231572-AZ",
+      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231572-AZ_1.jpg?1751899425",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "387300",
+        "387326",
+        "385544",
+        "386465"
+      ]
+    },
+    {
+      "id": "387334",
+      "mpn": "MJ231582-IKW",
+      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231582-IKW_1.jpg?1751895694",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "385544",
+        "387300",
+        "386465",
+        "387326"
+      ]
+    },
+    {
+      "id": "387345",
+      "mpn": "MJ231582-NVG",
+      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231582-NVG_1.jpg?1751895408",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "385544",
+        "386465",
+        "387300",
+        "387304"
       ]
     },
     {
@@ -63636,6 +64263,25 @@
       ]
     },
     {
+      "id": "386967",
+      "mpn": "MRCX-Y4",
+      "title": "Sapatilhas de Running New Balance Fuelcell Supercomp Trainer v3 Cinzentas e Salmão Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MRCX-Y4_1.jpg?1751637749",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "249.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340977",
+        "340986",
+        "290848",
+        "341039",
+        "341051"
+      ]
+    },
+    {
       "id": "354815",
       "mpn": "MS230306-HME",
       "title": "Calções New Balance F. C. Porto Principal EP24/25",
@@ -63685,11 +64331,11 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
+        "387334",
         "386578",
         "385937",
         "385544",
-        "386465",
-        "385417"
+        "386465"
       ]
     },
     {
@@ -63704,11 +64350,11 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
+        "387334",
         "385417",
         "386578",
         "385937",
-        "385544",
-        "386465"
+        "387345"
       ]
     },
     {
@@ -63723,11 +64369,68 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
+        "387334",
+        "387315",
         "385544",
         "385937",
+        "386578"
+      ]
+    },
+    {
+      "id": "387319",
+      "mpn": "MS231576-NV",
+      "title": "Calções New Balance de Treino F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MS231576-NV_1.jpg?1751890158",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calções de Futebol",
+      "brand": "New Balance",
+      "price": "39.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387334",
         "386578",
-        "385417",
-        "386465"
+        "387315",
+        "387345",
+        "385937"
+      ]
+    },
+    {
+      "id": "387323",
+      "mpn": "MS231577-NV",
+      "title": "Calções New Balance de Viagem F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MS231577-NV_1.jpg?1751890611",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calções de Futebol",
+      "brand": "New Balance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387345",
+        "387334",
+        "386578",
+        "387311",
+        "387330"
+      ]
+    },
+    {
+      "id": "387326",
+      "mpn": "MS231578-NV",
+      "title": "Calções New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MS231578-NV_1.jpg?1751896331",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calções de Futebol",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387334",
+        "386578",
+        "387345",
+        "387330",
+        "387315"
       ]
     },
     {
@@ -63930,7 +64633,7 @@
         "356184",
         "356197",
         "356202",
-        "386469"
+        "387311"
       ]
     },
     {
@@ -63946,10 +64649,10 @@
       "sale_price": "62.93",
       "sugestoes": [
         "386634",
+        "387311",
         "386469",
-        "326579",
-        "385099",
-        "326635"
+        "387293",
+        "387304"
       ]
     },
     {
@@ -64021,11 +64724,11 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
+        "387293",
+        "387311",
         "386469",
         "326579",
-        "385099",
-        "386634",
-        "385413"
+        "385099"
       ]
     },
     {
@@ -64061,9 +64764,9 @@
       "sugestoes": [
         "386634",
         "386469",
-        "385103",
-        "385413",
-        "385950"
+        "387311",
+        "387293",
+        "387304"
       ]
     },
     {
@@ -64099,9 +64802,9 @@
       "sugestoes": [
         "386634",
         "386469",
-        "326579",
-        "385103",
-        "385099"
+        "387311",
+        "387300",
+        "387293"
       ]
     },
     {
@@ -64139,7 +64842,7 @@
         "386452",
         "386461",
         "386573",
-        "386578"
+        "387311"
       ]
     },
     {
@@ -64158,7 +64861,26 @@
         "386452",
         "386573",
         "386461",
-        "386578"
+        "387311"
+      ]
+    },
+    {
+      "id": "387300",
+      "mpn": "MT231470-IKW",
+      "title": "Camisola com Capuz New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231470-IKW_1.jpg?1751897771",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Camisolas com Capuz",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387311",
+        "387345",
+        "387334",
+        "386578",
+        "387293"
       ]
     },
     {
@@ -64175,9 +64897,9 @@
       "sugestoes": [
         "386469",
         "386634",
-        "326579",
-        "385103",
-        "356184"
+        "387311",
+        "387293",
+        "387300"
       ]
     },
     {
@@ -64213,9 +64935,9 @@
       "sugestoes": [
         "386634",
         "386469",
-        "385103",
-        "385099",
-        "326579"
+        "387311",
+        "387293",
+        "387304"
       ]
     },
     {
@@ -64232,9 +64954,9 @@
       "sugestoes": [
         "386634",
         "386469",
-        "385099",
-        "385103",
-        "326579"
+        "387311",
+        "387304",
+        "387293"
       ]
     },
     {
@@ -64268,11 +64990,11 @@
       "price": "74.90",
       "sale_price": null,
       "sugestoes": [
-        "385099",
-        "386457",
-        "386469",
-        "386634",
-        "326579"
+        "387311",
+        "387341",
+        "387345",
+        "387334",
+        "387293"
       ]
     },
     {
@@ -64287,11 +65009,11 @@
       "price": "69.90",
       "sale_price": null,
       "sugestoes": [
-        "386634",
-        "386457",
-        "386469",
-        "385099",
-        "326635"
+        "387311",
+        "387293",
+        "387345",
+        "387304",
+        "387341"
       ]
     },
     {
@@ -64306,11 +65028,11 @@
       "price": "69.90",
       "sale_price": null,
       "sugestoes": [
-        "386634",
-        "386469",
-        "386457",
-        "385099",
-        "385103"
+        "387311",
+        "387345",
+        "387293",
+        "387341",
+        "387334"
       ]
     },
     {
@@ -64327,9 +65049,9 @@
       "sugestoes": [
         "385099",
         "326635",
-        "326579",
-        "356197",
-        "354815"
+        "387311",
+        "387293",
+        "387341"
       ]
     },
     {
@@ -64923,7 +65645,7 @@
       "sugestoes": []
     },
     {
-      "id": "386765",
+      "id": "386766",
       "mpn": "MTHIER-V9",
       "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Camel Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MTHIER-V9_1.jpg?1751550174",
@@ -64960,6 +65682,44 @@
       "price": "139.90",
       "sale_price": null,
       "sugestoes": []
+    },
+    {
+      "id": "387304",
+      "mpn": "MU231591-NVG",
+      "title": "Fato de Treino New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MU231591-NVG_1.jpg?1751898804",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Fatos de Treino",
+      "brand": "New Balance",
+      "price": "139.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "387341",
+        "386465",
+        "387345",
+        "385544"
+      ]
+    },
+    {
+      "id": "387330",
+      "mpn": "MU231591-IKW",
+      "title": "Fato de Treino New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MU231591-IKW_1.jpg?1751898347",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Fatos de Treino",
+      "brand": "New Balance",
+      "price": "139.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "387311",
+        "385544",
+        "386465",
+        "387345"
+      ]
     },
     {
       "id": "326026",
@@ -67118,10 +67878,10 @@
       "sale_price": null,
       "sugestoes": [
         "191382",
+        "387270",
+        "387281",
         "303380",
-        "373660",
-        "328307",
-        "385693"
+        "387182"
       ]
     },
     {
@@ -67159,7 +67919,7 @@
         "272817",
         "272654",
         "28152",
-        "288072"
+        "387133"
       ]
     },
     {
@@ -73303,10 +74063,10 @@
       "sale_price": null,
       "sugestoes": [
         "341352",
+        "387228",
         "305516",
         "385517",
-        "330043",
-        "350476"
+        "330043"
       ]
     },
     {
@@ -73509,7 +74269,7 @@
         "380290",
         "353090",
         "359331",
-        "377543"
+        "377544"
       ]
     },
     {
@@ -75323,8 +76083,8 @@
         "384927",
         "385173",
         "385183",
-        "384799",
-        "383699"
+        "387171",
+        "384799"
       ]
     },
     {
@@ -75465,6 +76225,82 @@
         "353883",
         "354681",
         "354914"
+      ]
+    },
+    {
+      "id": "387235",
+      "mpn": "JI0034",
+      "title": "Sapatilhas Adidas F50 Club Velcro TF J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0034_1.jpg?1751368117",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387242",
+        "387198",
+        "387246",
+        "387228",
+        "387146"
+      ]
+    },
+    {
+      "id": "387220",
+      "mpn": "JI0023",
+      "title": "Sapatilhas Adidas F50 Club IN",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0023_1.jpg?1751553540",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387038",
+        "387190",
+        "387085",
+        "387026",
+        "387171"
+      ]
+    },
+    {
+      "id": "387190",
+      "mpn": "JI0026",
+      "title": "Sapatilhas Adidas F50 Club TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0026_1.jpg?1751361341",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387002",
+        "387061",
+        "387171",
+        "387220",
+        "387038"
+      ]
+    },
+    {
+      "id": "387246",
+      "mpn": "JI0039",
+      "title": "Sapatilhas Adidas F50 Club TF J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0039_1.jpg?1751365556",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387198",
+        "387235",
+        "387242",
+        "387146",
+        "387228"
       ]
     },
     {
@@ -75779,7 +76615,7 @@
       ]
     },
     {
-      "id": "347693",
+      "id": "219015",
       "mpn": "BB5498",
       "title": "Sapatilhas Adidas Gazelle",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BB5498_1.jpg?1709824226",
@@ -77109,7 +77945,7 @@
       ]
     },
     {
-      "id": "343197",
+      "id": "343200",
       "mpn": "IG3827",
       "title": "Sapatilhas Adidas Hoops 3.0 K",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IG3827_1.jpg?1710322835",
@@ -77356,11 +78192,11 @@
       "price": "49.90",
       "sale_price": "19.96",
       "sugestoes": [
+        "387159",
+        "387270",
         "384927",
-        "376648",
-        "385173",
-        "384761",
-        "384799"
+        "387281",
+        "387099"
       ]
     },
     {
@@ -77375,7 +78211,7 @@
       "price": "49.90",
       "sale_price": "19.96",
       "sugestoes": [
-        "345123",
+        "345113",
         "341525",
         "337800",
         "345100",
@@ -77383,17 +78219,61 @@
       ]
     },
     {
-      "id": "354734",
-      "mpn": "IF6403",
-      "title": "Sapatilhas Adidas Predator Club IN",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF6403_1.jpg?1717771750",
+      "id": "387211",
+      "mpn": "JR7025",
+      "title": "Sapatilhas Adidas Predator Club Sala IN",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR7025_1.jpg?1751553087",
       "gender": "male",
       "site": "2",
       "category": "Calçado > Futsal > Sapatilhas",
       "brand": "Adidas Performance",
       "price": "59.90",
-      "sale_price": "29.95",
-      "sugestoes": []
+      "sale_price": null,
+      "sugestoes": [
+        "387182",
+        "387281",
+        "387220",
+        "387270",
+        "387190"
+      ]
+    },
+    {
+      "id": "387182",
+      "mpn": "JH8854",
+      "title": "Sapatilhas Adidas Predator Club TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH8854_1.jpg?1751363161",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387281",
+        "387073",
+        "387050",
+        "387159",
+        "387099"
+      ]
+    },
+    {
+      "id": "387146",
+      "mpn": "JH8862",
+      "title": "Sapatilhas Adidas Predator Club TF J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH8862_1.jpg?1751362104",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387133",
+        "387246",
+        "387235",
+        "387198",
+        "387228"
+      ]
     },
     {
       "id": "349533",
@@ -77409,9 +78289,9 @@
       "sugestoes": [
         "341293",
         "341525",
+        "387133",
         "341805",
-        "341258",
-        "341468"
+        "341258"
       ]
     },
     {
@@ -79158,7 +80038,7 @@
       "sale_price": "24.95",
       "sugestoes": [
         "329572",
-        "345123",
+        "345113",
         "305751",
         "330043",
         "345100"
@@ -79195,11 +80075,11 @@
       "price": "39.90",
       "sale_price": "19.95",
       "sugestoes": [
+        "387171",
         "384927",
         "384799",
-        "385173",
-        "385183",
-        "383699"
+        "387038",
+        "385173"
       ]
     },
     {
@@ -80636,7 +81516,7 @@
       ]
     },
     {
-      "id": "365339",
+      "id": "365341",
       "mpn": "P722310",
       "title": "Sapatilhas CAT Instruct",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/P722310_1.jpg?1732481880",
@@ -81169,8 +82049,8 @@
         "385462",
         "373751",
         "385408",
-        "354820",
-        "385090"
+        "387353",
+        "387350"
       ]
     },
     {
@@ -81187,9 +82067,9 @@
       "sugestoes": [
         "385462",
         "373751",
-        "385408",
-        "386739",
-        "354820"
+        "387350",
+        "387353",
+        "385408"
       ]
     },
     {
@@ -81205,10 +82085,10 @@
       "sale_price": null,
       "sugestoes": [
         "373751",
+        "387353",
         "385455",
-        "385462",
-        "385408",
-        "385216"
+        "387350",
+        "385462"
       ]
     },
     {
@@ -81225,9 +82105,9 @@
       "sugestoes": [
         "374266",
         "385408",
-        "373751",
-        "354820",
-        "385455"
+        "387353",
+        "387350",
+        "373751"
       ]
     },
     {
