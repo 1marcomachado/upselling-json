@@ -2585,6 +2585,28 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "387357",
+    "mpn": "MTGARO-H2",
+    "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Castanhas Para Homem",
+    "category": "Calçado > Trail > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "387366",
+    "mpn": "MTGARO-J2",
+    "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Cinzentas Para Homem",
+    "category": "Calçado > Trail > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "377772",
     "mpn": "MTHIER-K9",
     "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Cinzentas Para Homem",
@@ -2643,6 +2665,17 @@
     "id": "386766",
     "mpn": "MTHIER-V9",
     "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Camel Para Homem",
+    "category": "Calçado > Trail > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "387405",
+    "mpn": "MTTRX-UR1",
+    "title": "Sapatilhas de Running New Balance Fuelcell Supercomp Trail Camel e Salmão Para Homem",
     "category": "Calçado > Trail > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
@@ -3116,6 +3149,17 @@
     "id": "305709",
     "mpn": "FZ6117",
     "title": "Sapatilhas Adidas Predator Accuracy.4 IN",
+    "category": "Calçado > Futsal > Sapatilhas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "354734",
+    "mpn": "IF6403",
+    "title": "Sapatilhas Adidas Predator Club IN",
     "category": "Calçado > Futsal > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
@@ -3806,6 +3850,28 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "387375",
+    "mpn": "W520-CY9",
+    "title": "Sapatilhas New Balance Fresh Foam 520 v9 Cinzentas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "387412",
+    "mpn": "W520-CW9",
+    "title": "Sapatilhas New Balance Fresh Foam 520 v9 Brancas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "370947",
     "mpn": "WARIS-TT4",
     "title": "Sapatilhas New Balance Fresh Foam Arishi v4 TIRALUX Brancas Para Mulher",
@@ -3875,6 +3941,17 @@
     "id": "375792",
     "mpn": "WEVOZ-LK4",
     "title": "Sapatilhas New Balance Fresh Foam X EVOZ v4 Pretas Para Mulher",
+    "category": "Calçado > Running > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "387424",
+    "mpn": "WEVOZ-RE4",
+    "title": "Sapatilhas New Balance Fresh Foam X EVOZ v4 Cinzentas Para Mulher",
     "category": "Calçado > Running > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
@@ -3963,6 +4040,17 @@
     "id": "386832",
     "mpn": "WTGARO-C2",
     "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Bordeaux Para Mulher",
+    "category": "Calçado > Trail > Sapatilhas",
+    "brand": "New Balance",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "387386",
+    "mpn": "WTGARO-U2",
+    "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Cinzentas Para Mulher",
     "category": "Calçado > Trail > Sapatilhas",
     "brand": "New Balance",
     "site": "2",
