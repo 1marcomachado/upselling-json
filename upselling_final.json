@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-09T06:46:33.213542",
+  "gerado_em": "2025-07-11T06:56:27.870508",
   "produtos": [
     {
       "id": "365143",
@@ -514,9 +514,9 @@
       "sugestoes": [
         "30400",
         "6376",
+        "364884",
         "305768",
-        "362995",
-        "30888"
+        "362995"
       ]
     },
     {
@@ -532,10 +532,10 @@
       "sale_price": null,
       "sugestoes": [
         "30400",
+        "364884",
         "305768",
         "364101",
-        "6376",
-        "30888"
+        "6376"
       ]
     },
     {
@@ -554,7 +554,7 @@
         "6376",
         "305768",
         "17",
-        "30888"
+        "364884"
       ]
     },
     {
@@ -591,8 +591,8 @@
         "305768",
         "30400",
         "6376",
-        "365092",
-        "30888"
+        "364884",
+        "365092"
       ]
     },
     {
@@ -743,7 +743,7 @@
         "359219",
         "353134",
         "344877",
-        "349128",
+        "349130",
         "358500"
       ]
     },
@@ -4466,7 +4466,7 @@
         "341707",
         "341712",
         "372241",
-        "378152",
+        "378151",
         "372227"
       ]
     },
@@ -4485,7 +4485,7 @@
         "341707",
         "378872",
         "341712",
-        "378152",
+        "378151",
         "377368"
       ]
     },
@@ -4599,7 +4599,7 @@
         "376768",
         "376763",
         "347740",
-        "378152",
+        "378151",
         "319596"
       ]
     },
@@ -4733,7 +4733,7 @@
         "341712",
         "372241",
         "377368",
-        "378152"
+        "378151"
       ]
     },
     {
@@ -4984,7 +4984,7 @@
       ]
     },
     {
-      "id": "378152",
+      "id": "378151",
       "mpn": "15339976-MBD",
       "title": "Saia de Ganga Midi Only ONLLumi Back Slit Azul",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/15339976-MBD_1.jpg?1741349319",
@@ -7465,11 +7465,11 @@
       "price": "15.99",
       "sale_price": null,
       "sugestoes": [
+        "364884",
         "305768",
         "6376",
         "362966",
-        "365092",
-        "30400"
+        "365092"
       ]
     },
     {
@@ -8858,10 +8858,10 @@
       "sale_price": null,
       "sugestoes": [
         "364101",
+        "364884",
         "6376",
         "305768",
-        "365092",
-        "364635"
+        "365092"
       ]
     },
     {
@@ -12751,10 +12751,10 @@
       "sale_price": null,
       "sugestoes": [
         "364101",
+        "364884",
         "6376",
         "30477",
-        "362965",
-        "362995"
+        "362965"
       ]
     },
     {
@@ -13807,6 +13807,44 @@
         "359387",
         "358899",
         "320620"
+      ]
+    },
+    {
+      "id": "364165",
+      "mpn": "00381206098",
+      "title": "Caixa de Óculos de Natação Speedo",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/00381206098_1.jpg?1725961710",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Natação > Caixas De Óculos",
+      "brand": "Speedo",
+      "price": "13.99",
+      "sale_price": null,
+      "sugestoes": [
+        "30888",
+        "363364",
+        "305763",
+        "363360",
+        "374845"
+      ]
+    },
+    {
+      "id": "364884",
+      "mpn": "00381215434",
+      "title": "Caixa de Óculos de Natação Speedo",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/00381215434_1.jpg?1725555578",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Natação > Caixas De Óculos",
+      "brand": "Speedo",
+      "price": "13.99",
+      "sale_price": null,
+      "sugestoes": [
+        "30888",
+        "362966",
+        "305763",
+        "364635",
+        "374845"
       ]
     },
     {
@@ -15103,7 +15141,7 @@
         "30400",
         "6376",
         "365092",
-        "17"
+        "364884"
       ]
     },
     {
@@ -15193,8 +15231,8 @@
         "381355",
         "367331",
         "320790",
-        "338421",
-        "362186"
+        "362186",
+        "36016"
       ]
     },
     {
@@ -15681,7 +15719,7 @@
         "337073",
         "153674",
         "374443",
-        "338421"
+        "230431"
       ]
     },
     {
@@ -15717,9 +15755,9 @@
       "sugestoes": [
         "364101",
         "30477",
+        "364884",
         "305768",
-        "30476",
-        "30888"
+        "30476"
       ]
     },
     {
@@ -16149,7 +16187,7 @@
         "344906",
         "351065",
         "367379",
-        "349128",
+        "349130",
         "359219"
       ]
     },
@@ -19120,6 +19158,44 @@
       ]
     },
     {
+      "id": "387463",
+      "mpn": "BG23376G-SAJ",
+      "title": "Mochila New Balance F. C. Porto Azul e Dourada EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BG23376G-SAJ_1.jpg?1752060718",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Mochilas",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "345850",
+        "387308",
+        "375568",
+        "385408",
+        "354820"
+      ]
+    },
+    {
+      "id": "387464",
+      "mpn": "BG23378G-NBK",
+      "title": "Mochila New Balance F. C. Porto Clássica Azul e Dourada EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BG23378G-NBK_1.jpg?1752061080",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Mochilas",
+      "brand": "New Balance",
+      "price": "31.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387308",
+        "345850",
+        "375568",
+        "354820",
+        "385408"
+      ]
+    },
+    {
       "id": "378945",
       "mpn": "1012478",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Kids Rosa Dourado",
@@ -21345,7 +21421,7 @@
       "price": "149.90",
       "sale_price": "104.93",
       "sugestoes": [
-        "365341"
+        "365339"
       ]
     },
     {
@@ -23050,7 +23126,7 @@
         "349133",
         "367419",
         "351053",
-        "349128"
+        "349130"
       ]
     },
     {
@@ -23180,7 +23256,7 @@
       "sale_price": null,
       "sugestoes": [
         "349003",
-        "349380",
+        "349381",
         "316326",
         "350960",
         "356773"
@@ -24640,7 +24716,7 @@
       "sugestoes": [
         "349246",
         "356773",
-        "349380",
+        "349381",
         "349003",
         "340118"
       ]
@@ -24976,11 +25052,11 @@
       "price": "26.99",
       "sale_price": null,
       "sugestoes": [
+        "364884",
         "6376",
         "364101",
         "305768",
-        "30400",
-        "365092"
+        "30400"
       ]
     },
     {
@@ -25510,7 +25586,7 @@
         "373940",
         "367195",
         "383064",
-        "228407"
+        "387449"
       ]
     },
     {
@@ -25525,11 +25601,11 @@
       "price": "54.90",
       "sale_price": null,
       "sugestoes": [
+        "387449",
         "347377",
         "333302",
         "367195",
-        "377656",
-        "379312"
+        "377656"
       ]
     },
     {
@@ -25545,10 +25621,10 @@
       "sale_price": null,
       "sugestoes": [
         "379240",
+        "387449",
         "333302",
         "379312",
-        "228407",
-        "372931"
+        "228407"
       ]
     },
     {
@@ -26113,6 +26189,22 @@
       ]
     },
     {
+      "id": "387440",
+      "mpn": "1030586",
+      "title": "Chinelos Birkenstock Arizona Sintéticos Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030586_1.jpg?1752059969",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380421",
+        "380289"
+      ]
+    },
+    {
       "id": "378437",
       "mpn": "1027395",
       "title": "Chinelos Birkenstock Arizona III Papillio Flex Platform Birko-Flor Pretos",
@@ -26129,7 +26221,7 @@
       ]
     },
     {
-      "id": "383448",
+      "id": "383449",
       "mpn": "1027417",
       "title": "Chinelos Birkenstock Arizona III Papillio Flex Platform Birko-Flor Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1027417_1.jpg?1746024426",
@@ -26238,6 +26330,22 @@
       "sugestoes": [
         "380421",
         "380289"
+      ]
+    },
+    {
+      "id": "387455",
+      "mpn": "1025657",
+      "title": "Chinelos Birkenstock Arizona Couro em Camurça Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1025657_1.jpg?1751631925",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "346086",
+        "366764"
       ]
     },
     {
@@ -28353,7 +28461,7 @@
       ]
     },
     {
-      "id": "373618",
+      "id": "373620",
       "mpn": "ID3880",
       "title": "Chuteiras Adidas Predator Elite FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID3880_1.jpg?1737625839",
@@ -29071,7 +29179,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "169.90",
-      "sale_price": "110.44",
+      "sale_price": null,
       "sugestoes": [
         "356794",
         "380367",
@@ -29362,7 +29470,7 @@
         "374399",
         "380027",
         "372654",
-        "132018"
+        "358367"
       ]
     },
     {
@@ -29849,7 +29957,7 @@
         "1427",
         "384336",
         "347983",
-        "348950"
+        "1333"
       ]
     },
     {
@@ -29945,6 +30053,25 @@
         "228319",
         "384336",
         "308000"
+      ]
+    },
+    {
+      "id": "1333",
+      "mpn": "3402201100",
+      "title": "Pack de Limpeza Crep Protect Cure",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/3402201100_1.jpg?1673021402",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Acessórios > Limpeza Calçado",
+      "brand": "Crep Protect",
+      "price": "20.00",
+      "sale_price": null,
+      "sugestoes": [
+        "308033",
+        "308000",
+        "228319",
+        "186805",
+        "384336"
       ]
     },
     {
@@ -30732,7 +30859,7 @@
       "price": "59.90",
       "sale_price": "35.94",
       "sugestoes": [
-        "349128",
+        "349130",
         "365072",
         "364902",
         "344873",
@@ -30931,25 +31058,6 @@
         "370140",
         "320829",
         "367357"
-      ]
-    },
-    {
-      "id": "338421",
-      "mpn": "DA4086-115",
-      "title": "Sapatilhas Nike Blazer Mid 77",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DA4086-115_1.jpg?1697640638",
-      "gender": "unissex",
-      "site": "1",
-      "category": "Calçado > Sapatilhas",
-      "brand": "Nike",
-      "price": "89.90",
-      "sale_price": "44.95",
-      "sugestoes": [
-        "320829",
-        "320790",
-        "320921",
-        "320825",
-        "370140"
       ]
     },
     {
@@ -31414,7 +31522,7 @@
         "378579",
         "298763",
         "379568",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -31430,7 +31538,7 @@
       "sale_price": "47.45",
       "sugestoes": [
         "378575",
-        "337951",
+        "337952",
         "380868",
         "379324",
         "353086"
@@ -33150,7 +33258,7 @@
         "214470",
         "320737",
         "211005",
-        "383464"
+        "383463"
       ]
     },
     {
@@ -33551,6 +33659,25 @@
       ]
     },
     {
+      "id": "358367",
+      "mpn": "DM4044-107",
+      "title": "Sapatilhas Nike Cortez",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DM4044-107_1.jpg?1721382321",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "99.90",
+      "sale_price": "69.93",
+      "sugestoes": [
+        "380335",
+        "380340",
+        "381062",
+        "380367",
+        "385385"
+      ]
+    },
+    {
       "id": "369914",
       "mpn": "DM4044-002",
       "title": "Sapatilhas Nike Cortez Pretas",
@@ -33641,7 +33768,7 @@
         "275633",
         "353086",
         "380973",
-        "337951",
+        "337952",
         "380868"
       ]
     },
@@ -33661,7 +33788,7 @@
         "380973",
         "353086",
         "380868",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -33760,7 +33887,7 @@
       ]
     },
     {
-      "id": "255425",
+      "id": "255426",
       "mpn": "DM6831-690",
       "title": "Calções Nike Sportswear Sport Essential",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DM6831-690_1.jpg?1659632168",
@@ -34658,7 +34785,7 @@
       "sale_price": "29.95",
       "sugestoes": [
         "373058",
-        "337951",
+        "337952",
         "378579",
         "378575",
         "375825"
@@ -35262,7 +35389,7 @@
       ]
     },
     {
-      "id": "337951",
+      "id": "337952",
       "mpn": "DV9315-010",
       "title": "T-shirt Nike Miler",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV9315-010_1.jpg?1697446820",
@@ -35391,7 +35518,7 @@
         "353086",
         "380973",
         "380868",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -35410,7 +35537,7 @@
         "380973",
         "353086",
         "380868",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -36433,44 +36560,6 @@
         "339459",
         "309738",
         "310610"
-      ]
-    },
-    {
-      "id": "364165",
-      "mpn": "00381206098",
-      "title": "Caixa de Óculos de Natação Speedo",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/00381206098_1.jpg?1725961710",
-      "gender": "unissex",
-      "site": "2",
-      "category": "Acessórios > Natação > Óculos de Natação",
-      "brand": "Speedo",
-      "price": "13.99",
-      "sale_price": null,
-      "sugestoes": [
-        "30888",
-        "362966",
-        "17",
-        "362995",
-        "30476"
-      ]
-    },
-    {
-      "id": "364884",
-      "mpn": "00381215434",
-      "title": "Caixa de Óculos de Natação Speedo",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/00381215434_1.jpg?1725555578",
-      "gender": "unissex",
-      "site": "2",
-      "category": "Acessórios > Natação > Óculos de Natação",
-      "brand": "Speedo",
-      "price": "13.99",
-      "sale_price": null,
-      "sugestoes": [
-        "30888",
-        "362966",
-        "364635",
-        "305768",
-        "365092"
       ]
     },
     {
@@ -38479,7 +38568,7 @@
         "349003",
         "350960",
         "349246",
-        "349380"
+        "349381"
       ]
     },
     {
@@ -38536,7 +38625,7 @@
         "349003",
         "349246",
         "350960",
-        "349380"
+        "349381"
       ]
     },
     {
@@ -40026,8 +40115,8 @@
         "131613",
         "159452",
         "247378",
-        "338421",
-        "153674"
+        "153674",
+        "230431"
       ]
     },
     {
@@ -41316,9 +41405,9 @@
       "sugestoes": [
         "380367",
         "385385",
+        "358367",
         "372654",
-        "376060",
-        "374399"
+        "376060"
       ]
     },
     {
@@ -41333,11 +41422,11 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
+        "358367",
         "381223",
         "372654",
         "376060",
-        "383758",
-        "374399"
+        "383758"
       ]
     },
     {
@@ -41352,11 +41441,11 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
+        "358367",
         "372654",
         "374399",
         "380367",
-        "381223",
-        "373755"
+        "381223"
       ]
     },
     {
@@ -41412,7 +41501,7 @@
         "298763",
         "275633",
         "365716",
-        "337951",
+        "337952",
         "376782"
       ]
     },
@@ -41451,7 +41540,7 @@
         "275633",
         "365716",
         "353086",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -48668,7 +48757,7 @@
         "383478",
         "206971",
         "192398",
-        "255425",
+        "255426",
         "385195"
       ]
     },
@@ -49142,7 +49231,7 @@
         "275633",
         "380973",
         "353086",
-        "337951",
+        "337952",
         "380868"
       ]
     },
@@ -49333,7 +49422,7 @@
         "380973",
         "353086",
         "380868",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -50315,7 +50404,7 @@
         "275633",
         "365716",
         "353086",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -50657,7 +50746,7 @@
       ]
     },
     {
-      "id": "383464",
+      "id": "383463",
       "mpn": "HQ2124-400",
       "title": "Chinelos Nike Victori One Azuis Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HQ2124-400_1.jpg?1746026132",
@@ -51295,7 +51384,7 @@
         "376777",
         "378579",
         "379568",
-        "337951"
+        "337952"
       ]
     },
     {
@@ -58255,7 +58344,7 @@
         "214470",
         "211005",
         "358822",
-        "383464",
+        "383463",
         "385385"
       ]
     },
@@ -59374,7 +59463,7 @@
       "sugestoes": [
         "383196",
         "381551",
-        "384287",
+        "384286",
         "384875",
         "345900"
       ]
@@ -59395,7 +59484,7 @@
         "382944",
         "381570",
         "383084",
-        "384287"
+        "384286"
       ]
     },
     {
@@ -59410,7 +59499,7 @@
       "price": "169.90",
       "sale_price": null,
       "sugestoes": [
-        "384287",
+        "384286",
         "383245",
         "382944",
         "382960",
@@ -59803,7 +59892,7 @@
       "price": "149.90",
       "sale_price": null,
       "sugestoes": [
-        "384287",
+        "384286",
         "383196",
         "381413",
         "381494",
@@ -59860,7 +59949,7 @@
       "price": "159.90",
       "sale_price": null,
       "sugestoes": [
-        "384287",
+        "384286",
         "384208",
         "382952",
         "384871",
@@ -59881,7 +59970,7 @@
       "sugestoes": [
         "382956",
         "381545",
-        "384287",
+        "384286",
         "382952",
         "384208"
       ]
@@ -59898,7 +59987,7 @@
       "price": "169.90",
       "sale_price": null,
       "sugestoes": [
-        "384287",
+        "384286",
         "384894",
         "383239",
         "384871",
@@ -60048,7 +60137,7 @@
       "price": "69.90",
       "sale_price": "55.92",
       "sugestoes": [
-        "349380",
+        "349381",
         "349246",
         "349003",
         "350960",
@@ -61420,7 +61509,7 @@
         "381581",
         "381586",
         "382901",
-        "384287"
+        "384286"
       ]
     },
     {
@@ -61766,6 +61855,44 @@
       ]
     },
     {
+      "id": "386957",
+      "mpn": "M520-CY9",
+      "title": "Sapatilhas New Balance Fresh Foam 520 v9 Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M520-CY9_1.jpg?1751645335",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "340986",
+        "290848",
+        "340977",
+        "341039",
+        "341051"
+      ]
+    },
+    {
+      "id": "387395",
+      "mpn": "M520-CC9",
+      "title": "Sapatilhas New Balance Fresh Foam 520 v9 Verdes Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M520-CC9_1.jpg?1751645786",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "290848",
+        "340977",
+        "340986",
+        "341039",
+        "341051"
+      ]
+    },
+    {
       "id": "91564",
       "mpn": "M6000-608",
       "title": "Polo Fred Perry M6000 Azul Marinho",
@@ -61817,7 +61944,7 @@
       "sugestoes": [
         "384208",
         "381545",
-        "384287",
+        "384286",
         "384871",
         "344628"
       ]
@@ -62008,7 +62135,7 @@
         "381749",
         "381564",
         "381551",
-        "384287",
+        "384286",
         "382936"
       ]
     },
@@ -62043,7 +62170,7 @@
       "price": "129.90",
       "sale_price": null,
       "sugestoes": [
-        "384287",
+        "384286",
         "344628",
         "384283",
         "384894",
@@ -62159,7 +62286,7 @@
       "sugestoes": [
         "384875",
         "381551",
-        "384287",
+        "384286",
         "381739",
         "383196"
       ]
@@ -62180,7 +62307,7 @@
         "365040",
         "384871",
         "381498",
-        "384287"
+        "384286"
       ]
     },
     {
@@ -62293,12 +62420,12 @@
         "382956",
         "381545",
         "384208",
-        "384287",
+        "384286",
         "382952"
       ]
     },
     {
-      "id": "384287",
+      "id": "384286",
       "mpn": "M9907-Q20",
       "title": "Camisa Polo Fred Perry Chenille Tape Verde",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M9907-Q20_1.jpg?1746809650",
@@ -62367,7 +62494,7 @@
       "sale_price": null,
       "sugestoes": [
         "382956",
-        "384287",
+        "384286",
         "384208",
         "383239",
         "382952"
@@ -63583,6 +63710,25 @@
       ]
     },
     {
+      "id": "387465",
+      "mpn": "MJ231572-NV",
+      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231572-NV_1.jpg?1752061409",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "385544",
+        "386465",
+        "387300",
+        "387304"
+      ]
+    },
+    {
       "id": "387334",
       "mpn": "MJ231582-IKW",
       "title": "Casaco New Balance F. C. Porto EP25/26",
@@ -63656,25 +63802,6 @@
         "341039",
         "290848",
         "341051"
-      ]
-    },
-    {
-      "id": "341953",
-      "mpn": "ML610-TF",
-      "title": "Sapatilhas New Balance ML610 V1",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ML610-TF_1.jpg?1705935280",
-      "gender": "unissex",
-      "site": "1",
-      "category": "Calçado > Sapatilhas",
-      "brand": "New Balance",
-      "price": "139.90",
-      "sale_price": "69.95",
-      "sugestoes": [
-        "373264",
-        "333921",
-        "376834",
-        "330257",
-        "373289"
       ]
     },
     {
@@ -64152,7 +64279,7 @@
       ]
     },
     {
-      "id": "253224",
+      "id": "253222",
       "mpn": "MR530-EMA",
       "title": "Sapatilhas New Balance MR530",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MR530-EMA_1.jpg?1702902976",
@@ -64335,7 +64462,7 @@
         "386578",
         "385937",
         "385544",
-        "386465"
+        "387465"
       ]
     },
     {
@@ -64353,8 +64480,8 @@
         "387334",
         "385417",
         "386578",
-        "385937",
-        "387345"
+        "387465",
+        "385937"
       ]
     },
     {
@@ -64391,8 +64518,8 @@
         "387334",
         "386578",
         "387315",
-        "387345",
-        "385937"
+        "387465",
+        "387345"
       ]
     },
     {
@@ -64407,11 +64534,11 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
+        "387465",
         "387345",
         "387334",
         "386578",
-        "387311",
-        "387330"
+        "387311"
       ]
     },
     {
@@ -64427,10 +64554,10 @@
       "sale_price": null,
       "sugestoes": [
         "387334",
+        "387465",
         "386578",
         "387345",
-        "387330",
-        "387315"
+        "387330"
       ]
     },
     {
@@ -64879,8 +65006,8 @@
         "387311",
         "387345",
         "387334",
-        "386578",
-        "387293"
+        "387465",
+        "386578"
       ]
     },
     {
@@ -64992,9 +65119,9 @@
       "sugestoes": [
         "387311",
         "387341",
+        "387465",
         "387345",
-        "387334",
-        "387293"
+        "387334"
       ]
     },
     {
@@ -65011,9 +65138,9 @@
       "sugestoes": [
         "387311",
         "387293",
+        "387465",
         "387345",
-        "387304",
-        "387341"
+        "387304"
       ]
     },
     {
@@ -65029,10 +65156,10 @@
       "sale_price": null,
       "sugestoes": [
         "387311",
+        "387465",
         "387345",
         "387293",
-        "387341",
-        "387334"
+        "387341"
       ]
     },
     {
@@ -65580,6 +65707,32 @@
       "sugestoes": []
     },
     {
+      "id": "387357",
+      "mpn": "MTGARO-H2",
+      "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Castanhas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MTGARO-H2_1.jpg?1751639718",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "387366",
+      "mpn": "MTGARO-J2",
+      "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MTGARO-J2_1.jpg?1751643060",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "377772",
       "mpn": "MTHIER-K9",
       "title": "Sapatilhas New Balance Fresh Foam X Hierro v9 Cinzentas Para Homem",
@@ -65658,6 +65811,19 @@
       "sugestoes": []
     },
     {
+      "id": "387405",
+      "mpn": "MTTRX-UR1",
+      "title": "Sapatilhas de Running New Balance Fuelcell Supercomp Trail Camel e Salmão Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MTTRX-UR1_1.jpg?1751991164",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "219.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "371634",
       "mpn": "MTVNYM-N1",
       "title": "Sapatilhas New Balance FuelCell Venym V1 Pretas Para Homem",
@@ -65698,8 +65864,8 @@
         "386578",
         "387341",
         "386465",
-        "387345",
-        "385544"
+        "387465",
+        "387345"
       ]
     },
     {
@@ -65718,7 +65884,7 @@
         "387311",
         "385544",
         "386465",
-        "387345"
+        "387465"
       ]
     },
     {
@@ -66653,8 +66819,8 @@
         "364101",
         "365092",
         "305768",
-        "6376",
-        "30400"
+        "364884",
+        "6376"
       ]
     },
     {
@@ -66670,10 +66836,10 @@
       "sale_price": null,
       "sugestoes": [
         "305768",
+        "364884",
         "30400",
         "365092",
-        "6376",
-        "364101"
+        "6376"
       ]
     },
     {
@@ -66691,8 +66857,8 @@
         "6376",
         "305768",
         "30400",
-        "30477",
-        "17"
+        "364884",
+        "30477"
       ]
     },
     {
@@ -67106,7 +67272,7 @@
         "228319",
         "1427",
         "347983",
-        "1760"
+        "1333"
       ]
     },
     {
@@ -74305,6 +74471,22 @@
       ]
     },
     {
+      "id": "387433",
+      "mpn": "1030389",
+      "title": "Chinelos Birkenstock Arizona Big Buckle Eva Cinzentos",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030389_1.jpg?1751993867",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Chinelos",
+      "brand": "Birkenstock",
+      "price": "64.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380421",
+        "380289"
+      ]
+    },
+    {
       "id": "346086",
       "mpn": "34791",
       "title": "Sandálias Birkenstock Milano Birko-Flor",
@@ -74796,7 +74978,7 @@
       ]
     },
     {
-      "id": "375129",
+      "id": "375130",
       "mpn": "JR8173",
       "title": "Sapatilhas Adidas Campus 00s Pretas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR8173_1.jpg?1738576265",
@@ -76456,7 +76638,7 @@
       ]
     },
     {
-      "id": "355642",
+      "id": "355648",
       "mpn": "IH7821",
       "title": "Sapatilhas Adidas Forum Low CL Brancas e Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IH7821_1.jpg?1718709986",
@@ -76691,7 +76873,7 @@
       ]
     },
     {
-      "id": "365525",
+      "id": "365526",
       "mpn": "IF9655",
       "title": "Sapatilhas Adidas Gazelle",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF9655_1.jpg?1726585781",
@@ -76821,6 +77003,25 @@
         "377766",
         "195883",
         "377926"
+      ]
+    },
+    {
+      "id": "387449",
+      "mpn": "JQ1296",
+      "title": "Sapatilhas Adidas Gazelle Bold J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JQ1296_1.jpg?1752143388",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Originals",
+      "price": "79.90",
+      "sale_price": null,
+      "sugestoes": [
+        "347703",
+        "351558",
+        "350816",
+        "329351",
+        "347343"
       ]
     },
     {
@@ -78219,6 +78420,19 @@
       ]
     },
     {
+      "id": "354734",
+      "mpn": "IF6403",
+      "title": "Sapatilhas Adidas Predator Club IN",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF6403_1.jpg?1717771750",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "59.90",
+      "sale_price": "29.95",
+      "sugestoes": []
+    },
+    {
       "id": "387211",
       "mpn": "JR7025",
       "title": "Sapatilhas Adidas Predator Club Sala IN",
@@ -78580,7 +78794,7 @@
       ]
     },
     {
-      "id": "3051",
+      "id": "3052",
       "mpn": "BA8375",
       "title": "Sapatilhas Adidas Stan Smith C",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BA8375_1.jpg?1551380660",
@@ -81516,7 +81730,7 @@
       ]
     },
     {
-      "id": "365341",
+      "id": "365339",
       "mpn": "P722310",
       "title": "Sapatilhas CAT Instruct",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/P722310_1.jpg?1732481880",
@@ -82105,9 +82319,9 @@
       "sugestoes": [
         "374266",
         "385408",
+        "387464",
         "387353",
-        "387350",
-        "373751"
+        "387350"
       ]
     },
     {
@@ -82978,7 +83192,7 @@
         "345603",
         "370831",
         "374588",
-        "375129"
+        "375130"
       ]
     },
     {
@@ -83635,7 +83849,7 @@
       ]
     },
     {
-      "id": "349380",
+      "id": "349381",
       "mpn": "IT9321",
       "title": "T-shirt Adidas Spain UEFA Euro 2024 Y",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IT9321_1.jpg?1711630700",
@@ -83705,7 +83919,7 @@
       "sugestoes": [
         "353286",
         "202548",
-        "375129",
+        "375130",
         "370831",
         "374365"
       ]
@@ -84145,7 +84359,7 @@
       ]
     },
     {
-      "id": "349128",
+      "id": "349130",
       "mpn": "NF0A87NPFN4",
       "title": "T-shirt The North Face Redbox",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A87NPFN4_1.jpg?1715274086",
@@ -86316,7 +86530,7 @@
       ]
     },
     {
-      "id": "370191",
+      "id": "370192",
       "mpn": "U740-WM2",
       "title": "Sapatilhas New Balance U740 V2",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U740-WM2_1.jpg?1734082590",
@@ -86651,7 +86865,7 @@
       ]
     },
     {
-      "id": "378953",
+      "id": "378954",
       "mpn": "U9060-NTB",
       "title": "Sapatilhas New Balance U9060 V1 Castanhas e Rosa",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-NTB_1.jpg?1742399841",
@@ -88242,6 +88456,32 @@
       "sugestoes": []
     },
     {
+      "id": "387375",
+      "mpn": "W520-CY9",
+      "title": "Sapatilhas New Balance Fresh Foam 520 v9 Cinzentas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/W520-CY9_1.jpg?1751643495",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "387412",
+      "mpn": "W520-CW9",
+      "title": "Sapatilhas New Balance Fresh Foam 520 v9 Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/W520-CW9_1.jpg?1751644097",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
       "id": "370947",
       "mpn": "WARIS-TT4",
       "title": "Sapatilhas New Balance Fresh Foam Arishi v4 TIRALUX Brancas Para Mulher",
@@ -88419,6 +88659,19 @@
       "mpn": "WEVOZ-LK4",
       "title": "Sapatilhas New Balance Fresh Foam X EVOZ v4 Pretas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WEVOZ-LK4_1.jpg?1739190013",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "New Balance",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "387424",
+      "mpn": "WEVOZ-RE4",
+      "title": "Sapatilhas New Balance Fresh Foam X EVOZ v4 Cinzentas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WEVOZ-RE4_1.jpg?1751648230",
       "gender": "female",
       "site": "2",
       "category": "Calçado > Running > Sapatilhas",
@@ -88972,6 +89225,19 @@
       "mpn": "WTGARO-C2",
       "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Bordeaux Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WTGARO-C2_1.jpg?1751562064",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Trail > Sapatilhas",
+      "brand": "New Balance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": []
+    },
+    {
+      "id": "387386",
+      "mpn": "WTGARO-U2",
+      "title": "Sapatilhas New Balance Fresh Foam X Garoé v2 Cinzentas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/WTGARO-U2_1.jpg?1751641519",
       "gender": "female",
       "site": "2",
       "category": "Calçado > Trail > Sapatilhas",
