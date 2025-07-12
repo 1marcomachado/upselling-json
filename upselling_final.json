@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-11T06:56:27.870508",
+  "gerado_em": "2025-07-12T06:47:07.360170",
   "produtos": [
     {
       "id": "365143",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": "359383",
+      "id": "359384",
       "mpn": "0002S-0000",
       "title": "Vestido de Ganga Levis Denim Bustier",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/0002S-0000_1.jpg?1722433541",
@@ -8584,7 +8584,7 @@
         "366126",
         "252229",
         "359123",
-        "359383",
+        "359384",
         "365812"
       ]
     },
@@ -15179,7 +15179,7 @@
         "320628",
         "366126",
         "349815",
-        "359383"
+        "359384"
       ]
     },
     {
@@ -16244,7 +16244,7 @@
         "359123",
         "240691",
         "168484",
-        "359383",
+        "359384",
         "252229"
       ]
     },
@@ -16262,7 +16262,7 @@
       "sugestoes": [
         "365812",
         "365731",
-        "359383",
+        "359384",
         "320628",
         "359123"
       ]
@@ -16375,7 +16375,7 @@
       "sale_price": null,
       "sugestoes": [
         "320628",
-        "359383",
+        "359384",
         "366126",
         "177688",
         "365812"
@@ -18955,7 +18955,7 @@
       ]
     },
     {
-      "id": "349975",
+      "id": "349983",
       "mpn": "BB550-ESA",
       "title": "Sapatilhas New Balance BB550 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BB550-ESA_1.jpg?1712136744",
@@ -27533,7 +27533,7 @@
       "sugestoes": [
         "379890",
         "379910",
-        "379882",
+        "379883",
         "380456"
       ]
     },
@@ -28110,7 +28110,7 @@
       "sugestoes": [
         "379890",
         "379910",
-        "379882",
+        "379883",
         "380388"
       ]
     },
@@ -28461,25 +28461,6 @@
       ]
     },
     {
-      "id": "373620",
-      "mpn": "ID3880",
-      "title": "Chuteiras Adidas Predator Elite FG",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID3880_1.jpg?1737625839",
-      "gender": "male",
-      "site": "2",
-      "category": "Calçado > Futebol > Chuteiras",
-      "brand": "Adidas Performance",
-      "price": "259.90",
-      "sale_price": "129.95",
-      "sugestoes": [
-        "354655",
-        "387182",
-        "387190",
-        "328307",
-        "286055"
-      ]
-    },
-    {
       "id": "384820",
       "mpn": "JR4771",
       "title": "Chuteiras Adidas Predator Elite FT AG",
@@ -28511,7 +28492,7 @@
       "sale_price": "237.92",
       "sugestoes": [
         "379910",
-        "379882",
+        "379883",
         "380388",
         "380456"
       ]
@@ -28586,7 +28567,7 @@
       "sale_price": "229.42",
       "sugestoes": [
         "379890",
-        "379882",
+        "379883",
         "380388",
         "380456"
       ]
@@ -28761,7 +28742,7 @@
       ]
     },
     {
-      "id": "379882",
+      "id": "379883",
       "mpn": "ID3773",
       "title": "Chuteiras Adidas Predator League MG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID3773_1.jpg?1742836906",
@@ -30411,7 +30392,7 @@
       ]
     },
     {
-      "id": "375964",
+      "id": "375966",
       "mpn": "CW1588-100",
       "title": "Sapatilhas Nike Dunk Low Pretas e Brancas Para Criança",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/CW1588-100_1.jpg?1739209796",
@@ -44620,7 +44601,7 @@
       "sale_price": "67.92",
       "sugestoes": [
         "366474",
-        "375964",
+        "375966",
         "374507",
         "359311",
         "333769"
@@ -51439,7 +51420,7 @@
       "sugestoes": [
         "372788",
         "380539",
-        "380616",
+        "380618",
         "381046",
         "367054"
       ]
@@ -58216,7 +58197,7 @@
       ]
     },
     {
-      "id": "380616",
+      "id": "380618",
       "mpn": "IB2766-602",
       "title": "Sapatilhas Nike Uplift SC Rosa Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB2766-602_1.jpg?1744215262",
@@ -59488,7 +59469,7 @@
       ]
     },
     {
-      "id": "384283",
+      "id": "384282",
       "mpn": "J9051-Q20",
       "title": "Casaco Fred Perry Chenille Tape Track Verde",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/J9051-Q20_1.jpg?1746809529",
@@ -60808,6 +60789,25 @@
         "330269",
         "376834",
         "330254"
+      ]
+    },
+    {
+      "id": "371162",
+      "mpn": "M1000-EA",
+      "title": "Sapatilhas New Balance M1000 V1",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1000-EA_1.jpg?1733849609",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "169.90",
+      "sale_price": "110.44",
+      "sugestoes": [
+        "376796",
+        "383660",
+        "383652",
+        "375455",
+        "383680"
       ]
     },
     {
@@ -62172,7 +62172,7 @@
       "sugestoes": [
         "384286",
         "344628",
-        "384283",
+        "384282",
         "384894",
         "384278"
       ]
@@ -62400,7 +62400,7 @@
       "sugestoes": [
         "384289",
         "381481",
-        "384283",
+        "384282",
         "382944",
         "90527"
       ]
@@ -62438,7 +62438,7 @@
       "sugestoes": [
         "383239",
         "383196",
-        "384283",
+        "384282",
         "382944",
         "381425"
       ]
@@ -68640,7 +68640,7 @@
       ]
     },
     {
-      "id": "309574",
+      "id": "309577",
       "mpn": "PMS30930-800",
       "title": "Sapatilhas Pepe Jeans Yogi Original 23 M",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PMS30930-800_1.jpg?1731433879",
@@ -73357,7 +73357,7 @@
         "363254",
         "363879",
         "363258",
-        "309574"
+        "309577"
       ]
     },
     {
@@ -80297,7 +80297,7 @@
       ]
     },
     {
-      "id": "357540",
+      "id": "357539",
       "mpn": "ID0427",
       "title": "Sapatilhas Adidas X_PLR Phase",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID0427_1.jpg?1709637294",
@@ -80370,6 +80370,25 @@
         "360509",
         "378164",
         "222047"
+      ]
+    },
+    {
+      "id": "75072",
+      "mpn": "EE3RED",
+      "title": "Sapatilhas Vans Authentic",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EE3RED_1.jpg?1675874691",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Vans",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "378164",
+        "360508",
+        "222047",
+        "261312",
+        "360509"
       ]
     },
     {
@@ -86978,7 +86997,7 @@
       ]
     },
     {
-      "id": "386685",
+      "id": "386686",
       "mpn": "U9060-ERB",
       "title": "Sapatilhas New Balance U9060 V1 Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-ERB_1.jpg?1751457463",
@@ -88101,8 +88120,8 @@
         "378228",
         "378259",
         "359658",
-        "373340",
-        "364041"
+        "75072",
+        "373340"
       ]
     },
     {
