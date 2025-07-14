@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-13T06:45:39.351090",
+  "gerado_em": "2025-07-14T06:40:42.351168",
   "produtos": [
     {
       "id": "365143",
@@ -12425,25 +12425,6 @@
       ]
     },
     {
-      "id": "307452",
-      "mpn": "45SUC0001-V05",
-      "title": "Sapatilhas Lacoste Carnaby EVO 123 C",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/45SUC0001-V05_1.jpg?1677689305",
-      "gender": "unissex",
-      "site": "1",
-      "category": "Calçado > Sapatilhas",
-      "brand": "Lacoste",
-      "price": "59.90",
-      "sale_price": "29.95",
-      "sugestoes": [
-        "357521",
-        "357847",
-        "260978",
-        "260982",
-        "260921"
-      ]
-    },
-    {
       "id": "385492",
       "mpn": "60667362E",
       "title": "Boné New Era New York Yankees AOP Mesh 59FIFTY Azul Marinho",
@@ -19411,7 +19392,7 @@
       ]
     },
     {
-      "id": "311918",
+      "id": "311921",
       "mpn": "1024691",
       "title": "Chinelos Birkenstock Arizona Eva Verdes",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1024691_1.jpg?1680527732",
@@ -25411,7 +25392,7 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
-        "348049",
+        "348051",
         "319055",
         "353852",
         "332595",
@@ -25623,7 +25604,7 @@
         "379240",
         "387449",
         "333302",
-        "379312",
+        "379313",
         "228407"
       ]
     },
@@ -25639,7 +25620,7 @@
       "price": "54.90",
       "sale_price": null,
       "sugestoes": [
-        "353271",
+        "353272",
         "350741",
         "347377",
         "377385",
@@ -41822,7 +41803,7 @@
       ]
     },
     {
-      "id": "363616",
+      "id": "363617",
       "mpn": "FD6724-400",
       "title": "Chuteiras Nike Phantom GX 2 Academy EasyOn FG/MG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FD6724-400_1.jpg?1724317916",
@@ -41853,7 +41834,7 @@
       "sale_price": "47.45",
       "sugestoes": [
         "360082",
-        "363616",
+        "363617",
         "364116",
         "363835",
         "366441"
@@ -42286,7 +42267,7 @@
       "sugestoes": [
         "364116",
         "363950",
-        "363616",
+        "363617",
         "366441",
         "363835"
       ]
@@ -44371,7 +44352,7 @@
       "sugestoes": [
         "364116",
         "360082",
-        "363616",
+        "363617",
         "366441",
         "363950"
       ]
@@ -77025,7 +77006,7 @@
       ]
     },
     {
-      "id": "353271",
+      "id": "353272",
       "mpn": "HQ6893",
       "title": "Sapatilhas Adidas Gazelle Bold W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HQ6893_1.jpg?1716903331",
@@ -77861,7 +77842,7 @@
       ]
     },
     {
-      "id": "379312",
+      "id": "379313",
       "mpn": "JH7212",
       "title": "Sapatilhas Adidas Gazelle W Verdes e Laranja",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7212_1.jpg?1742578447",
@@ -78870,7 +78851,7 @@
       ]
     },
     {
-      "id": "348049",
+      "id": "348051",
       "mpn": "IE8114",
       "title": "Sapatilhas Adidas Stan Smith Cf C",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE8114_1.jpg?1710262267",
@@ -85057,8 +85038,8 @@
         "260982",
         "260978",
         "360222",
-        "307452",
-        "364053"
+        "364053",
+        "363199"
       ]
     },
     {
@@ -85077,7 +85058,7 @@
         "260978",
         "260921",
         "245842",
-        "307452"
+        "363199"
       ]
     },
     {
