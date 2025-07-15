@@ -22,6 +22,39 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "218683",
+    "mpn": "10001-309",
+    "title": "Sandálias Crocs Classic Verdes",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "384322",
+    "mpn": "10001-0DA",
+    "title": "Sandálias Crocs Classic Cinzentas",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "384636",
+    "mpn": "10001-002",
+    "title": "Sandálias Crocs Classic Azuis",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "347297",
     "mpn": "1014A311-701",
     "title": "Sapatilhas Asics GEL-Noosa Tri 15 GS",
@@ -53,6 +86,17 @@
     "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "357298",
+    "mpn": "107863-02",
+    "title": "Chuteiras Puma King Match FG/AG",
+    "category": "Calçado > Futebol > Chuteiras",
+    "brand": "Puma",
+    "site": "2",
+    "gender": "male",
+    "pack": "Puma Formula Pack",
+    "motivo": "Sem candidatos com o mesmo pack"
   },
   {
     "id": "356963",
@@ -132,17 +176,6 @@
     "motivo": "Sem candidatos com o mesmo pack"
   },
   {
-    "id": "450",
-    "mpn": "1096089T-CHE",
-    "title": "Botas Ugg Keelan Kids",
-    "category": "Calçado > Botas",
-    "brand": "Ugg",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "366251",
     "mpn": "1123202-ELT",
     "title": "Sapatilhas Hoka Bondi 8 M",
@@ -165,26 +198,48 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "373388",
-    "mpn": "1126851-WLR",
-    "title": "Sapatilhas Hoka Mafate Speed 2 W",
+    "id": "373376",
+    "mpn": "1126851-BCS",
+    "title": "Sapatilhas Hoka Mafate Speed 2 M",
     "category": "Calçado > Sapatilhas",
     "brand": "Hoka",
     "site": "1",
-    "gender": "female",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "374010",
-    "mpn": "1127896-MNW",
-    "title": "Sapatilhas Hoka Clifton 9 W",
-    "category": "Calçado > Running > Sapatilhas",
+    "id": "376240",
+    "mpn": "1126851-PTY",
+    "title": "Sapatilhas Hoka Mafate Speed 2 M",
+    "category": "Calçado > Sapatilhas",
     "brand": "Hoka",
-    "site": "2",
-    "gender": "female",
+    "site": "1",
+    "gender": "male",
     "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "379818",
+    "mpn": "1126851-CYL",
+    "title": "Sapatilhas Hoka Mafate Speed 2 M Cinzentas",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Hoka",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "346102",
+    "mpn": "1127895-HMB",
+    "title": "Sapatilhas Hoka Clifton 9 M Cinzentas",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Hoka",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "377190",
@@ -242,17 +297,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "376259",
-    "mpn": "1141531-WWH",
-    "title": "Sapatilhas Hoka Stinson 7 W Cinzentas",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Hoka",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "379145",
     "mpn": "1147790-FLV",
     "title": "Sapatilhas Hoka Mach 6 M Brancas e Laranja",
@@ -273,6 +317,17 @@
     "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "379836",
+    "mpn": "1147791-SYL",
+    "title": "Sapatilhas Hoka Speedgoat 6 M Cinzentas",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Hoka",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "375023",
@@ -308,17 +363,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "366273",
-    "mpn": "1147850-STL",
-    "title": "Sapatilhas Hoka Arahi 7 M",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "Hoka",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "376251",
     "mpn": "1147913-VSN",
     "title": "Sapatilhas Hoka Kawana 2 W Bege",
@@ -341,15 +385,15 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "363352",
-    "mpn": "1155111-VVY",
-    "title": "Sapatilhas Hoka Skyflow M",
-    "category": "Calçado > Running > Sapatilhas",
+    "id": "379812",
+    "mpn": "1147930-CRD",
+    "title": "Sapatilhas Hoka Kawana 2 M Cinzentas",
+    "category": "Calçado > Sapatilhas",
     "brand": "Hoka",
-    "site": "2",
+    "site": "1",
     "gender": "male",
     "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "373973",
@@ -381,17 +425,6 @@
     "brand": "Hoka",
     "site": "2",
     "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "373966",
-    "mpn": "1162012-BTF",
-    "title": "Sapatilhas Hoka Bondi 9 W",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "Hoka",
-    "site": "2",
-    "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
@@ -429,17 +462,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "344082",
-    "mpn": "1201A476-100",
-    "title": "Sapatilhas Asics EX89",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Asics",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "384981",
     "mpn": "1201B020-100",
     "title": "Sapatilhas Asics GEL-1130 Brancas e Prateadas",
@@ -451,31 +473,9 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "270303",
-    "mpn": "1698001-858",
-    "title": "Casaco Columbia Powder Lite Insulated",
-    "category": "Roupa > Casacos",
-    "brand": "Columbia",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "270318",
     "mpn": "1699061-890",
     "title": "Casaco Columbia Powder Lite",
-    "category": "Roupa > Casacos",
-    "brand": "Columbia",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "270325",
-    "mpn": "1699071-194",
-    "title": "Casaco Columbia Powder Lite Hood",
     "category": "Roupa > Casacos",
     "brand": "Columbia",
     "site": "1",
@@ -493,6 +493,50 @@
     "gender": "unissex",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "217225",
+    "mpn": "206472-001",
+    "title": "Sandálias Crocs Disney Pixar Cars",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "384602",
+    "mpn": "207937-108",
+    "title": "Sandálias Crocs Clog Echo Bege e Laranja",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "384328",
+    "mpn": "209964-214",
+    "title": "Sandálias Crocs Clog InMotion Bege",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "385236",
+    "mpn": "211281-1NM",
+    "title": "Sandálias Crocs Classic Retro Sport Cinzentas e Vermelhas",
+    "category": "Calçado > Sandálias",
+    "brand": "Crocs",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "270684",
@@ -539,9 +583,64 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "387606",
+    "mpn": "25JAP01-BLK",
+    "title": "T-shirt Hopera Mikuho (Fuji) by Hiroaki Takahashi (20th century) Preta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387610",
+    "mpn": "25JAP01-GRY",
+    "title": "T-shirt Hopera Mikuho (Fuji) by Hiroaki Takahashi (20th century) Cinzenta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "386136",
     "mpn": "25JAP02-WHT",
     "title": "T-shirt Hopera Spirit of a Lion Mask by Toyohara Kunichika (1893-1903) Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387566",
+    "mpn": "25JAP03-WHT",
+    "title": "T-shirt Hopera Design Japan 25 Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387578",
+    "mpn": "25JAP03-BLK",
+    "title": "T-shirt Hopera Design Japan 25 Preta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387598",
+    "mpn": "25JAP03-GRY",
+    "title": "T-shirt Hopera Design Japan 25 Cinzenta",
     "category": "Roupa > T-Shirts",
     "brand": "Hopera",
     "site": "1",
@@ -594,9 +693,108 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "387582",
+    "mpn": "25JAP39-BLK",
+    "title": "T-shirt Hopera Abstract Patterns Preta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387586",
+    "mpn": "25JAP39-NTR",
+    "title": "T-shirt Hopera Abstract Patterns Bege",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387590",
+    "mpn": "25JAP39-WHT",
+    "title": "T-shirt Hopera Abstract Patterns Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387574",
+    "mpn": "25JAP40-WHT",
+    "title": "T-shirt Hopera Decorative Patterns Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387594",
+    "mpn": "25JAP40-BLK",
+    "title": "T-shirt Hopera Decorative Patterns Preta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "386132",
     "mpn": "25JAP42-WHT",
     "title": "T-shirt Hopera Modern Japanese Textile Patterns by Furuya Korin (1904) Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387614",
+    "mpn": "25JAP42-GRY",
+    "title": "T-shirt Hopera Modern Japanese Textile Patterns by Furuya Korin (1904) Cinzenta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387570",
+    "mpn": "25JAP90-WHT",
+    "title": "T-shirt Hopera Japan Coot and Lotus Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387602",
+    "mpn": "25JAP90-GRY",
+    "title": "T-shirt Hopera Japan Coot and Lotus Cinzenta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Hopera",
+    "site": "1",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387618",
+    "mpn": "25JAP90-BLK",
+    "title": "T-shirt Hopera Japan Coot and Lotus Preta",
     "category": "Roupa > T-Shirts",
     "brand": "Hopera",
     "site": "1",
@@ -616,13 +814,13 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "335076",
-    "mpn": "310518L-BKRG",
-    "title": "Botas Skechers Uno Cozy On Air Kids",
-    "category": "Calçado > Botas",
-    "brand": "Skechers",
+    "id": "310430",
+    "mpn": "306365-BS114",
+    "title": "T-shirt Champion Legacy College Kids",
+    "category": "Roupa > T-Shirts",
+    "brand": "Champion Legacy",
     "site": "1",
-    "gender": "female",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -634,17 +832,6 @@
     "brand": "Mizuno",
     "site": "2",
     "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "379547",
-    "mpn": "32EY6553-45",
-    "title": "Manguitos de Voleibol Mizuno Amarelos Para Homem",
-    "category": "Acessórios > Voleibol > Manguitos",
-    "brand": "Mizuno",
-    "site": "2",
-    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
@@ -671,6 +858,17 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "241005",
+    "mpn": "383114-01",
+    "title": "Sapatilhas Puma Suede Mayu Raw",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Puma",
+    "site": "1",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "338622",
     "mpn": "385526-20",
     "title": "Sapatilhas Puma X-Ray Speed Lite AC Inf",
@@ -693,17 +891,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "342109",
-    "mpn": "390424-08",
-    "title": "Sapatilhas Puma Super Team OG",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Puma",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "342150",
     "mpn": "390424-09",
     "title": "Sapatilhas Puma Super Team OG",
@@ -715,24 +902,24 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "344544",
-    "mpn": "390424-10",
-    "title": "Sapatilhas Puma Super Team OG",
+    "id": "346058",
+    "mpn": "392982-01",
+    "title": "Sapatilhas Puma Morphic Base W",
     "category": "Calçado > Sapatilhas",
     "brand": "Puma",
     "site": "1",
-    "gender": "male",
+    "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "336578",
-    "mpn": "391471-01",
-    "title": "Sapatilhas Puma Caven Block AC Inf",
+    "id": "351879",
+    "mpn": "396382-01",
+    "title": "Sapatilhas Puma-180 Lace W",
     "category": "Calçado > Sapatilhas",
     "brand": "Puma",
     "site": "1",
-    "gender": "unissex",
+    "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -740,17 +927,6 @@
     "id": "357756",
     "mpn": "396464-01",
     "title": "Sapatilhas Puma Palermo Leather",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Puma",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "372805",
-    "mpn": "397271-10",
-    "title": "Sapatilhas Puma Palermo Junior",
     "category": "Calçado > Sapatilhas",
     "brand": "Puma",
     "site": "1",
@@ -803,6 +979,17 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "354449",
+    "mpn": "397727-04",
+    "title": "Sapatilhas Puma Palermo Moda W",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Puma",
+    "site": "1",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "373217",
     "mpn": "398846-12",
     "title": "Sapatilhas Puma Speedcat OG",
@@ -810,28 +997,6 @@
     "brand": "Puma",
     "site": "1",
     "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "385394",
-    "mpn": "60667492E",
-    "title": "Boné New Era New York Yankees Beaded 9FORTY Bege Para Mulher",
-    "category": "Acessórios > Bonés",
-    "brand": "New Era",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "385398",
-    "mpn": "60667503E",
-    "title": "Boné New Era New York Yankees Beaded 9FORTY Rosa Para Mulher",
-    "category": "Acessórios > Bonés",
-    "brand": "New Era",
-    "site": "1",
-    "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -946,17 +1111,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "251626",
-    "mpn": "535629-50",
-    "title": "Leggings Puma Dare",
-    "category": "Roupa > Fitness & Training > Leggings",
-    "brand": "Puma",
-    "site": "2",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "365278",
     "mpn": "57216-253",
     "title": "Botas Palladium Pampa Hi Cuff Waterproof OZ Kids",
@@ -999,17 +1153,6 @@
     "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "377554",
-    "mpn": "1021704",
-    "title": "Chinelos Birkenstock Arizona Couro em Camurça Kids Cinzentos",
-    "category": "Calçado > Chinelos",
-    "brand": "Birkenstock",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "385499",
@@ -1254,17 +1397,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "360199",
-    "mpn": "A08630C",
-    "title": "Sapatilhas Converse Chuck Taylor All Star Low",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Converse/All Star",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "340609",
     "mpn": "A09120C",
     "title": "Sapatilhas Converse Chuck Taylor All Star Easy On Low Top",
@@ -1419,17 +1551,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "267239",
-    "mpn": "002030090U0L",
-    "title": "Banda Sport2People Booty Hip",
-    "category": "Acessórios > Fitness & Training > Outros Acessórios",
-    "brand": "Sport2people",
-    "site": "2",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "358862",
     "mpn": "BB480-LFP",
     "title": "Sapatilhas New Balance BB480 F. C. Porto",
@@ -1452,9 +1573,9 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "378090",
-    "mpn": "552893",
-    "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Kids Castanhos",
+    "id": "346111",
+    "mpn": "552903",
+    "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Kids Azuis",
     "category": "Calçado > Chinelos",
     "brand": "Birkenstock",
     "site": "1",
@@ -1463,13 +1584,57 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "346111",
-    "mpn": "552903",
-    "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Kids Azuis",
+    "id": "358530",
+    "mpn": "51461",
+    "title": "Chinelos Birkenstock Arizona Couro em Camurça Cinzentos",
     "category": "Calçado > Chinelos",
     "brand": "Birkenstock",
     "site": "1",
-    "gender": "unissex",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "386227",
+    "mpn": "1030916",
+    "title": "Chinelos Birkenstock Arizona Couro em Camurça Azuis",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "387455",
+    "mpn": "1025657",
+    "title": "Chinelos Birkenstock Arizona Couro em Camurça Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "316313",
+    "mpn": "1019094",
+    "title": "Chinelos Birkenstock Arizona Eva Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "12834",
+    "mpn": "129421",
+    "title": "Chinelos Birkenstock Arizona Eva Pretos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -1507,6 +1672,28 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "359232",
+    "mpn": "1027022",
+    "title": "Chinelos Birkenstock Arizona Oiled Leather Caqui",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "377563",
+    "mpn": "1028272",
+    "title": "Chinelos Birkenstock Arizona Oiled Leather Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "346095",
     "mpn": "352201",
     "title": "Chinelos Birkenstock Arizona Oiled Leather Castanhos",
@@ -1514,6 +1701,28 @@
     "brand": "Birkenstock",
     "site": "1",
     "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "328731",
+    "mpn": "0052531",
+    "title": "Chinelos Birkenstock Arizona Oiled Leather Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "328736",
+    "mpn": "860131",
+    "title": "Chinelos Birkenstock Boston Oiled Leather Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -1529,24 +1738,13 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "218642",
-    "mpn": "8051272893687",
-    "title": "Bloco Moleskine",
-    "category": "Acessórios > Livros",
-    "brand": "Taschen",
+    "id": "329484",
+    "mpn": "960811",
+    "title": "Chinelos Birkenstock Boston Oiled Leather Bege",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
     "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "218646",
-    "mpn": "978-88-6293-006-2",
-    "title": "Bloco Moleskine",
-    "category": "Acessórios > Livros",
-    "brand": "Taschen",
-    "site": "1",
-    "gender": "unissex",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -1562,42 +1760,9 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "250980",
-    "mpn": "101-0388-BLK",
-    "title": "Boné Goorin Bros The King Lion Preto e Branco",
-    "category": "Acessórios > Bonés",
-    "brand": "Goorin Bros",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "378677",
-    "mpn": "101-0415-BLK",
-    "title": "Boné Goorin Bros The Tiger Preto",
-    "category": "Acessórios > Bonés",
-    "brand": "Goorin Bros",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "12269",
     "mpn": "11157578E",
     "title": "Boné New Era New York Yankees 9FORTY Rosa Para Mulher",
-    "category": "Acessórios > Bonés",
-    "brand": "New Era",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "385505",
-    "mpn": "60667398E",
-    "title": "Boné New Era New York Yankees 9FORTY Branco Para Mulher",
     "category": "Acessórios > Bonés",
     "brand": "New Era",
     "site": "1",
@@ -1628,22 +1793,44 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "206956",
-    "mpn": "BV2772-410",
-    "title": "Calções Nike Sportswear Club Fleece",
-    "category": "Roupa > Calções",
-    "brand": "Nike",
-    "site": "2",
+    "id": "267075",
+    "mpn": "11822203",
+    "title": "Botas Dr. Martens 1460 Dark Brown Crazy Horse",
+    "category": "Calçado > Botas",
+    "brand": "Dr. Martens",
+    "site": "1",
     "gender": "male",
     "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "327405",
-    "mpn": "C3199-100",
-    "title": "Bolsa a Tiracolo Nixon Day Trippin Stash",
-    "category": "Acessórios > Bolsas a Tiracolo",
-    "brand": "Nixon",
+    "id": "189498",
+    "mpn": "11822003",
+    "title": "Botas Dr. Martens 1460 Greasy",
+    "category": "Calçado > Botas",
+    "brand": "Dr. Martens",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "365344",
+    "mpn": "P717819",
+    "title": "Botas CAT Founder",
+    "category": "Calçado > Botas",
+    "brand": "CAT",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "337636",
+    "mpn": "WORK-BOT-001",
+    "title": "Botas Sanjo Workwear",
+    "category": "Calçado > Botas",
+    "brand": "Sanjo",
     "site": "1",
     "gender": "unissex",
     "pack": null,
@@ -1683,15 +1870,15 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "327043",
-    "mpn": "70269",
-    "title": "Calções B-United Neoprene Injected",
-    "category": "Roupa > Fitness & Training > Calções",
-    "brand": "B-United",
-    "site": "2",
-    "gender": "unissex",
+    "id": "378267",
+    "mpn": "1027704",
+    "title": "Chinelos Birkenstock Arizona Birko-Flor Caqui",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
     "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "237302",
@@ -1716,6 +1903,28 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "378428",
+    "mpn": "51751",
+    "title": "Chinelos Birkenstock Arizona Birko-Flor Azuis",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "7293",
+    "mpn": "051701",
+    "title": "Chinelos Birkenstock Arizona Birko-Flor Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
     "id": "328659",
     "mpn": "151181",
     "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Castanhos",
@@ -1727,19 +1936,85 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "350506",
-    "mpn": "1602218",
-    "title": "Chinelos Buffalo CLD Ari",
+    "id": "318783",
+    "mpn": "951301",
+    "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
     "category": "Calçado > Chinelos",
-    "brand": "Buffalo",
+    "brand": "Birkenstock",
     "site": "1",
-    "gender": "female",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "350511",
-    "mpn": "1602216",
+    "id": "386908",
+    "mpn": "1030863",
+    "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "310162",
+    "mpn": "1015399",
+    "title": "Chinelos Birkenstock Barbados Eva",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "311833",
+    "mpn": "1015398",
+    "title": "Chinelos Birkenstock Barbados Eva",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "386862",
+    "mpn": "1030814",
+    "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "358520",
+    "mpn": "1025788",
+    "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "386856",
+    "mpn": "1024721",
+    "title": "Chinelos Birkenstock Boston Couro em Camurça Verdes",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "350506",
+    "mpn": "1602218",
     "title": "Chinelos Buffalo CLD Ari",
     "category": "Calçado > Chinelos",
     "brand": "Buffalo",
@@ -1826,36 +2101,14 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "365907",
-    "mpn": "IG6403",
-    "title": "Chuteiras Adidas Copa Pure 2 Elite FG",
+    "id": "376648",
+    "mpn": "IH0918",
+    "title": "Chuteiras Adidas F50 League Messi FG/MG",
     "category": "Calçado > Futebol > Chuteiras",
     "brand": "Adidas Performance",
     "site": "2",
     "gender": "male",
-    "pack": "Adidas Vivid Horizon Pack",
-    "motivo": "Sem candidatos com o mesmo pack"
-  },
-  {
-    "id": "384956",
-    "mpn": "JH7713",
-    "title": "Chuteiras Adidas F50 Elite FG J",
-    "category": "Calçado > Futebol > Chuteiras",
-    "brand": "Adidas Performance",
-    "site": "2",
-    "gender": "unissex",
-    "pack": "Adidas Road To Glory Pack",
-    "motivo": "Sem candidatos com o mesmo pack"
-  },
-  {
-    "id": "379898",
-    "mpn": "IE3751",
-    "title": "Chuteiras Adidas F50 League MG J",
-    "category": "Calçado > Futebol > Chuteiras",
-    "brand": "Adidas Performance",
-    "site": "2",
-    "gender": "unissex",
-    "pack": "Adidas Celestial Victory",
+    "pack": "Adidas Messi Pack",
     "motivo": "Sem candidatos com o mesmo pack"
   },
   {
@@ -1936,17 +2189,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "360217",
-    "mpn": "A11625C",
-    "title": "Sapatilhas Converse Chuck Taylor All Star Lift Checkered",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Converse/All Star",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "380473",
     "mpn": "A11873C",
     "title": "Sapatilhas Converse Chuck Taylor All Star Lift Platform Verdes",
@@ -1965,50 +2207,6 @@
     "brand": "Converse/All Star",
     "site": "1",
     "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "372212",
-    "mpn": "A10548C",
-    "title": "Sapatilhas Converse Sport Casual",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Converse/All Star",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "375529",
-    "mpn": "A12747C",
-    "title": "Sapatilhas Converse Sport Casual",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Converse/All Star",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "372083",
-    "mpn": "A12748C",
-    "title": "Sapatilhas Converse Sport Casual",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Converse/All Star",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "372093",
-    "mpn": "A13786C",
-    "title": "Sapatilhas Converse Sport Casual",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Converse/All Star",
-    "site": "1",
-    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -2145,15 +2343,48 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "378610",
-    "mpn": "DMP257951-BLK",
-    "title": "Boné Deus Ex Machina Iota Trucker Preto",
-    "category": "Acessórios > Bonés",
+    "id": "379673",
+    "mpn": "DMP251185-BLK",
+    "title": "T-shirt Deus Ex Machina Melodies Preta",
+    "category": "Roupa > T-Shirts",
     "brand": "Deus Ex Machina",
     "site": "1",
-    "gender": "unissex",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "378182",
+    "mpn": "DMP251953B-BLK",
+    "title": "T-shirt Deus Ex Machina Drop Down Preta",
+    "category": "Roupa > T-Shirts",
+    "brand": "Deus Ex Machina",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "378668",
+    "mpn": "DUP251974C-VWH",
+    "title": "T-shirt Deus Ex Machina Zounds Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Deus Ex Machina",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "333515",
+    "mpn": "DX0128-100",
+    "title": "Calções Nike Dri-FIT Academy 23 W",
+    "category": "Roupa > Futebol > Calções de Futebol",
+    "brand": "Nike",
+    "site": "2",
+    "gender": "female",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
     "id": "384038",
@@ -2266,6 +2497,17 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
+    "id": "288775",
+    "mpn": "HD9128",
+    "title": "Fita p/ Cabeça Adidas Ténis",
+    "category": "Acessórios > Padel & Ténis > Fitas",
+    "brand": "Adidas Performance",
+    "site": "2",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
     "id": "372690",
     "mpn": "FN4322-006",
     "title": "Sapatilhas de Basquetebol Nike Precision 7",
@@ -2299,30 +2541,8 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "381452",
-    "mpn": "FZ5510-423",
-    "title": "Calções de Basquetebol Nike Fly Crossover 18cm Azuis Para Mulher",
-    "category": "Roupa > Basquetebol > Calções",
-    "brand": "Nike",
-    "site": "2",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "338701",
     "mpn": "GBI899SS-BN",
-    "title": "Casaco Sseinse Giubbino Pattern",
-    "category": "Roupa > Casacos",
-    "brand": "Sseinse",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "339718",
-    "mpn": "GBI899SS-FANGO",
     "title": "Casaco Sseinse Giubbino Pattern",
     "category": "Roupa > Casacos",
     "brand": "Sseinse",
@@ -2354,17 +2574,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "287724",
-    "mpn": "H23160",
-    "title": "Calções Adidas Techfit",
-    "category": "Roupa > Fitness & Training > Calções",
-    "brand": "Adidas Performance",
-    "site": "2",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "287728",
     "mpn": "H23163",
     "title": "Calções Adidas Techfit",
@@ -2374,17 +2583,6 @@
     "gender": "unissex",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "201529",
-    "mpn": "9348824000662",
-    "title": "Lima e Espelho Orbitkey",
-    "category": "Acessórios > Outros Acessórios",
-    "brand": "Orbitkey",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "245980",
@@ -2407,28 +2605,6 @@
     "gender": "unissex",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "201538",
-    "mpn": "9348824001645",
-    "title": "Localizador Orbitkey",
-    "category": "Acessórios > Outros Acessórios",
-    "brand": "Orbitkey",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "201539",
-    "mpn": "9348824001652",
-    "title": "Localizador Orbitkey",
-    "category": "Acessórios > Outros Acessórios",
-    "brand": "Orbitkey",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "351384",
@@ -2706,17 +2882,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "344387",
-    "mpn": "59.98916",
-    "title": "Sapatilhas On Running Cloud 5",
-    "category": "Calçado > Sapatilhas",
-    "brand": "On Running",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "378965",
     "mpn": "3MF10070299",
     "title": "Sapatilhas On Running Cloud 6 Pretas",
@@ -2816,30 +2981,8 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "375060",
-    "mpn": "3ME10122903",
-    "title": "Sapatilhas On Running Cloudmonster 2",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "On Running",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "374973",
     "mpn": "3MF10671043",
-    "title": "Sapatilhas On Running Cloudmonster Void",
-    "category": "Calçado > Sapatilhas",
-    "brand": "On Running",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "375030",
-    "mpn": "3MF10673352",
     "title": "Sapatilhas On Running Cloudmonster Void",
     "category": "Calçado > Sapatilhas",
     "brand": "On Running",
@@ -2882,17 +3025,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "378539",
-    "mpn": "61.97651",
-    "title": "Sapatilhas On Running Cloudmonster Laranja W",
-    "category": "Calçado > Sapatilhas",
-    "brand": "On Running",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "378395",
     "mpn": "3ME10103285",
     "title": "Sapatilhas On Running Cloudtilt Salmão",
@@ -2915,13 +3047,13 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "338456",
-    "mpn": "S11388W-A03",
-    "title": "Sapatilhas Superga 2630 Stripe Corduroy",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Superga",
+    "id": "363321",
+    "mpn": "RU580005-933",
+    "title": "Casaco Pepe Jeans Red Bull Racing Zip Logo Hood",
+    "category": "Roupa > Casacos",
+    "brand": "Pepe Jeans",
     "site": "1",
-    "gender": "female",
+    "gender": "unissex",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -2937,20 +3069,9 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "309403",
-    "mpn": "S4128DW-A0M",
-    "title": "Sapatilhas Superga 2708 Hi Top",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Superga",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "306658",
-    "mpn": "S5125GW-AOW",
-    "title": "Sapatilhas Superga 2630 Stripe",
+    "id": "338442",
+    "mpn": "S8132UW-AI5",
+    "title": "Sapatilhas Superga 2482 Suede",
     "category": "Calçado > Sapatilhas",
     "brand": "Superga",
     "site": "1",
@@ -2959,33 +3080,11 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "335522",
-    "mpn": "S5127GW-AAM",
-    "title": "Sapatilhas Superga 2708 Hi Top Nappa",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Superga",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "338448",
-    "mpn": "S7128XW-A1X",
-    "title": "Sapatilhas Superga 2644 Alpina Quilted Nylon",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Superga",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "338442",
-    "mpn": "S8132UW-AI5",
-    "title": "Sapatilhas Superga 2482 Suede",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Superga",
+    "id": "385285",
+    "mpn": "1020707",
+    "title": "Chinelos Birkenstock Arizona Pele Nobuck Cinzentos",
+    "category": "Calçado > Chinelos",
+    "brand": "Birkenstock",
     "site": "1",
     "gender": "male",
     "pack": null,
@@ -3146,17 +3245,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "305709",
-    "mpn": "FZ6117",
-    "title": "Sapatilhas Adidas Predator Accuracy.4 IN",
-    "category": "Calçado > Futsal > Sapatilhas",
-    "brand": "Adidas Performance",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "354734",
     "mpn": "IF6403",
     "title": "Sapatilhas Adidas Predator Club IN",
@@ -3190,10 +3278,10 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "379556",
-    "mpn": "IH3088",
-    "title": "Sapatilhas Adidas Solematch Control 2 M",
-    "category": "Calçado > Padel & Ténis > Sapatilhas",
+    "id": "386194",
+    "mpn": "JS0653",
+    "title": "Sapatilhas Adidas Top Sala Competition II IN",
+    "category": "Calçado > Futsal > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
     "gender": "male",
@@ -3201,10 +3289,10 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "386194",
-    "mpn": "JS0653",
-    "title": "Sapatilhas Adidas Top Sala Competition II IN",
-    "category": "Calçado > Futsal > Sapatilhas",
+    "id": "346885",
+    "mpn": "IG6003",
+    "title": "Sapatilhas Adidas Ubounce DNA",
+    "category": "Calçado > Running > Sapatilhas",
     "brand": "Adidas Performance",
     "site": "2",
     "gender": "male",
@@ -3278,50 +3366,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "351133",
-    "mpn": "MAXW2404IN",
-    "title": "Sapatilhas Joma Maxima 2404 IN",
-    "category": "Calçado > Futsal > Sapatilhas",
-    "brand": "Joma",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "262815",
-    "mpn": "2220236",
-    "title": "Sapatilhas Le Coq Sportif Lcs R1000 Bijoux W",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Le Coq Sportif",
-    "site": "1",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "263105",
-    "mpn": "2220279",
-    "title": "Sapatilhas Le Coq Sportif Lcs T1000",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Le Coq Sportif",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "364572",
-    "mpn": "2422893",
-    "title": "Sapatilhas Le Coq Sportif Platinium 2",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Le Coq Sportif",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "306470",
     "mpn": "K100-SOL-052",
     "title": "Sapatilhas Sanjo K100 Solid",
@@ -3362,17 +3406,6 @@
     "brand": "Vans",
     "site": "1",
     "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "364592",
-    "mpn": "CP0303692",
-    "title": "Sapatilhas VEJA Campo Bold",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Veja",
-    "site": "1",
-    "gender": "unissex",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -3432,39 +3465,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "358622",
-    "mpn": "DC1803186",
-    "title": "Sapatilhas VEJA Dekkan Alveomesh Brancas",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "Veja",
-    "site": "2",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "363458",
-    "mpn": "DC1803769",
-    "title": "Sapatilhas VEJA Dekkan Alveomesh",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "Veja",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "364583",
-    "mpn": "FT2303853",
-    "title": "Sapatilhas VEJA Fitz Roy Light",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "Veja",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "364578",
     "mpn": "FT2303774",
     "title": "Sapatilhas VEJA Fitz Roy Light",
@@ -3474,17 +3474,6 @@
     "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "363451",
-    "mpn": "VX0200005",
-    "title": "Sapatilhas VEJA V-10",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Veja",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "365246",
@@ -3509,28 +3498,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "362772",
-    "mpn": "VD2003380",
-    "title": "Sapatilhas VEJA V-90 Leather",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Veja",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "356499",
-    "mpn": "VO0103524",
-    "title": "Sapatilhas VEJA Volley Brancas",
-    "category": "Calçado > Sapatilhas",
-    "brand": "Veja",
-    "site": "1",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "377380",
     "mpn": "VO2020749",
     "title": "Sapatilhas VEJA Volley Prateadas",
@@ -3542,13 +3509,24 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "234760",
-    "mpn": "SF0009AC-BS",
-    "title": "Conjunto de Limpeza AM Box Set",
-    "category": "Acessórios > Música",
-    "brand": "Crosley",
+    "id": "151651",
+    "mpn": "J598633",
+    "title": "Sapatilhas Merrell Intercept",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Merrell",
     "site": "1",
-    "gender": "unissex",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
+  },
+  {
+    "id": "371371",
+    "mpn": "J73705C",
+    "title": "Sapatilhas Merrell Intercept",
+    "category": "Calçado > Sapatilhas",
+    "brand": "Merrell",
+    "site": "1",
+    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
@@ -3564,17 +3542,6 @@
     "motivo": "Sem candidatos com o mesmo pack"
   },
   {
-    "id": "352063",
-    "mpn": "SF1FL-75",
-    "title": "Chuteiras New Balance Furon Pro V7+ FG",
-    "category": "Calçado > Futebol > Chuteiras",
-    "brand": "New Balance",
-    "site": "2",
-    "gender": "male",
-    "pack": "New Balance Lime Glow Pack",
-    "motivo": "Sem candidatos com o mesmo pack"
-  },
-  {
     "id": "373206",
     "mpn": "SJF3F-IB8",
     "title": "Chuteiras New Balance Furon Team V8 FG J",
@@ -3584,17 +3551,6 @@
     "gender": "unissex",
     "pack": "New Balance Flash Point Pack",
     "motivo": "Sem candidatos com o mesmo pack"
-  },
-  {
-    "id": "30079",
-    "mpn": "70211",
-    "title": "Suporte Térmico do Tornozelo B-United",
-    "category": "Acessórios > Futebol > Outros Acessórios",
-    "brand": "B-United",
-    "site": "2",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
     "id": "373039",
@@ -3729,28 +3685,6 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "364715",
-    "mpn": "SCA-TEE-1159-BLK",
-    "title": "T-shirt Santa Cruz MFG Oval Dot Front",
-    "category": "Roupa > T-Shirts",
-    "brand": "Santa Cruz",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
-    "id": "364720",
-    "mpn": "SCA-TEE-1159-RAI",
-    "title": "T-shirt Santa Cruz MFG Oval Dot Front",
-    "category": "Roupa > T-Shirts",
-    "brand": "Santa Cruz",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
-  },
-  {
     "id": "245480",
     "mpn": "TSS-PCO-001",
     "title": "Kit de Proteção Tony Hawk Set Helmet & Padset",
@@ -3760,6 +3694,17 @@
     "gender": "unissex",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
+  },
+  {
+    "id": "155046",
+    "mpn": "T_DMW41808D-WHT",
+    "title": "T-shirt Deus Ex Machina Milano Address Branca",
+    "category": "Roupa > T-Shirts",
+    "brand": "Deus Ex Machina",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
     "id": "123924",
@@ -4004,17 +3949,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "354794",
-    "mpn": "WT230307-HME",
-    "title": "Camisola New Balance F. C. Porto Principal W EP24/25",
-    "category": "Roupa > Futebol > Camisolas de Clubes",
-    "brand": "New Balance",
-    "site": "2",
-    "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "385112",
     "mpn": "WT230419-HME",
     "title": "Camisola New Balance F. C. Porto Principal W EP25/26",
@@ -4090,16 +4024,5 @@
     "gender": "female",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "364435",
-    "mpn": "YM0YM01085-0GJ",
-    "title": "Sapatos Calvin Klein Lug Leather Lace Up",
-    "category": "Calçado > Sapatos",
-    "brand": "Calvin Klein",
-    "site": "1",
-    "gender": "male",
-    "pack": null,
-    "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   }
 ]
