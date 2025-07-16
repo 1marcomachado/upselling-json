@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-15T06:47:54.465979",
+  "gerado_em": "2025-07-16T06:48:06.819394",
   "produtos": [
     {
       "id": "365143",
@@ -2496,7 +2496,7 @@
         "379501",
         "378304",
         "383372",
-        "381031",
+        "381039",
         "378198"
       ]
     },
@@ -2795,7 +2795,7 @@
         "367573",
         "378304",
         "366679",
-        "381031"
+        "381039"
       ]
     },
     {
@@ -2852,7 +2852,7 @@
         "383372",
         "378236",
         "379501",
-        "381031"
+        "381039"
       ]
     },
     {
@@ -2965,7 +2965,7 @@
       ]
     },
     {
-      "id": "381031",
+      "id": "381039",
       "mpn": "1167430-DND",
       "title": "Chinelos Ugg GoldenGlow Camel Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1167430-DND_1.jpg?1744713488",
@@ -3015,7 +3015,7 @@
       "sale_price": null,
       "sugestoes": [
         "379501",
-        "381031",
+        "381039",
         "378304",
         "381032",
         "383372"
@@ -3033,7 +3033,7 @@
       "price": "169.90",
       "sale_price": null,
       "sugestoes": [
-        "381031",
+        "381039",
         "379501",
         "378304",
         "381032",
@@ -3102,7 +3102,7 @@
       "sugestoes": [
         "383372",
         "378198",
-        "381031",
+        "381039",
         "378212",
         "367573"
       ]
@@ -3139,7 +3139,7 @@
       "sale_price": null,
       "sugestoes": [
         "378236",
-        "381031",
+        "381039",
         "366679",
         "367573",
         "378217"
@@ -6616,7 +6616,7 @@
       "sugestoes": []
     },
     {
-      "id": "343926",
+      "id": "343927",
       "mpn": "397276-01",
       "title": "Sapatilhas Puma Palermo Lth PS Kids",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/397276-01_1.jpg?1707412629",
@@ -9721,7 +9721,7 @@
       ]
     },
     {
-      "id": "380007",
+      "id": "380009",
       "mpn": "432997-107",
       "title": "Sapatilhas Killshot 2 Leather Brancas Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/432997-107_1.jpg?1743758659",
@@ -10345,7 +10345,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Levi´s",
       "price": "26.99",
-      "sale_price": null,
+      "sale_price": "18.89",
       "sugestoes": [
         "320610",
         "320591",
@@ -10364,7 +10364,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Levi´s",
       "price": "26.99",
-      "sale_price": null,
+      "sale_price": "16.19",
       "sugestoes": [
         "320610",
         "320620",
@@ -10456,7 +10456,7 @@
       "price": "134.90",
       "sale_price": null,
       "sugestoes": [
-        "381031",
+        "381039",
         "378236",
         "383372",
         "378304",
@@ -10498,7 +10498,7 @@
       ]
     },
     {
-      "id": "305816",
+      "id": "305815",
       "mpn": "134490001",
       "title": "Calções de Natação Speedo Eco Endurance+ 7cm",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/134490001_1.jpg?1725641377",
@@ -15769,7 +15769,7 @@
     {
       "id": "387463",
       "mpn": "BG23376G-SAJ",
-      "title": "Mochila New Balance F. C. Porto Azul e Dourada EP25/26",
+      "title": "Mochila New Balance F. C. Porto EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BG23376G-SAJ_1.jpg?1752060718",
       "gender": "unissex",
       "site": "2",
@@ -15778,11 +15778,30 @@
       "price": "44.90",
       "sale_price": null,
       "sugestoes": [
+        "387792",
+        "387734",
+        "345850",
+        "387735",
+        "375568"
+      ]
+    },
+    {
+      "id": "387793",
+      "mpn": "BG23376G-NVA",
+      "title": "Mochila New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BG23376G-NVA_1.jpg?1752578649",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Mochilas",
+      "brand": "New Balance",
+      "price": "44.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387792",
+        "387734",
         "345850",
         "375568",
-        "385408",
-        "354820",
-        "375564"
+        "387338"
       ]
     },
     {
@@ -15797,11 +15816,30 @@
       "price": "31.99",
       "sale_price": null,
       "sugestoes": [
+        "387792",
         "345850",
+        "387734",
         "375568",
-        "354820",
-        "385408",
-        "387338"
+        "354820"
+      ]
+    },
+    {
+      "id": "387792",
+      "mpn": "BG23381G-SAJ",
+      "title": "Saco de Futebol New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/BG23381G-SAJ_1.jpg?1752578049",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Sacos",
+      "brand": "New Balance",
+      "price": "15.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387463",
+        "387464",
+        "387793",
+        "387734",
+        "345850"
       ]
     },
     {
@@ -21347,7 +21385,7 @@
       ]
     },
     {
-      "id": "386908",
+      "id": "386907",
       "mpn": "1030863",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030863_1.jpg?1751631038",
@@ -22417,6 +22455,23 @@
       ]
     },
     {
+      "id": "387783",
+      "mpn": "JS0652",
+      "title": "Chuteiras Adidas Copa Pure III Elite LL FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JS0652_1.jpg?1752576451",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "249.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387717",
+        "387707",
+        "387469"
+      ]
+    },
+    {
       "id": "373660",
       "mpn": "ID9049",
       "title": "Chuteiras Adidas Copa Pure III League FG/MG",
@@ -22451,6 +22506,23 @@
         "387182",
         "387159",
         "387099"
+      ]
+    },
+    {
+      "id": "387717",
+      "mpn": "JR2830",
+      "title": "Chuteiras Adidas Copa Pure III Pro FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR2830_1.jpg?1752145951",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387783",
+        "387707",
+        "387469"
       ]
     },
     {
@@ -22606,6 +22678,23 @@
       ]
     },
     {
+      "id": "387469",
+      "mpn": "JH7629",
+      "title": "Chuteiras Adidas F50 Elite LL FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7629_1.jpg?1752061973",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387707",
+        "387717",
+        "387783"
+      ]
+    },
+    {
       "id": "387228",
       "mpn": "JH7709",
       "title": "Chuteiras Adidas F50 Elite LL FG J",
@@ -22714,7 +22803,7 @@
       ]
     },
     {
-      "id": "354896",
+      "id": "354905",
       "mpn": "IF6919",
       "title": "Chuteiras Adidas F50 Messi League FG/MG J",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF6919_1.jpg?1718182562",
@@ -22766,6 +22855,23 @@
         "387061",
         "387002",
         "387026"
+      ]
+    },
+    {
+      "id": "387707",
+      "mpn": "JH7737",
+      "title": "Chuteiras Adidas F50 League LL FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7737_1.jpg?1752148186",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387717",
+        "387783",
+        "387469"
       ]
     },
     {
@@ -22904,7 +23010,7 @@
       "price": "119.90",
       "sale_price": "59.95",
       "sugestoes": [
-        "354896",
+        "354905",
         "356478",
         "356943"
       ]
@@ -23170,8 +23276,8 @@
       "price": "279.90",
       "sale_price": "237.92",
       "sugestoes": [
-        "379910",
-        "379883"
+        "379912",
+        "379882"
       ]
     },
     {
@@ -23232,7 +23338,7 @@
       ]
     },
     {
-      "id": "379910",
+      "id": "379912",
       "mpn": "JH8885",
       "title": "Chuteiras Adidas Predator Elite LL AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH8885_1.jpg?1743411041",
@@ -23244,7 +23350,7 @@
       "sale_price": "229.42",
       "sugestoes": [
         "379890",
-        "379883"
+        "379882"
       ]
     },
     {
@@ -23373,7 +23479,7 @@
       "sugestoes": [
         "356478",
         "356047",
-        "354896"
+        "354905"
       ]
     },
     {
@@ -23472,7 +23578,7 @@
       ]
     },
     {
-      "id": "379883",
+      "id": "379882",
       "mpn": "ID3773",
       "title": "Chuteiras Adidas Predator League MG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID3773_1.jpg?1742836906",
@@ -23484,7 +23590,7 @@
       "sale_price": "80.67",
       "sugestoes": [
         "379890",
-        "379910"
+        "379912"
       ]
     },
     {
@@ -23501,7 +23607,7 @@
       "sugestoes": [
         "356943",
         "356047",
-        "354896"
+        "354905"
       ]
     },
     {
@@ -26428,7 +26534,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "28.99",
-      "sale_price": null,
+      "sale_price": "20.29",
       "sugestoes": [
         "376150",
         "332555",
@@ -26950,7 +27056,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "307546",
         "379615",
@@ -26969,7 +27075,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "376150",
         "332555",
@@ -26988,7 +27094,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "376150",
         "225021",
@@ -27026,7 +27132,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "225021",
         "332555",
@@ -27045,7 +27151,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "376150",
         "332555",
@@ -27064,7 +27170,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "38.90",
-      "sale_price": null,
+      "sale_price": "27.23",
       "sugestoes": [
         "376150",
         "336402",
@@ -27083,7 +27189,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "38.90",
-      "sale_price": null,
+      "sale_price": "27.23",
       "sugestoes": [
         "376150",
         "332555",
@@ -27102,7 +27208,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "24.49",
       "sugestoes": [
         "307546",
         "237783",
@@ -27121,7 +27227,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "24.49",
       "sugestoes": [
         "376150",
         "365697",
@@ -27140,7 +27246,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "24.49",
       "sugestoes": [
         "307546",
         "237783",
@@ -27159,7 +27265,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "27.99",
       "sugestoes": [
         "307546",
         "237783",
@@ -27178,7 +27284,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "24.49",
       "sugestoes": [
         "376150",
         "307546",
@@ -27197,7 +27303,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "24.49",
       "sugestoes": [
         "376150",
         "237783",
@@ -27254,7 +27360,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "377872",
         "376150",
@@ -27273,7 +27379,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "376150",
         "365697",
@@ -27292,7 +27398,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Dickies",
       "price": "34.99",
-      "sale_price": null,
+      "sale_price": "24.49",
       "sugestoes": [
         "307546",
         "378028",
@@ -28050,7 +28156,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Deus Ex Machina",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "41.23",
       "sugestoes": []
     },
     {
@@ -28063,7 +28169,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Deus Ex Machina",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "41.23",
       "sugestoes": []
     },
     {
@@ -28608,7 +28714,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Deus Ex Machina",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "41.23",
       "sugestoes": []
     },
     {
@@ -28977,7 +29083,7 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
-        "375332",
+        "375335",
         "374642",
         "372315",
         "372136",
@@ -29206,14 +29312,14 @@
       "sale_price": null,
       "sugestoes": [
         "369222",
-        "333528",
+        "333530",
         "367920",
         "333558",
         "275329"
       ]
     },
     {
-      "id": "333528",
+      "id": "333530",
       "mpn": "DV9742-010",
       "title": "Calções Nike Dri-FIT Academy",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV9742-010_1.jpg?1693556520",
@@ -29285,7 +29391,7 @@
         "350698",
         "350676",
         "351019",
-        "333528"
+        "333530"
       ]
     },
     {
@@ -29323,7 +29429,7 @@
         "350698",
         "350676",
         "351024",
-        "333528"
+        "333530"
       ]
     },
     {
@@ -29360,7 +29466,7 @@
         "370301",
         "369218",
         "333558",
-        "333528",
+        "333530",
         "369335"
       ]
     },
@@ -30274,7 +30380,7 @@
       "id": "384616",
       "mpn": "EK000073-77H",
       "title": "Bolsa de Cintura Eastpak Doggy Cinzenta",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EK000073-77H_1.jpg?1747306896",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EK000073-77H_1.jpg?1752596935",
       "gender": "unissex",
       "site": "1",
       "category": "Acessórios > Bolsas de Cintura",
@@ -30286,7 +30392,7 @@
         "23396",
         "254639",
         "23413",
-        "384585"
+        "384610"
       ]
     },
     {
@@ -31140,8 +31246,8 @@
         "384590",
         "384593",
         "23394",
-        "384616",
-        "23364"
+        "23364",
+        "384616"
       ]
     },
     {
@@ -31488,7 +31594,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "366008",
         "365044",
@@ -31507,7 +31613,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "20.94",
       "sugestoes": [
         "366008",
         "364814",
@@ -31526,7 +31632,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "366008",
         "365044",
@@ -31545,7 +31651,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "366008",
         "364814",
@@ -31564,7 +31670,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "366008",
         "365044",
@@ -31583,7 +31689,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "20.94",
       "sugestoes": [
         "366008",
         "365044",
@@ -31602,7 +31708,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "366008",
         "364814",
@@ -31621,7 +31727,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "364814",
         "366008",
@@ -31640,7 +31746,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "34.90",
-      "sale_price": null,
+      "sale_price": "24.43",
       "sugestoes": [
         "364814",
         "366008",
@@ -31659,7 +31765,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Element",
       "price": "39.90",
-      "sale_price": null,
+      "sale_price": "27.93",
       "sugestoes": [
         "366008",
         "364814",
@@ -32682,8 +32788,8 @@
         "375568",
         "387558",
         "375564",
-        "375572",
-        "385455"
+        "387734",
+        "387797"
       ]
     },
     {
@@ -32698,11 +32804,11 @@
       "price": "16.99",
       "sale_price": null,
       "sugestoes": [
+        "387797",
         "375568",
-        "387558",
-        "345850",
-        "375564",
-        "385942"
+        "387735",
+        "387734",
+        "387558"
       ]
     },
     {
@@ -32717,11 +32823,11 @@
       "price": "19.99",
       "sale_price": null,
       "sugestoes": [
+        "387797",
+        "387735",
+        "387734",
         "387558",
-        "375568",
-        "345850",
-        "375564",
-        "385216"
+        "375568"
       ]
     },
     {
@@ -32736,11 +32842,11 @@
       "price": "19.99",
       "sale_price": null,
       "sugestoes": [
+        "387735",
+        "387734",
+        "387797",
         "375568",
-        "375564",
-        "387558",
-        "387463",
-        "385944"
+        "375564"
       ]
     },
     {
@@ -32755,11 +32861,11 @@
       "price": "21.99",
       "sale_price": null,
       "sugestoes": [
+        "387734",
+        "387735",
+        "387797",
         "375568",
-        "387558",
-        "375564",
-        "345850",
-        "387463"
+        "387558"
       ]
     },
     {
@@ -32774,11 +32880,11 @@
       "price": "15.99",
       "sale_price": null,
       "sugestoes": [
+        "387797",
+        "387794",
         "385455",
-        "385942",
-        "385216",
-        "387558",
-        "375572"
+        "387735",
+        "385942"
       ]
     },
     {
@@ -32793,11 +32899,11 @@
       "price": "15.99",
       "sale_price": null,
       "sugestoes": [
+        "387735",
+        "387734",
         "385455",
         "375568",
-        "385216",
-        "385942",
-        "387558"
+        "387797"
       ]
     },
     {
@@ -34124,8 +34230,8 @@
         "380367",
         "372654",
         "376060",
-        "374399",
-        "329226"
+        "387727",
+        "374399"
       ]
     },
     {
@@ -34161,9 +34267,9 @@
       "sugestoes": [
         "372654",
         "374399",
+        "387727",
         "380367",
-        "381223",
-        "373755"
+        "381223"
       ]
     },
     {
@@ -35859,7 +35965,7 @@
       "id": "340090",
       "mpn": "FN7509-029",
       "title": "Sapatilhas Nike P-6000",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FN7509-029_1.jpg?1702384426",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FN7509-029_1.jpg?1752493912",
       "gender": "male",
       "site": "1",
       "category": "Calçado > Sapatilhas",
@@ -35871,7 +35977,7 @@
         "214470",
         "380367",
         "380335",
-        "211005"
+        "357660"
       ]
     },
     {
@@ -36042,7 +36148,7 @@
       ]
     },
     {
-      "id": "375332",
+      "id": "375335",
       "mpn": "FQ1454-800",
       "title": "Chuteiras Nike Mercurial Superfly 10 Elite FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ1454-800_1.jpg?1738753542",
@@ -36643,7 +36749,7 @@
       ]
     },
     {
-      "id": "369343",
+      "id": "369339",
       "mpn": "FQ8374-700",
       "title": "Chuteiras Nike Mercurial Vapor 16 Academy FG/MG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8374-700_1.jpg?1742828608",
@@ -36803,7 +36909,7 @@
       "sugestoes": [
         "374642",
         "373124",
-        "375332",
+        "375335",
         "372287",
         "372315"
       ]
@@ -36821,7 +36927,7 @@
       "sale_price": null,
       "sugestoes": [
         "372278",
-        "375332",
+        "375335",
         "373124",
         "372287",
         "372315"
@@ -37643,8 +37749,8 @@
         "381062",
         "372654",
         "383758",
-        "340348",
-        "329226"
+        "387727",
+        "340348"
       ]
     },
     {
@@ -38446,10 +38552,29 @@
       "sale_price": null,
       "sugestoes": [
         "375568",
+        "387797",
         "345850",
         "375564",
+        "375572"
+      ]
+    },
+    {
+      "id": "387794",
+      "mpn": "GK23000J-WS2",
+      "title": "Luvas de Guarda-Redes New Balance F. C. Porto Junior EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GK23000J-WS2_1.jpg?1752579519",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Luvas",
+      "brand": "New Balance",
+      "price": "23.99",
+      "sale_price": null,
+      "sugestoes": [
+        "345850",
+        "387797",
         "375572",
-        "354820"
+        "375568",
+        "385455"
       ]
     },
     {
@@ -38465,10 +38590,10 @@
       "sale_price": null,
       "sugestoes": [
         "345850",
+        "387797",
         "375564",
         "375568",
-        "375572",
-        "385408"
+        "375572"
       ]
     },
     {
@@ -40050,7 +40175,7 @@
       ]
     },
     {
-      "id": "383856",
+      "id": "383858",
       "mpn": "HF3053-011",
       "title": "Sapatilhas Nike Air Max Portal SE Cinzentas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HF3053-011_1.jpg?1746612846",
@@ -41064,7 +41189,7 @@
       "sugestoes": [
         "384527",
         "367920",
-        "333528",
+        "333530",
         "381444",
         "275329"
       ]
@@ -41214,7 +41339,7 @@
       "price": "32.99",
       "sale_price": null,
       "sugestoes": [
-        "333528",
+        "333530",
         "349179",
         "369222",
         "381444",
@@ -42271,6 +42396,25 @@
         "337097",
         "320825",
         "369155"
+      ]
+    },
+    {
+      "id": "387727",
+      "mpn": "HQ2037-004",
+      "title": "Sapatilhas Nike Air Force 1 07 LV8 Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HQ2037-004_1.jpg?1752566804",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380367",
+        "380335",
+        "380340",
+        "381062",
+        "214470"
       ]
     },
     {
@@ -43549,10 +43693,10 @@
       "sale_price": null,
       "sugestoes": [
         "328852",
+        "387749",
         "378567",
         "335303",
-        "262289",
-        "386042"
+        "262289"
       ]
     },
     {
@@ -43645,9 +43789,9 @@
       "sugestoes": [
         "385806",
         "377265",
-        "374831",
-        "385119",
-        "375389"
+        "387769",
+        "387764",
+        "374831"
       ]
     },
     {
@@ -43852,11 +43996,11 @@
       "price": "88.90",
       "sale_price": null,
       "sugestoes": [
+        "387749",
         "328852",
         "385144",
         "386042",
-        "335303",
-        "378772"
+        "335303"
       ]
     },
     {
@@ -44160,7 +44304,7 @@
         "335303",
         "358106",
         "343647",
-        "378772"
+        "387749"
       ]
     },
     {
@@ -44363,7 +44507,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "38.99",
-      "sale_price": null,
+      "sale_price": "27.29",
       "sugestoes": [
         "365457",
         "365472",
@@ -45393,8 +45537,8 @@
         "386084",
         "386054",
         "359420",
-        "385824",
-        "374831"
+        "387749",
+        "385824"
       ]
     },
     {
@@ -45654,7 +45798,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "31.43",
       "sugestoes": [
         "385119",
         "376519",
@@ -46469,7 +46613,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "34.23",
       "sugestoes": [
         "365472",
         "376227",
@@ -46488,7 +46632,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": "41.57",
+      "sale_price": "34.23",
       "sugestoes": [
         "365472",
         "365457",
@@ -46507,7 +46651,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "34.23",
       "sugestoes": [
         "375634",
         "385124",
@@ -46716,7 +46860,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "31.43",
       "sugestoes": [
         "385119",
         "377269",
@@ -46773,7 +46917,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "31.43",
       "sugestoes": [
         "376227",
         "352569",
@@ -46792,7 +46936,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "38.17",
       "sugestoes": [
         "363385",
         "376227",
@@ -46890,10 +47034,10 @@
       "sale_price": null,
       "sugestoes": [
         "377350",
+        "387741",
         "376422",
         "376434",
-        "327015",
-        "375389"
+        "327015"
       ]
     },
     {
@@ -46928,10 +47072,10 @@
       "sale_price": null,
       "sugestoes": [
         "386037",
+        "387764",
         "385327",
-        "385500",
-        "385806",
-        "385168"
+        "387769",
+        "385500"
       ]
     },
     {
@@ -47001,7 +47145,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "53.01",
       "sugestoes": [
         "377218",
         "359703",
@@ -47020,7 +47164,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "53.01",
       "sugestoes": [
         "379320",
         "352569",
@@ -47039,7 +47183,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "50.07",
       "sugestoes": [
         "352569",
         "365472",
@@ -47058,7 +47202,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "58.90",
-      "sale_price": null,
+      "sale_price": "47.12",
       "sugestoes": [
         "376227",
         "365472",
@@ -47077,7 +47221,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "39.12",
       "sugestoes": [
         "352569",
         "365472",
@@ -47096,7 +47240,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "34.23",
       "sugestoes": [
         "365472",
         "376227",
@@ -47155,11 +47299,11 @@
       "price": "118.90",
       "sale_price": null,
       "sugestoes": [
+        "387769",
+        "387764",
         "378646",
         "365332",
-        "385806",
-        "386037",
-        "385119"
+        "385806"
       ]
     },
     {
@@ -47172,7 +47316,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "35.92",
       "sugestoes": [
         "376227",
         "363552",
@@ -47362,7 +47506,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "39.12",
       "sugestoes": [
         "365472",
         "376227",
@@ -47381,13 +47525,13 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "34.23",
       "sugestoes": [
         "376227",
         "363385",
         "363552",
-        "358225",
-        "385119"
+        "387774",
+        "358225"
       ]
     },
     {
@@ -47400,7 +47544,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "31.43",
       "sugestoes": [
         "376227",
         "365472",
@@ -47438,7 +47582,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Carhartt WIP",
       "price": "48.90",
-      "sale_price": null,
+      "sale_price": "39.12",
       "sugestoes": [
         "376227",
         "365457",
@@ -47691,7 +47835,7 @@
         "386084",
         "358106",
         "370405",
-        "357911"
+        "387741"
       ]
     },
     {
@@ -47799,7 +47943,7 @@
         "358106",
         "343647",
         "328852",
-        "370405"
+        "387749"
       ]
     },
     {
@@ -47854,9 +47998,66 @@
       "sugestoes": [
         "385806",
         "377265",
-        "374831",
-        "386037",
-        "386068"
+        "387764",
+        "387769",
+        "374831"
+      ]
+    },
+    {
+      "id": "387737",
+      "mpn": "I035140.1YI.5F",
+      "title": "T-shirt Carhartt WIP Hudson Pocket Azul",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035140.1YI.5F_1.jpg?1752569525",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Carhartt WIP",
+      "price": "59.00",
+      "sale_price": null,
+      "sugestoes": [
+        "385806",
+        "387769",
+        "387764",
+        "377265",
+        "385119"
+      ]
+    },
+    {
+      "id": "387741",
+      "mpn": "I035140.07E.5F",
+      "title": "T-shirt Carhartt WIP Hudson Pocket Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035140.07E.5F_1.jpg?1752572642",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Carhartt WIP",
+      "price": "59.00",
+      "sale_price": null,
+      "sugestoes": [
+        "376519",
+        "385119",
+        "377269",
+        "338109",
+        "386073"
+      ]
+    },
+    {
+      "id": "387745",
+      "mpn": "I035140.89.5F",
+      "title": "T-shirt Carhartt WIP Hudson Pocket Cinzenta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035140.89.5F_1.jpg?1752569975",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Carhartt WIP",
+      "price": "59.00",
+      "sale_price": null,
+      "sugestoes": [
+        "365472",
+        "352569",
+        "352593",
+        "345218",
+        "375014"
       ]
     },
     {
@@ -47879,6 +48080,44 @@
       ]
     },
     {
+      "id": "387764",
+      "mpn": "I035189.1C.XX",
+      "title": "Camisola Carhartt WIP Solar Chrome Azul",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035189.1C.XX_1.jpg?1752574289",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Camisolas",
+      "brand": "Carhartt WIP",
+      "price": "109.00",
+      "sale_price": null,
+      "sugestoes": [
+        "385764",
+        "377218",
+        "352146",
+        "387753",
+        "385327"
+      ]
+    },
+    {
+      "id": "387769",
+      "mpn": "I035189.89.XX",
+      "title": "Camisola Carhartt WIP Solar Chrome Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035189.89.XX_1.jpg?1752573906",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Camisolas",
+      "brand": "Carhartt WIP",
+      "price": "109.00",
+      "sale_price": null,
+      "sugestoes": [
+        "377218",
+        "352146",
+        "385764",
+        "387753",
+        "369519"
+      ]
+    },
+    {
       "id": "385168",
       "mpn": "I035191.02.XX",
       "title": "Camisola com Capuz Carhartt WIP Jake Garcia Branca",
@@ -47898,6 +48137,25 @@
       ]
     },
     {
+      "id": "387774",
+      "mpn": "I035191.89.XX",
+      "title": "Camisola com Capuz Carhartt WIP Jake Garcia Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035191.89.XX_1.jpg?1752574588",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Camisolas com Capuz",
+      "brand": "Carhartt WIP",
+      "price": "139.00",
+      "sale_price": null,
+      "sugestoes": [
+        "385775",
+        "378646",
+        "385119",
+        "365332",
+        "385081"
+      ]
+    },
+    {
       "id": "385764",
       "mpn": "I035192.2ZW.XX",
       "title": "T-shirt Carhartt WIP Cream Of The Crop Castanha",
@@ -47909,11 +48167,11 @@
       "price": "45.00",
       "sale_price": null,
       "sugestoes": [
+        "387764",
+        "387769",
         "385806",
         "377265",
-        "386037",
-        "377218",
-        "385119"
+        "386037"
       ]
     },
     {
@@ -47969,8 +48227,8 @@
         "385806",
         "377265",
         "386068",
-        "377218",
-        "374831"
+        "387769",
+        "387764"
       ]
     },
     {
@@ -47985,11 +48243,11 @@
       "price": "45.00",
       "sale_price": null,
       "sugestoes": [
+        "387764",
         "386037",
+        "387769",
         "385806",
-        "374831",
-        "377218",
-        "377265"
+        "374831"
       ]
     },
     {
@@ -48004,11 +48262,11 @@
       "price": "45.00",
       "sale_price": null,
       "sugestoes": [
+        "387764",
+        "387769",
         "385806",
         "377265",
-        "374831",
-        "377218",
-        "386037"
+        "374831"
       ]
     },
     {
@@ -48023,11 +48281,11 @@
       "price": "45.00",
       "sale_price": null,
       "sugestoes": [
+        "387764",
+        "387769",
         "385806",
         "377218",
-        "377265",
-        "386037",
-        "374831"
+        "377265"
       ]
     },
     {
@@ -48081,10 +48339,10 @@
       "sale_price": null,
       "sugestoes": [
         "386037",
+        "387764",
+        "387769",
         "374831",
-        "375162",
-        "377218",
-        "385119"
+        "375162"
       ]
     },
     {
@@ -48176,10 +48434,10 @@
       "sale_price": null,
       "sugestoes": [
         "386037",
+        "387764",
+        "387769",
         "375162",
-        "374831",
-        "385119",
-        "363730"
+        "374831"
       ]
     },
     {
@@ -48195,10 +48453,67 @@
       "sale_price": null,
       "sugestoes": [
         "386037",
+        "387764",
+        "387769",
         "374831",
+        "385119"
+      ]
+    },
+    {
+      "id": "387749",
+      "mpn": "I035209.02.60",
+      "title": "T-shirt Carhartt WIP Arcan Branca",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035209.02.60_1.jpg?1752570720",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Carhartt WIP",
+      "price": "55.00",
+      "sale_price": null,
+      "sugestoes": [
+        "352569",
+        "375014",
+        "377364",
+        "365472",
+        "352585"
+      ]
+    },
+    {
+      "id": "387753",
+      "mpn": "I035209.89.60",
+      "title": "T-shirt Carhartt WIP Arcan Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035209.89.60_1.jpg?1752572094",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Carhartt WIP",
+      "price": "55.00",
+      "sale_price": null,
+      "sugestoes": [
+        "387769",
+        "387764",
+        "385806",
+        "377265",
+        "386037"
+      ]
+    },
+    {
+      "id": "387757",
+      "mpn": "I035209.07E.60",
+      "title": "T-shirt Carhartt WIP Arcan Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I035209.07E.60_1.jpg?1752571455",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Carhartt WIP",
+      "price": "55.00",
+      "sale_price": null,
+      "sugestoes": [
         "385119",
-        "375162",
-        "363730"
+        "377269",
+        "374831",
+        "385129",
+        "385806"
       ]
     },
     {
@@ -48273,7 +48588,7 @@
         "386054",
         "379377",
         "349364",
-        "385061"
+        "387745"
       ]
     },
     {
@@ -48978,7 +49293,7 @@
     {
       "id": "387622",
       "mpn": "II7630-001",
-      "title": "Sapatilhas Nike Air Force 1 07 LV8 Cinzentas Para Homem",
+      "title": "Sapatilhas Nike Air Force 1 07 LV8 Cinzentas Escuras Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/II7630-001_1.jpg?1752503775",
       "gender": "male",
       "site": "1",
@@ -49557,11 +49872,11 @@
       "price": "16.99",
       "sale_price": null,
       "sugestoes": [
+        "387797",
         "375572",
         "345850",
         "375568",
-        "385944",
-        "387558"
+        "387794"
       ]
     },
     {
@@ -49576,11 +49891,11 @@
       "price": "16.99",
       "sale_price": null,
       "sugestoes": [
+        "387794",
         "375572",
         "345850",
         "373200",
-        "387558",
-        "385408"
+        "387558"
       ]
     },
     {
@@ -49595,11 +49910,11 @@
       "price": "17.99",
       "sale_price": null,
       "sugestoes": [
+        "387797",
+        "387794",
         "345850",
         "387558",
-        "375572",
-        "375568",
-        "385408"
+        "375572"
       ]
     },
     {
@@ -49821,7 +50136,7 @@
         "387338",
         "386751",
         "387353",
-        "375564"
+        "387735"
       ]
     },
     {
@@ -50047,7 +50362,7 @@
         "334566",
         "330254",
         "358283",
-        "355083",
+        "355084",
         "326940"
       ]
     },
@@ -50992,7 +51307,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Fred Perry",
       "price": "49.90",
-      "sale_price": null,
+      "sale_price": "34.93",
       "sugestoes": [
         "381387",
         "381390",
@@ -51011,7 +51326,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Fred Perry",
       "price": "49.90",
-      "sale_price": null,
+      "sale_price": "34.93",
       "sugestoes": [
         "382940",
         "381387",
@@ -52926,6 +53241,44 @@
       ]
     },
     {
+      "id": "387734",
+      "mpn": "MH234080-SWJ",
+      "title": "Boné New Balance F. C. Porto Elite EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234080-SWJ_1.jpg?1752567955",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bonés",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387793",
+        "387792",
+        "387464",
+        "345850",
+        "387463"
+      ]
+    },
+    {
+      "id": "387735",
+      "mpn": "MH234080-LHV",
+      "title": "Boné New Balance F. C. Porto Elite EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234080-LHV_1.jpg?1752568547",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bonés",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "385944",
+        "375568",
+        "387793",
+        "387562",
+        "345850"
+      ]
+    },
+    {
       "id": "386110",
       "mpn": "JP3060",
       "title": "Mini Bola Adidas Manchester United F. C. Match EP25/26",
@@ -54509,7 +54862,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "383680",
         "383664",
@@ -54528,7 +54881,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "383664",
         "383668",
@@ -54547,7 +54900,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "383680",
         "383668",
@@ -54566,7 +54919,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "39.99",
-      "sale_price": null,
+      "sale_price": "27.99",
       "sugestoes": [
         "383668",
         "383680",
@@ -54585,7 +54938,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "39.99",
-      "sale_price": null,
+      "sale_price": "23.99",
       "sugestoes": [
         "376800",
         "383664",
@@ -54604,7 +54957,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "39.99",
-      "sale_price": null,
+      "sale_price": "23.99",
       "sugestoes": [
         "378156",
         "377081",
@@ -54657,7 +55010,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "31.99",
-      "sale_price": null,
+      "sale_price": "22.39",
       "sugestoes": [
         "383664",
         "383668",
@@ -54695,7 +55048,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "44.90",
-      "sale_price": null,
+      "sale_price": "31.43",
       "sugestoes": [
         "378156",
         "383652",
@@ -54714,7 +55067,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "49.90",
-      "sale_price": null,
+      "sale_price": "34.93",
       "sugestoes": [
         "383680",
         "383668",
@@ -54733,7 +55086,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "49.90",
-      "sale_price": null,
+      "sale_price": "34.93",
       "sugestoes": [
         "383668",
         "383664",
@@ -54752,7 +55105,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "New Balance",
       "price": "49.90",
-      "sale_price": null,
+      "sale_price": "34.93",
       "sugestoes": [
         "383676",
         "383668",
@@ -55108,7 +55461,7 @@
       "sale_price": null,
       "sugestoes": [
         "334566",
-        "355083",
+        "355084",
         "340922",
         "360020",
         "350346"
@@ -55419,7 +55772,7 @@
       ]
     },
     {
-      "id": "355083",
+      "id": "355084",
       "mpn": "NW327-KB",
       "title": "Sapatilhas New Balance NW327 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NW327-KB_1.jpg?1718286420",
@@ -64404,9 +64757,9 @@
       "sugestoes": [
         "6781",
         "340637",
-        "343054",
-        "341282",
-        "373660"
+        "387717",
+        "387783",
+        "387707"
       ]
     },
     {
@@ -69192,7 +69545,7 @@
         "358073",
         "145784",
         "160969",
-        "306260"
+        "306259"
       ]
     },
     {
@@ -69209,7 +69562,7 @@
       "sugestoes": [
         "145784",
         "160969",
-        "306260",
+        "306259",
         "306376",
         "369985"
       ]
@@ -69564,11 +69917,11 @@
       "price": "12.99",
       "sale_price": null,
       "sugestoes": [
+        "387794",
         "387353",
         "387558",
         "385455",
-        "387350",
-        "385462"
+        "387350"
       ]
     },
     {
@@ -69583,11 +69936,30 @@
       "price": "19.99",
       "sale_price": "16.99",
       "sugestoes": [
+        "387794",
         "387558",
         "374266",
         "385408",
-        "387464",
-        "387353"
+        "387464"
+      ]
+    },
+    {
+      "id": "387797",
+      "mpn": "SG23414M-WS2",
+      "title": "Caneleiras New Balance F. C. Porto Furon Match EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/SG23414M-WS2_1.jpg?1752594514",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Caneleiras",
+      "brand": "New Balance",
+      "price": "17.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387558",
+        "387794",
+        "385216",
+        "385942",
+        "374266"
       ]
     },
     {
@@ -69692,10 +70064,10 @@
       "sale_price": "42.00",
       "sugestoes": [
         "385455",
+        "387735",
         "345850",
         "375572",
-        "375568",
-        "387558"
+        "375568"
       ]
     },
     {
@@ -69750,7 +70122,7 @@
       "sugestoes": [
         "354505",
         "369985",
-        "306260",
+        "306259",
         "358073",
         "278542"
       ]
@@ -69984,7 +70356,7 @@
       ]
     },
     {
-      "id": "306260",
+      "id": "306259",
       "mpn": "SX4120-001",
       "title": "Meias de Futebol Nike Classic",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/SX4120-001_1.jpg?1551381461",
@@ -70640,7 +71012,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Adidas Sportswear",
       "price": "34.90",
-      "sale_price": "24.43",
+      "sale_price": "17.45",
       "sugestoes": [
         "303708",
         "302403",
@@ -73099,7 +73471,7 @@
       ]
     },
     {
-      "id": "303534",
+      "id": "303533",
       "mpn": "U9060-GRY",
       "title": "Sapatilhas New Balance U9060 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/U9060-GRY_1.jpg?1674640641",
