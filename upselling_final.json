@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-16T06:48:06.819394",
+  "gerado_em": "2025-07-18T00:12:10.529948",
   "produtos": [
     {
       "id": "365143",
@@ -2676,7 +2676,7 @@
       "sugestoes": []
     },
     {
-      "id": "373956",
+      "id": "373957",
       "mpn": "1147791-PTY",
       "title": "Sapatilhas Hoka Speedgoat 6 M",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1147791-PTY_1.jpg?1737975386",
@@ -3321,7 +3321,7 @@
       "price": "14.99",
       "sale_price": "7.50",
       "sugestoes": [
-        "376763",
+        "376764",
         "378841",
         "378663",
         "374537",
@@ -3515,7 +3515,7 @@
         "376969",
         "378663",
         "375611",
-        "376763"
+        "376764"
       ]
     },
     {
@@ -3572,7 +3572,7 @@
         "378841",
         "348231",
         "373876",
-        "376763"
+        "376764"
       ]
     },
     {
@@ -3591,7 +3591,7 @@
         "378019",
         "375611",
         "378663",
-        "376763"
+        "376764"
       ]
     },
     {
@@ -3633,7 +3633,7 @@
       ]
     },
     {
-      "id": "376763",
+      "id": "376764",
       "mpn": "15345177-BLACK",
       "title": "Colete Only ONLCapri Knit Preto",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/15345177-BLACK_1.jpg?1739877987",
@@ -3665,7 +3665,7 @@
       "sugestoes": [
         "378841",
         "378019",
-        "376763",
+        "376764",
         "375611",
         "378663"
       ]
@@ -5446,7 +5446,7 @@
       ]
     },
     {
-      "id": "364848",
+      "id": "364849",
       "mpn": "29631682-G222",
       "title": "Sapatilhas Gant Prepus",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/29631682-G222_1.jpg?1725549790",
@@ -6008,7 +6008,7 @@
       "sugestoes": [
         "350615",
         "350664",
-        "350619",
+        "350621",
         "350613",
         "350599"
       ]
@@ -6026,7 +6026,7 @@
       "sale_price": "19.74",
       "sugestoes": [
         "350613",
-        "350619",
+        "350621",
         "350664",
         "350615",
         "350556"
@@ -6048,7 +6048,7 @@
         "350615",
         "350556",
         "350613",
-        "350619"
+        "350621"
       ]
     },
     {
@@ -6063,7 +6063,7 @@
       "price": "29.99",
       "sale_price": "17.99",
       "sugestoes": [
-        "350619",
+        "350621",
         "350664",
         "350615",
         "350613",
@@ -6085,7 +6085,7 @@
         "350664",
         "350591",
         "350613",
-        "350619",
+        "350621",
         "350687"
       ]
     },
@@ -6109,7 +6109,7 @@
       ]
     },
     {
-      "id": "350619",
+      "id": "350621",
       "mpn": "306803-BS501",
       "title": "Calções Champion Legacy Script Logo Kids",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/306803-BS501_1.jpg?1716394439",
@@ -8306,7 +8306,7 @@
       "category": "Calçado > Chinelos",
       "brand": "Havaianas",
       "price": "31.99",
-      "sale_price": "19.19",
+      "sale_price": "16.00",
       "sugestoes": [
         "378534",
         "378355",
@@ -9136,7 +9136,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Havaianas",
       "price": "64.90",
-      "sale_price": "45.43",
+      "sale_price": "32.45",
       "sugestoes": [
         "314285",
         "348115",
@@ -10146,7 +10146,7 @@
       ]
     },
     {
-      "id": "384964",
+      "id": "384965",
       "mpn": "VN0008KUJDU1",
       "title": "Calções de Banho Vans Primary Print Azuis Estampados",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/VN0008KUJDU1_1.jpg?1748017559",
@@ -10333,25 +10333,6 @@
         "349801",
         "359376",
         "359191"
-      ]
-    },
-    {
-      "id": "240755",
-      "mpn": "56605-0021",
-      "title": "T-shirt Levis Original Housemark",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/56605-0021_1.jpg?1709043073",
-      "gender": "male",
-      "site": "1",
-      "category": "Roupa > T-Shirts",
-      "brand": "Levi´s",
-      "price": "26.99",
-      "sale_price": "18.89",
-      "sugestoes": [
-        "320610",
-        "320591",
-        "350102",
-        "359185",
-        "320620"
       ]
     },
     {
@@ -12039,10 +12020,10 @@
       "sale_price": null,
       "sugestoes": [
         "374468",
+        "388027",
         "359301",
         "376415",
-        "374721",
-        "373500"
+        "374721"
       ]
     },
     {
@@ -12744,11 +12725,11 @@
       "price": "68.90",
       "sale_price": "34.45",
       "sugestoes": [
-        "240755",
         "320620",
         "350102",
         "365839",
-        "135682"
+        "135682",
+        "358899"
       ]
     },
     {
@@ -12841,9 +12822,9 @@
       "sugestoes": [
         "358899",
         "135682",
-        "240755",
         "201281",
-        "240499"
+        "240499",
+        "359211"
       ]
     },
     {
@@ -13088,9 +13069,9 @@
       "sugestoes": [
         "359211",
         "348468",
-        "240755",
         "365839",
-        "359191"
+        "359191",
+        "359393"
       ]
     },
     {
@@ -13147,7 +13128,7 @@
         "359211",
         "359185",
         "208772",
-        "240755"
+        "352628"
       ]
     },
     {
@@ -14747,11 +14728,11 @@
       "price": "29.99",
       "sale_price": "17.99",
       "sugestoes": [
+        "387986",
         "380516",
         "380754",
         "351711",
-        "381114",
-        "383142"
+        "387907"
       ]
     },
     {
@@ -15782,7 +15763,7 @@
         "387734",
         "345850",
         "387735",
-        "375568"
+        "387922"
       ]
     },
     {
@@ -15817,10 +15798,10 @@
       "sale_price": null,
       "sugestoes": [
         "387792",
+        "387955",
         "345850",
         "387734",
-        "375568",
-        "354820"
+        "375568"
       ]
     },
     {
@@ -15914,7 +15895,7 @@
       ]
     },
     {
-      "id": "386227",
+      "id": "386228",
       "mpn": "1030916",
       "title": "Chinelos Birkenstock Arizona Couro em Camurça Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030916_1.jpg?1751015888",
@@ -16640,7 +16621,7 @@
         "360480",
         "385611",
         "386731",
-        "358483",
+        "358487",
         "371580"
       ]
     },
@@ -16695,7 +16676,7 @@
       "sale_price": null,
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "358643",
         "327862",
         "330959"
@@ -20383,6 +20364,25 @@
       ]
     },
     {
+      "id": "388013",
+      "mpn": "CD6404-026",
+      "title": "Sapatilhas Nike P-6000 Pretas e Prateadas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/CD6404-026_1.jpg?1752673854",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "214470",
+        "211005",
+        "358822",
+        "320737",
+        "380335"
+      ]
+    },
+    {
       "id": "351162",
       "mpn": "CD6864-125",
       "title": "Sapatilhas Nike Air Max 90 LTR Junior",
@@ -20911,7 +20911,7 @@
       ]
     },
     {
-      "id": "358483",
+      "id": "358487",
       "mpn": "IE2607",
       "title": "Chinelos Adidas Adilette Shower K",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE2607_1.jpg?1721637584",
@@ -21006,7 +21006,7 @@
       ]
     },
     {
-      "id": "346050",
+      "id": "346051",
       "mpn": "1027697",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Caqui",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1027697_1.jpg?1708960862",
@@ -24166,11 +24166,11 @@
       "price": "34.90",
       "sale_price": null,
       "sugestoes": [
+        "388040",
         "380027",
         "373446",
         "375292",
-        "384014",
-        "340348"
+        "384014"
       ]
     },
     {
@@ -24186,10 +24186,10 @@
       "sale_price": null,
       "sugestoes": [
         "380027",
+        "388040",
+        "387850",
         "373446",
-        "384014",
-        "385374",
-        "338604"
+        "384014"
       ]
     },
     {
@@ -24204,11 +24204,11 @@
       "price": "34.99",
       "sale_price": null,
       "sugestoes": [
+        "387850",
         "343791",
         "374399",
         "380027",
-        "372654",
-        "132018"
+        "372654"
       ]
     },
     {
@@ -24224,10 +24224,10 @@
       "sale_price": null,
       "sugestoes": [
         "339582",
+        "388050",
         "379957",
         "343791",
-        "373446",
-        "351699"
+        "373446"
       ]
     },
     {
@@ -24242,11 +24242,11 @@
       "price": "34.90",
       "sale_price": null,
       "sugestoes": [
+        "388050",
+        "387850",
         "383758",
         "343791",
-        "374399",
-        "339582",
-        "357458"
+        "374399"
       ]
     },
     {
@@ -24261,11 +24261,11 @@
       "price": "34.99",
       "sale_price": null,
       "sugestoes": [
+        "387850",
         "380027",
         "380367",
-        "338604",
-        "383758",
-        "373446"
+        "388050",
+        "338604"
       ]
     },
     {
@@ -24283,8 +24283,8 @@
         "230442",
         "387695",
         "381114",
-        "383161",
-        "380505"
+        "387880",
+        "383161"
       ]
     },
     {
@@ -24299,11 +24299,11 @@
       "price": "32.99",
       "sale_price": null,
       "sugestoes": [
+        "387986",
         "380754",
         "380516",
         "351719",
-        "373823",
-        "232060"
+        "373823"
       ]
     },
     {
@@ -24318,11 +24318,11 @@
       "price": "34.90",
       "sale_price": null,
       "sugestoes": [
+        "387986",
         "380754",
         "380516",
         "351719",
-        "380818",
-        "232060"
+        "387907"
       ]
     },
     {
@@ -24955,7 +24955,7 @@
       ]
     },
     {
-      "id": "372758",
+      "id": "372760",
       "mpn": "CT500-AA",
       "title": "Sapatilhas New Balance T500 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/CT500-AA_1.jpg?1736867208",
@@ -25842,6 +25842,25 @@
       ]
     },
     {
+      "id": "388040",
+      "mpn": "DD1391-100",
+      "title": "Sapatilhas Nike Dunk Low Retro Pretas e Brancas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DD1391-100_1.jpg?1752674181",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "214470",
+        "380367",
+        "211005",
+        "210999",
+        "357660"
+      ]
+    },
+    {
       "id": "373823",
       "mpn": "DD1503-125",
       "title": "Sapatilhas Nike Dunk Low Brancas e Roxas Para Mulher",
@@ -25914,6 +25933,25 @@
         "331580",
         "380448",
         "359722",
+        "383368"
+      ]
+    },
+    {
+      "id": "387986",
+      "mpn": "DD1873-102",
+      "title": "Sapatilhas Nike Dunk Low Next Nature Pretas e Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DD1873-102_1.jpg?1752675646",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "231338",
+        "231335",
+        "332011",
+        "380412",
         "383368"
       ]
     },
@@ -28142,8 +28180,8 @@
         "380027",
         "373446",
         "380367",
-        "340348",
-        "383758"
+        "388050",
+        "340348"
       ]
     },
     {
@@ -28507,11 +28545,11 @@
       "price": "32.99",
       "sale_price": "23.09",
       "sugestoes": [
+        "387923",
         "363219",
         "383711",
         "358023",
-        "354505",
-        "384915"
+        "354505"
       ]
     },
     {
@@ -28697,11 +28735,11 @@
       "price": "44.90",
       "sale_price": null,
       "sugestoes": [
+        "387850",
         "339582",
         "132018",
         "384014",
-        "343791",
-        "340348"
+        "343791"
       ]
     },
     {
@@ -28977,6 +29015,22 @@
         "384773",
         "380813",
         "384116"
+      ]
+    },
+    {
+      "id": "387803",
+      "mpn": "DV4328-003",
+      "title": "Chuteiras Nike Tiempo Legend 10 Elite FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV4328-003_1.jpg?1752592017",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "249.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387812",
+        "387841"
       ]
     },
     {
@@ -32785,11 +32839,11 @@
       "price": "22.99",
       "sale_price": null,
       "sugestoes": [
+        "387952",
         "375568",
         "387558",
         "375564",
-        "387734",
-        "387797"
+        "387734"
       ]
     },
     {
@@ -32804,11 +32858,11 @@
       "price": "16.99",
       "sale_price": null,
       "sugestoes": [
+        "387952",
         "387797",
         "375568",
         "387735",
-        "387734",
-        "387558"
+        "387734"
       ]
     },
     {
@@ -32823,11 +32877,11 @@
       "price": "19.99",
       "sale_price": null,
       "sugestoes": [
+        "387952",
         "387797",
-        "387735",
-        "387734",
-        "387558",
-        "375568"
+        "387955",
+        "387922",
+        "387735"
       ]
     },
     {
@@ -32843,10 +32897,10 @@
       "sale_price": null,
       "sugestoes": [
         "387735",
+        "387952",
         "387734",
-        "387797",
-        "375568",
-        "375564"
+        "387922",
+        "387797"
       ]
     },
     {
@@ -32861,11 +32915,11 @@
       "price": "21.99",
       "sale_price": null,
       "sugestoes": [
+        "387952",
         "387734",
         "387735",
         "387797",
-        "375568",
-        "387558"
+        "387922"
       ]
     },
     {
@@ -32880,11 +32934,11 @@
       "price": "15.99",
       "sale_price": null,
       "sugestoes": [
+        "387952",
         "387797",
+        "387922",
         "387794",
-        "385455",
-        "387735",
-        "385942"
+        "385455"
       ]
     },
     {
@@ -32899,11 +32953,11 @@
       "price": "15.99",
       "sale_price": null,
       "sugestoes": [
+        "387952",
         "387735",
         "387734",
-        "385455",
-        "375568",
-        "387797"
+        "387922",
+        "385455"
       ]
     },
     {
@@ -34250,7 +34304,7 @@
         "372654",
         "376060",
         "383758",
-        "374399"
+        "387850"
       ]
     },
     {
@@ -34267,9 +34321,9 @@
       "sugestoes": [
         "372654",
         "374399",
+        "387850",
         "387727",
-        "380367",
-        "381223"
+        "380367"
       ]
     },
     {
@@ -35209,6 +35263,25 @@
       ]
     },
     {
+      "id": "388027",
+      "mpn": "FJ3145-100",
+      "title": "Sapatilhas Nike Air Max DN Brancas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ3145-100_1.jpg?1752667305",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "169.90",
+      "sale_price": null,
+      "sugestoes": [
+        "320790",
+        "320829",
+        "36016",
+        "370140",
+        "1991"
+      ]
+    },
+    {
       "id": "380431",
       "mpn": "FJ3794-301",
       "title": "Sapatilhas Nike AL8 Verdes Para Mulher",
@@ -35607,6 +35680,43 @@
       ]
     },
     {
+      "id": "388060",
+      "mpn": "FJ9509-008",
+      "title": "Sapatilhas de Running Nike Winflo 11 Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ9509-008_1.jpg?1752676002",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "275633",
+        "298763",
+        "381448",
+        "376782",
+        "365716"
+      ]
+    },
+    {
+      "id": "388070",
+      "mpn": "FJ9510-109",
+      "title": "Sapatilhas de Running Nike Winflo 11 Bege e Rosa Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ9510-109_1.jpg?1752679935",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383999",
+        "383991",
+        "376565",
+        "383965"
+      ]
+    },
+    {
       "id": "381723",
       "mpn": "266-10",
       "title": "Anel Susmie's Flowery Dourado",
@@ -35964,7 +36074,7 @@
     {
       "id": "340090",
       "mpn": "FN7509-029",
-      "title": "Sapatilhas Nike P-6000",
+      "title": "Sapatilhas Nike P-6000 Cinzentas e Verdes Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FN7509-029_1.jpg?1752493912",
       "gender": "male",
       "site": "1",
@@ -36186,6 +36296,22 @@
       ]
     },
     {
+      "id": "387841",
+      "mpn": "FQ1454-001",
+      "title": "Chuteiras Nike Mercurial Superfly 10 Elite FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ1454-001_1.jpg?1752592882",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "279.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387812",
+        "387803"
+      ]
+    },
+    {
       "id": "383406",
       "mpn": "FQ1456-301",
       "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy FG/MG",
@@ -36221,6 +36347,22 @@
         "357995",
         "367920",
         "275329"
+      ]
+    },
+    {
+      "id": "387812",
+      "mpn": "FQ1457-001",
+      "title": "Chuteiras Nike Mercurial Vapor 16 Elite FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ1457-001_1.jpg?1752591205",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387841",
+        "387803"
       ]
     },
     {
@@ -36558,6 +36700,25 @@
       ]
     },
     {
+      "id": "387923",
+      "mpn": "FQ8308-001",
+      "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy AG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8308-001_1.jpg?1752590272",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "369557",
+        "384915",
+        "381138",
+        "347480",
+        "369565"
+      ]
+    },
+    {
       "id": "372326",
       "mpn": "FQ8312-800",
       "title": "Sapatilhas Nike Mercurial Superfly 10 Academy IN J",
@@ -36664,6 +36825,25 @@
         "372370",
         "372300",
         "373135"
+      ]
+    },
+    {
+      "id": "387932",
+      "mpn": "FQ8329-001",
+      "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy AG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8329-001_1.jpg?1752589275",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383088",
+        "383415",
+        "357995",
+        "367920",
+        "275329"
       ]
     },
     {
@@ -38147,6 +38327,44 @@
       ]
     },
     {
+      "id": "387850",
+      "mpn": "FZ5808-102",
+      "title": "Sapatilhas Nike Air Max 1 Essential Brancas e Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FZ5808-102_1.jpg?1752664005",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "358822",
+        "380335",
+        "231328",
+        "357660",
+        "214470"
+      ]
+    },
+    {
+      "id": "388050",
+      "mpn": "FZ5808-015",
+      "title": "Sapatilhas Nike Air Max 1 Essential Vermelhas e Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FZ5808-015_1.jpg?1752668083",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "358822",
+        "211005",
+        "214470",
+        "320737",
+        "380335"
+      ]
+    },
+    {
       "id": "360442",
       "mpn": "FZ7289-121",
       "title": "Mochila Nike Heritage 25L",
@@ -39366,7 +39584,7 @@
       ]
     },
     {
-      "id": "358221",
+      "id": "358220",
       "mpn": "GSB550-EB",
       "title": "Sapatilhas New Balance GSB550 V1",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/GSB550-EB_1.jpg?1721319572",
@@ -39936,6 +40154,25 @@
       ]
     },
     {
+      "id": "387995",
+      "mpn": "HF0015-301",
+      "title": "Sapatilhas Nike P-6000 SE Verdes Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HF0015-301_1.jpg?1752674674",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380367",
+        "380335",
+        "214470",
+        "320737",
+        "358822"
+      ]
+    },
+    {
       "id": "380191",
       "mpn": "HF0263-402",
       "title": "Sapatilhas Nike Cortez Azuis e Amarelas Para Homem",
@@ -40475,6 +40712,25 @@
       ]
     },
     {
+      "id": "387942",
+      "mpn": "HF9433-001",
+      "title": "Chuteiras Nike Mercurial Superfly 16 Pro FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HF9433-001_1.jpg?1752590909",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "169.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383415",
+        "383088",
+        "357995",
+        "275329",
+        "367920"
+      ]
+    },
+    {
       "id": "375829",
       "mpn": "HF9524-100",
       "title": "T-shirt Nike Sportswear Chill Knit Branca Às Riscas Para Mulher",
@@ -40908,7 +41164,7 @@
         "383991",
         "383999",
         "353044",
-        "383812"
+        "387976"
       ]
     },
     {
@@ -40925,9 +41181,9 @@
       "sugestoes": [
         "376565",
         "383965",
+        "387976",
         "353044",
-        "383812",
-        "374202"
+        "387898"
       ]
     },
     {
@@ -40944,9 +41200,9 @@
       "sugestoes": [
         "383965",
         "376565",
+        "387976",
         "353044",
-        "374202",
-        "380579"
+        "374202"
       ]
     },
     {
@@ -42061,6 +42317,60 @@
       ]
     },
     {
+      "id": "387887",
+      "mpn": "HM9593-601",
+      "title": "Sapatilhas de Running Nike Run Defy Rosa Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM9593-601_1.jpg?1752589647",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383999",
+        "383991",
+        "376565",
+        "383965"
+      ]
+    },
+    {
+      "id": "387898",
+      "mpn": "HM9593-101",
+      "title": "Sapatilhas de Running Nike Run Defy Brancas e Pretas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM9593-101_1.jpg?1752588546",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383991",
+        "376565",
+        "383965",
+        "383999"
+      ]
+    },
+    {
+      "id": "387976",
+      "mpn": "HM9593-103",
+      "title": "Sapatilhas de Running Nike Run Defy Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM9593-103_1.jpg?1752653596",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383991",
+        "383999",
+        "376565",
+        "383965"
+      ]
+    },
+    {
       "id": "380589",
       "mpn": "HM9594-001",
       "title": "Sapatilhas de Running Nike Run Defy Pretas e Vermelhas Para Homem",
@@ -42115,6 +42425,63 @@
         "381448",
         "365716",
         "376782"
+      ]
+    },
+    {
+      "id": "387822",
+      "mpn": "HM9594-401",
+      "title": "Sapatilhas de Running Nike Run Defy Azuis Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM9594-401_1.jpg?1752590764",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "298763",
+        "275633",
+        "365716",
+        "381448",
+        "377610"
+      ]
+    },
+    {
+      "id": "387860",
+      "mpn": "HM9594-102",
+      "title": "Sapatilhas de Running Nike Run Defy Brancas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM9594-102_1.jpg?1752590353",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "275633",
+        "298763",
+        "365716",
+        "381448",
+        "377610"
+      ]
+    },
+    {
+      "id": "387870",
+      "mpn": "HM9594-005",
+      "title": "Sapatilhas de Running Nike Run Defy Cinzentas e Vermelhas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM9594-005_1.jpg?1752590092",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "275633",
+        "298763",
+        "365716",
+        "381448",
+        "377610"
       ]
     },
     {
@@ -42433,7 +42800,7 @@
         "380027",
         "384014",
         "385374",
-        "380257"
+        "388040"
       ]
     },
     {
@@ -42472,6 +42839,25 @@
         "376284",
         "373106",
         "381291"
+      ]
+    },
+    {
+      "id": "387956",
+      "mpn": "HQ2278-003",
+      "title": "Chuteiras Nike Phantom 6 High Academy FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HQ2278-003_1.jpg?1752588735",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383088",
+        "383415",
+        "357995",
+        "367920",
+        "275329"
       ]
     },
     {
@@ -42977,7 +43363,7 @@
       "sale_price": null,
       "sugestoes": [
         "372788",
-        "380539",
+        "380540",
         "380618",
         "381046",
         "367054"
@@ -42997,7 +43383,7 @@
       "sugestoes": [
         "372788",
         "230442",
-        "380539",
+        "380540",
         "372509",
         "232060"
       ]
@@ -43037,6 +43423,44 @@
         "320829",
         "337097",
         "367357",
+        "369155"
+      ]
+    },
+    {
+      "id": "387914",
+      "mpn": "HV5064-006",
+      "title": "Sapatilhas Nike P-6000 Cinzentas e Prateadas Júnior",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV5064-006_1.jpg?1752588187",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "367357",
+        "200169",
+        "337097",
+        "369155",
+        "320829"
+      ]
+    },
+    {
+      "id": "388006",
+      "mpn": "HV5064-101",
+      "title": "Sapatilhas Nike P-6000 Brancas e Prateadas Júnior",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV5064-101_1.jpg?1752673367",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "200169",
+        "367357",
+        "370140",
+        "337097",
         "369155"
       ]
     },
@@ -48647,7 +49071,7 @@
       ]
     },
     {
-      "id": "380539",
+      "id": "380540",
       "mpn": "IB2766-101",
       "title": "Sapatilhas Nike Uplift SC Brancas Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB2766-101_1.jpg?1744196622",
@@ -48701,6 +49125,44 @@
         "211005",
         "357660",
         "320737"
+      ]
+    },
+    {
+      "id": "387880",
+      "mpn": "IB4417-102",
+      "title": "Sapatilhas Nike Dunk Low Rosa e Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB4417-102_1.jpg?1752664672",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380447",
+        "331580",
+        "359722",
+        "380448",
+        "383122"
+      ]
+    },
+    {
+      "id": "387907",
+      "mpn": "IB4417-100",
+      "title": "Sapatilhas Nike Dunk Low Verdes e Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB4417-100_1.jpg?1752665970",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "231338",
+        "332011",
+        "231335",
+        "383368",
+        "380447"
       ]
     },
     {
@@ -48777,6 +49239,25 @@
         "358822",
         "211005",
         "320737"
+      ]
+    },
+    {
+      "id": "387966",
+      "mpn": "IB6399-600",
+      "title": "Sapatilhas Nike Dunk Low Retro SE Bordeaux e Vermelhas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB6399-600_1.jpg?1752666444",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380367",
+        "358822",
+        "380335",
+        "214470",
+        "381062"
       ]
     },
     {
@@ -49914,7 +50395,7 @@
         "387794",
         "345850",
         "387558",
-        "375572"
+        "387952"
       ]
     },
     {
@@ -50135,8 +50616,8 @@
         "386739",
         "387338",
         "386751",
-        "387353",
-        "387735"
+        "387922",
+        "387353"
       ]
     },
     {
@@ -50190,7 +50671,7 @@
       "sale_price": null,
       "sugestoes": [
         "384871",
-        "383081",
+        "383082",
         "381731",
         "381498",
         "332749"
@@ -51317,7 +51798,7 @@
       ]
     },
     {
-      "id": "383081",
+      "id": "383082",
       "mpn": "M3519-146",
       "title": "T-shirt Fred Perry Ringer Azul",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M3519-146_1.jpg?1745921310",
@@ -51426,7 +51907,7 @@
         "382901",
         "381731",
         "381543",
-        "383081",
+        "383082",
         "381586"
       ]
     },
@@ -51443,7 +51924,7 @@
       "sale_price": null,
       "sugestoes": [
         "381731",
-        "383081",
+        "383082",
         "304857",
         "309179",
         "332749"
@@ -51461,7 +51942,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "383081",
+        "383082",
         "381581",
         "381586",
         "382901",
@@ -51520,7 +52001,7 @@
       "sugestoes": [
         "384200",
         "381586",
-        "383081",
+        "383082",
         "381581",
         "381543"
       ]
@@ -51538,7 +52019,7 @@
       "sale_price": null,
       "sugestoes": [
         "381731",
-        "383081",
+        "383082",
         "381498",
         "304857",
         "332749"
@@ -51560,7 +52041,7 @@
         "381581",
         "384278",
         "381543",
-        "383081"
+        "383082"
       ]
     },
     {
@@ -51894,7 +52375,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "383081",
+        "383082",
         "381586",
         "381581",
         "382901",
@@ -51916,7 +52397,7 @@
         "381586",
         "381581",
         "384278",
-        "383081",
+        "383082",
         "384200"
       ]
     },
@@ -52088,7 +52569,7 @@
         "384200",
         "382969",
         "382952",
-        "383081"
+        "383082"
       ]
     },
     {
@@ -52200,7 +52681,7 @@
         "381498",
         "384193",
         "381581",
-        "383081"
+        "383082"
       ]
     },
     {
@@ -53252,11 +53733,11 @@
       "price": "24.99",
       "sale_price": null,
       "sugestoes": [
+        "387955",
         "387793",
         "387792",
         "387464",
-        "345850",
-        "387463"
+        "345850"
       ]
     },
     {
@@ -53272,10 +53753,105 @@
       "sale_price": null,
       "sugestoes": [
         "385944",
+        "387955",
         "375568",
         "387793",
-        "387562",
-        "345850"
+        "387562"
+      ]
+    },
+    {
+      "id": "387922",
+      "mpn": "MH234081-NVA",
+      "title": "Boné New Balance F. C. Porto Snapback EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234081-NVA_1.jpg?1752581487",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bonés",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "385944",
+        "387955",
+        "387793",
+        "387564",
+        "387562"
+      ]
+    },
+    {
+      "id": "387952",
+      "mpn": "MH234081-WS2",
+      "title": "Boné New Balance F. C. Porto Snapback EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234081-WS2_1.jpg?1752582114",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bonés",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387565",
+        "371523",
+        "387564",
+        "387954",
+        "387561"
+      ]
+    },
+    {
+      "id": "387954",
+      "mpn": "MH234083-WS2",
+      "title": "Chapéu New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234083-WS2_1.jpg?1752587309",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Chapéus",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "385944",
+        "387952",
+        "387735",
+        "387797",
+        "385090"
+      ]
+    },
+    {
+      "id": "387953",
+      "mpn": "MH234084-SWJ",
+      "title": "Gorro New Balance F. C. Porto Elite Pompom EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234084-SWJ_1.jpg?1752586443",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Gorros",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "386751",
+        "385779",
+        "385090",
+        "385093",
+        "387338"
+      ]
+    },
+    {
+      "id": "387955",
+      "mpn": "MH234085-SWJ",
+      "title": "Gorro New Balance F. C. Porto Elite EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MH234085-SWJ_1.jpg?1752586891",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Gorros",
+      "brand": "New Balance",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "387734",
+        "387464",
+        "387922",
+        "345850",
+        "387735"
       ]
     },
     {
@@ -55130,7 +55706,7 @@
         "349854",
         "261399",
         "261497",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -61976,6 +62552,25 @@
       ]
     },
     {
+      "id": "387832",
+      "mpn": "PZ530-GA",
+      "title": "Sapatilhas New Balance PZ530 V1 Brancas e Amarelas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PZ530-GA_1.jpg?1752662338",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "New Balance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "373264",
+        "333921",
+        "330257",
+        "330254",
+        "373289"
+      ]
+    },
+    {
       "id": "377506",
       "mpn": "PZ740-WM",
       "title": "Sapatilhas New Balance PZ740 V1 Brancas",
@@ -62559,7 +63154,7 @@
       "price": "49.90",
       "sale_price": "29.94",
       "sugestoes": [
-        "350619",
+        "350621",
         "350603",
         "350615",
         "350613",
@@ -63236,7 +63831,7 @@
       "sale_price": null,
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "314457",
         "358643",
         "319806"
@@ -63254,7 +63849,7 @@
       "price": "34.99",
       "sale_price": null,
       "sugestoes": [
-        "358483",
+        "358487",
         "319806",
         "360480",
         "314457",
@@ -66154,7 +66749,7 @@
       "price": "44.90",
       "sale_price": null,
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "319806",
         "314457",
@@ -66173,7 +66768,7 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
-        "358483",
+        "358487",
         "319806",
         "360480",
         "314457",
@@ -66192,7 +66787,7 @@
       "price": "32.99",
       "sale_price": null,
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "319806",
         "314457",
@@ -66211,7 +66806,7 @@
       "price": "89.90",
       "sale_price": "62.93",
       "sugestoes": [
-        "358483",
+        "358487",
         "327862",
         "314457",
         "319806",
@@ -66325,7 +66920,7 @@
       "price": "37.90",
       "sale_price": "26.53",
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "327862",
         "319806",
@@ -66346,7 +66941,7 @@
       "sugestoes": [
         "360480",
         "358643",
-        "358483",
+        "358487",
         "319806",
         "314457"
       ]
@@ -66364,7 +66959,7 @@
       "sale_price": "23.09",
       "sugestoes": [
         "327583",
-        "358483",
+        "358487",
         "329423",
         "327862",
         "360480"
@@ -66401,7 +66996,7 @@
       "price": "39.90",
       "sale_price": "19.95",
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "319806",
         "358643",
@@ -66421,7 +67016,7 @@
       "sale_price": "19.95",
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "358643",
         "319806",
         "314457"
@@ -66440,7 +67035,7 @@
       "sale_price": "22.45",
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "319806",
         "358643",
         "314457"
@@ -66460,7 +67055,7 @@
       "sugestoes": [
         "327583",
         "329423",
-        "358483",
+        "358487",
         "327862",
         "360480"
       ]
@@ -66477,7 +67072,7 @@
       "price": "49.90",
       "sale_price": "24.95",
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "319806",
         "358643",
@@ -66747,7 +67342,7 @@
         "358643",
         "319806",
         "314457",
-        "358483"
+        "358487"
       ]
     },
     {
@@ -66766,7 +67361,7 @@
         "360480",
         "314457",
         "319806",
-        "358483"
+        "358487"
       ]
     },
     {
@@ -66821,7 +67416,7 @@
       ]
     },
     {
-      "id": "383599",
+      "id": "383601",
       "mpn": "IE1377",
       "title": "Sapatilhas Adidas Samba XLG Brancas e Pretas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE1377_1.jpg?1746198381",
@@ -67751,7 +68346,7 @@
       "price": "37.99",
       "sale_price": null,
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "319806",
         "327862",
@@ -67771,7 +68366,7 @@
       "sale_price": null,
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "358643",
         "319806",
         "314457"
@@ -67790,7 +68385,7 @@
       "sale_price": null,
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "358643",
         "319806",
         "314457"
@@ -67809,7 +68404,7 @@
       "sale_price": "31.43",
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "319806",
         "358643",
         "314457"
@@ -67939,7 +68534,7 @@
         "314457",
         "360480",
         "358643",
-        "358483",
+        "358487",
         "319806"
       ]
     },
@@ -67956,7 +68551,7 @@
       "sale_price": "52.43",
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "327862",
         "358643",
         "314457"
@@ -67975,7 +68570,7 @@
       "sale_price": null,
       "sugestoes": [
         "327862",
-        "358483",
+        "358487",
         "314457",
         "358643",
         "360480"
@@ -67995,7 +68590,7 @@
       "sugestoes": [
         "360480",
         "358643",
-        "358483",
+        "358487",
         "314457",
         "319806"
       ]
@@ -68013,7 +68608,7 @@
       "sale_price": "48.93",
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "319806",
         "358643",
         "314457"
@@ -68033,7 +68628,7 @@
       "sugestoes": [
         "360480",
         "358643",
-        "358483",
+        "358487",
         "314457",
         "319806"
       ]
@@ -68089,7 +68684,7 @@
       "sale_price": null,
       "sugestoes": [
         "360480",
-        "358483",
+        "358487",
         "319806",
         "358643",
         "314457"
@@ -68107,7 +68702,7 @@
       "price": "39.99",
       "sale_price": null,
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "358643",
         "327862",
@@ -68128,7 +68723,7 @@
       "sugestoes": [
         "314457",
         "327862",
-        "358483",
+        "358487",
         "358643",
         "319806"
       ]
@@ -68145,7 +68740,7 @@
       "price": "74.90",
       "sale_price": "52.43",
       "sugestoes": [
-        "358483",
+        "358487",
         "360480",
         "327862",
         "314457",
@@ -68279,7 +68874,7 @@
       "sale_price": null,
       "sugestoes": [
         "314457",
-        "358483",
+        "358487",
         "319806",
         "327862",
         "360480"
@@ -68409,7 +69004,7 @@
         "261497",
         "349854",
         "167670",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -68427,7 +69022,7 @@
         "261399",
         "349854",
         "261497",
-        "384964",
+        "384965",
         "381295"
       ]
     },
@@ -68684,7 +69279,7 @@
         "349854",
         "261497",
         "261399",
-        "384964",
+        "384965",
         "167670"
       ]
     },
@@ -68944,7 +69539,7 @@
         "261399",
         "349854",
         "261497",
-        "384964",
+        "384965",
         "167670"
       ]
     },
@@ -68964,7 +69559,7 @@
         "261399",
         "261497",
         "378491",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -69141,7 +69736,7 @@
         "261497",
         "349854",
         "261399",
-        "384964",
+        "384965",
         "381295"
       ]
     },
@@ -70676,8 +71271,8 @@
         "330901",
         "230431",
         "348900",
-        "374467",
-        "369587"
+        "388027",
+        "374467"
       ]
     },
     {
@@ -70693,7 +71288,7 @@
       "sale_price": null,
       "sugestoes": [
         "383539",
-        "383081",
+        "383082",
         "381731",
         "304857",
         "384867"
@@ -71427,7 +72022,7 @@
         "349854",
         "384968",
         "385560",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -71976,7 +72571,7 @@
         "261497",
         "349854",
         "385560",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -74112,7 +74707,7 @@
         "261497",
         "349854",
         "261399",
-        "384964",
+        "384965",
         "167670"
       ]
     },
@@ -74250,7 +74845,7 @@
       ]
     },
     {
-      "id": "356511",
+      "id": "356512",
       "mpn": "VN0009QJQJM1",
       "title": "Sapatilhas Vans Rowley Classic",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/VN0009QJQJM1_1.jpg?1719586571",
@@ -74588,7 +75183,7 @@
         "261497",
         "384968",
         "385560",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -74607,7 +75202,7 @@
         "384968",
         "261497",
         "385560",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -74797,7 +75392,7 @@
         "261497",
         "385560",
         "384968",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -74835,7 +75430,7 @@
         "384968",
         "261497",
         "385560",
-        "384964"
+        "384965"
       ]
     },
     {
@@ -74930,7 +75525,7 @@
         "385560",
         "349854",
         "384968",
-        "384964"
+        "384965"
       ]
     },
     {
