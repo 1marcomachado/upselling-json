@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-18T00:12:10.529948",
+  "gerado_em": "2025-07-19T06:45:25.566834",
   "produtos": [
     {
       "id": "365143",
@@ -4891,7 +4891,7 @@
       "price": "59.90",
       "sale_price": "29.95",
       "sugestoes": [
-        "364854",
+        "364855",
         "383259",
         "380207",
         "381151",
@@ -5462,7 +5462,7 @@
       ]
     },
     {
-      "id": "364854",
+      "id": "364855",
       "mpn": "29631682-G29",
       "title": "Sapatilhas Gant Prepus",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/29631682-G29_1.jpg?1725550314",
@@ -9387,7 +9387,7 @@
       ]
     },
     {
-      "id": "378336",
+      "id": "378337",
       "mpn": "4149722-0027",
       "title": "Chinelos Havaianas Top Tropicalia Vibes Salmão",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/4149722-0027_1.jpg?1741692783",
@@ -11834,8 +11834,8 @@
         "330879",
         "254669",
         "330871",
-        "384492",
-        "358962"
+        "365302",
+        "384492"
       ]
     },
     {
@@ -13225,6 +13225,25 @@
       ]
     },
     {
+      "id": "386976",
+      "mpn": "JH6302",
+      "title": "Chuteiras Adidas Copa Pure III Elite LL FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH6302_1.jpg?1751293862",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "249.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387259",
+        "388310",
+        "388302",
+        "387270",
+        "387099"
+      ]
+    },
+    {
       "id": "195340",
       "mpn": "AS004A",
       "title": "Toalhitas Adidas Sport",
@@ -14329,7 +14348,7 @@
       ]
     },
     {
-      "id": "125106",
+      "id": "125107",
       "mpn": "M9691",
       "title": "Sapatilhas Converse Chuck Taylor All Star Low",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M9691_0.jpg?1551463117",
@@ -15190,7 +15209,7 @@
       ]
     },
     {
-      "id": "364172",
+      "id": "364174",
       "mpn": "B8325-U73",
       "title": "Sapatilhas Fred Perry B4",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/B8325-U73_1.jpg?1724951231",
@@ -19884,9 +19903,9 @@
       "sugestoes": [
         "385927",
         "327569",
+        "388144",
         "288402",
-        "327592",
-        "327561"
+        "327592"
       ]
     },
     {
@@ -21215,7 +21234,7 @@
       ]
     },
     {
-      "id": "349572",
+      "id": "349573",
       "mpn": "151183",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/151183_1.jpg?1711973547",
@@ -21247,7 +21266,7 @@
       ]
     },
     {
-      "id": "328659",
+      "id": "328661",
       "mpn": "151181",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/151181_1.jpg?1741629407",
@@ -21356,7 +21375,7 @@
       ]
     },
     {
-      "id": "318783",
+      "id": "318784",
       "mpn": "951301",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951301_1.jpg?1751992235",
@@ -21456,7 +21475,7 @@
       ]
     },
     {
-      "id": "386862",
+      "id": "386863",
       "mpn": "1030814",
       "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030814_1.jpg?1751623389",
@@ -22319,9 +22338,9 @@
       "sugestoes": [
         "369601",
         "387182",
+        "388528",
         "387190",
-        "328307",
-        "385574"
+        "328307"
       ]
     },
     {
@@ -22338,9 +22357,9 @@
       "sugestoes": [
         "369601",
         "387182",
+        "388528",
         "387190",
-        "328307",
-        "303380"
+        "328307"
       ]
     },
     {
@@ -22361,7 +22380,7 @@
       ]
     },
     {
-      "id": "337800",
+      "id": "337801",
       "mpn": "IE4905",
       "title": "Chuteiras Adidas Copa Pure Ii.3 Fg J",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IE4905_1.jpg?1697194873",
@@ -22417,22 +22436,22 @@
       ]
     },
     {
-      "id": "386976",
-      "mpn": "JH6302",
+      "id": "388310",
+      "mpn": "JH6304",
       "title": "Chuteiras Adidas Copa Pure III Elite FG",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH6302_1.jpg?1751293862",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH6304_1.jpg?1752759463",
       "gender": "male",
       "site": "2",
       "category": "Calçado > Futebol > Chuteiras",
       "brand": "Adidas Performance",
-      "price": "249.90",
+      "price": "239.90",
       "sale_price": null,
       "sugestoes": [
+        "388302",
         "387259",
-        "387270",
-        "387099",
+        "386976",
         "387159",
-        "386992"
+        "387182"
       ]
     },
     {
@@ -22468,7 +22487,8 @@
       "sugestoes": [
         "387717",
         "387707",
-        "387469"
+        "387469",
+        "388378"
       ]
     },
     {
@@ -22501,11 +22521,11 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
+        "388302",
         "386976",
+        "388310",
         "386992",
-        "387182",
-        "387159",
-        "387099"
+        "387182"
       ]
     },
     {
@@ -22522,7 +22542,27 @@
       "sugestoes": [
         "387783",
         "387707",
-        "387469"
+        "387469",
+        "388378"
+      ]
+    },
+    {
+      "id": "388302",
+      "mpn": "JR2829",
+      "title": "Chuteiras Adidas Copa Pure III Pro FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR2829_1.jpg?1752755025",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387259",
+        "388310",
+        "386976",
+        "387159",
+        "387061"
       ]
     },
     {
@@ -22538,10 +22578,10 @@
       "sale_price": null,
       "sugestoes": [
         "387198",
+        "388131",
         "387235",
-        "387246",
-        "387228",
-        "387513"
+        "388219",
+        "388503"
       ]
     },
     {
@@ -22559,8 +22599,8 @@
         "387026",
         "387038",
         "387002",
-        "387061",
-        "387190"
+        "388157",
+        "387061"
       ]
     },
     {
@@ -22575,11 +22615,11 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
+        "388131",
         "387242",
         "387246",
-        "387513",
-        "387235",
-        "387228"
+        "388219",
+        "387513"
       ]
     },
     {
@@ -22616,8 +22656,8 @@
         "387026",
         "386982",
         "387002",
-        "387038",
-        "387015"
+        "388157",
+        "387038"
       ]
     },
     {
@@ -22635,8 +22675,27 @@
         "387061",
         "386982",
         "387038",
-        "387171",
-        "387002"
+        "388157",
+        "388210"
+      ]
+    },
+    {
+      "id": "388503",
+      "mpn": "JH7714",
+      "title": "Chuteiras Adidas F50 Elite FG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7714_1.jpg?1752836243",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388131",
+        "387242",
+        "387235",
+        "387198",
+        "387492"
       ]
     },
     {
@@ -22651,11 +22710,11 @@
       "price": "269.90",
       "sale_price": null,
       "sugestoes": [
+        "388210",
         "387122",
         "387061",
         "387026",
-        "386982",
-        "387109"
+        "386982"
       ]
     },
     {
@@ -22670,11 +22729,11 @@
       "price": "269.90",
       "sale_price": null,
       "sugestoes": [
+        "388210",
         "387015",
         "387026",
         "387061",
-        "387109",
-        "386982"
+        "387109"
       ]
     },
     {
@@ -22689,6 +22748,7 @@
       "price": "269.90",
       "sale_price": null,
       "sugestoes": [
+        "388378",
         "387707",
         "387717",
         "387783"
@@ -22706,11 +22766,30 @@
       "price": "129.90",
       "sale_price": null,
       "sugestoes": [
+        "388219",
         "387513",
-        "387235",
-        "387198",
-        "387242",
-        "387492"
+        "388131",
+        "388503",
+        "387235"
+      ]
+    },
+    {
+      "id": "388210",
+      "mpn": "JH7642",
+      "title": "Chuteiras Adidas F50 Elite LL SG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7642_1.jpg?1752746597",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "269.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387122",
+        "387015",
+        "387026",
+        "386982",
+        "387061"
       ]
     },
     {
@@ -22727,9 +22806,9 @@
       "sugestoes": [
         "387026",
         "387061",
-        "387038",
-        "387171",
-        "387122"
+        "388210",
+        "388157",
+        "387038"
       ]
     },
     {
@@ -22759,9 +22838,9 @@
       "sugestoes": [
         "387190",
         "387182",
+        "388528",
         "328307",
-        "369601",
-        "387539"
+        "369601"
       ]
     },
     {
@@ -22779,8 +22858,8 @@
         "387190",
         "387182",
         "328307",
-        "369601",
-        "385752"
+        "388528",
+        "369601"
       ]
     },
     {
@@ -22797,9 +22876,28 @@
       "sugestoes": [
         "387190",
         "387182",
+        "388528",
         "328307",
-        "369601",
-        "152236"
+        "369601"
+      ]
+    },
+    {
+      "id": "388157",
+      "mpn": "JI0003",
+      "title": "Chuteiras Adidas F50 League FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0003_1.jpg?1752744904",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "89.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387038",
+        "387026",
+        "387061",
+        "387171",
+        "386982"
       ]
     },
     {
@@ -22820,6 +22918,25 @@
       ]
     },
     {
+      "id": "388131",
+      "mpn": "JH7747",
+      "title": "Chuteiras Adidas F50 League FG/MG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7747_1.jpg?1752743885",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387513",
+        "387198",
+        "388219",
+        "388503",
+        "387242"
+      ]
+    },
+    {
       "id": "387492",
       "mpn": "JI3547",
       "title": "Chuteiras Adidas F50 League FG/MG J",
@@ -22832,10 +22949,10 @@
       "sale_price": null,
       "sugestoes": [
         "387513",
-        "387228",
-        "387198",
-        "387235",
-        "387246"
+        "388219",
+        "388131",
+        "388503",
+        "388177"
       ]
     },
     {
@@ -22852,9 +22969,9 @@
       "sugestoes": [
         "387122",
         "387038",
-        "387061",
-        "387002",
-        "387026"
+        "388157",
+        "388210",
+        "387061"
       ]
     },
     {
@@ -22871,7 +22988,27 @@
       "sugestoes": [
         "387717",
         "387783",
-        "387469"
+        "387469",
+        "388378"
+      ]
+    },
+    {
+      "id": "388219",
+      "mpn": "JH7743",
+      "title": "Chuteiras Adidas F50 League LL FG/MG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7743_1.jpg?1752747438",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388131",
+        "387513",
+        "387228",
+        "387242",
+        "388144"
       ]
     },
     {
@@ -22938,11 +23075,11 @@
       "price": "69.90",
       "sale_price": null,
       "sugestoes": [
+        "388131",
+        "388219",
         "387492",
         "387228",
-        "387198",
-        "387246",
-        "387133"
+        "387198"
       ]
     },
     {
@@ -22958,6 +23095,25 @@
       "sale_price": "37.45",
       "sugestoes": [
         "376041"
+      ]
+    },
+    {
+      "id": "388177",
+      "mpn": "JI0886",
+      "title": "Chuteiras Adidas F50 League Mid FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0886_1.jpg?1752745351",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387492",
+        "388219",
+        "387513",
+        "388503",
+        "387228"
       ]
     },
     {
@@ -22991,11 +23147,29 @@
       "price": "149.90",
       "sale_price": null,
       "sugestoes": [
+        "388157",
         "387026",
         "387061",
         "387171",
-        "387220",
-        "387085"
+        "387220"
+      ]
+    },
+    {
+      "id": "388378",
+      "mpn": "JH7687",
+      "title": "Chuteiras Adidas F50 Pro FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JH7687_1.jpg?1752760650",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387469",
+        "387707",
+        "387717",
+        "387783"
       ]
     },
     {
@@ -23031,7 +23205,7 @@
         "387038",
         "387026",
         "387171",
-        "387190"
+        "388157"
       ]
     },
     {
@@ -23079,8 +23253,8 @@
         "337780",
         "329672",
         "354775",
-        "342756",
-        "387246"
+        "388144",
+        "342756"
       ]
     },
     {
@@ -23096,10 +23270,10 @@
       "sale_price": null,
       "sugestoes": [
         "387146",
+        "388420",
         "387544",
-        "387513",
-        "387526",
-        "387505"
+        "388425",
+        "387513"
       ]
     },
     {
@@ -23114,11 +23288,11 @@
       "price": "59.90",
       "sale_price": null,
       "sugestoes": [
+        "388411",
         "387182",
         "387270",
         "387073",
-        "387480",
-        "387099"
+        "387480"
       ]
     },
     {
@@ -23187,8 +23361,8 @@
         "387159",
         "386992",
         "387073",
-        "387099",
-        "387480"
+        "388262",
+        "387099"
       ]
     },
     {
@@ -23205,9 +23379,9 @@
       "sugestoes": [
         "387159",
         "387050",
+        "388262",
         "387480",
-        "387099",
-        "386992"
+        "387099"
       ]
     },
     {
@@ -23311,11 +23485,30 @@
       "price": "279.90",
       "sale_price": null,
       "sugestoes": [
+        "388262",
         "387073",
         "387050",
         "387159",
-        "386992",
-        "387480"
+        "386992"
+      ]
+    },
+    {
+      "id": "388420",
+      "mpn": "JP9915",
+      "title": "Chuteiras Adidas Predator Elite FT FG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP9915_1.jpg?1752771466",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "139.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387544",
+        "388425",
+        "387146",
+        "387133",
+        "387505"
       ]
     },
     {
@@ -23335,6 +23528,25 @@
         "384761",
         "384927",
         "384799"
+      ]
+    },
+    {
+      "id": "388262",
+      "mpn": "JI1087",
+      "title": "Chuteiras Adidas Predator Elite FT SG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI1087_1.jpg?1752752141",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "279.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387099",
+        "387050",
+        "387073",
+        "387159",
+        "386992"
       ]
     },
     {
@@ -23369,7 +23581,7 @@
         "387050",
         "387073",
         "387099",
-        "387480"
+        "388262"
       ]
     },
     {
@@ -23388,7 +23600,26 @@
         "387050",
         "387073",
         "387099",
-        "387480"
+        "388262"
+      ]
+    },
+    {
+      "id": "388425",
+      "mpn": "JP9912",
+      "title": "Chuteiras Adidas Predator Elite LL FG J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP9912_1.jpg?1752770816",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "129.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388420",
+        "387146",
+        "387544",
+        "387526",
+        "387133"
       ]
     },
     {
@@ -23426,7 +23657,7 @@
         "387190",
         "387182",
         "328307",
-        "383927"
+        "388528"
       ]
     },
     {
@@ -23496,9 +23727,9 @@
       "sugestoes": [
         "387190",
         "387182",
+        "388528",
         "328307",
-        "369601",
-        "387539"
+        "369601"
       ]
     },
     {
@@ -23532,11 +23763,11 @@
       "price": "99.90",
       "sale_price": null,
       "sugestoes": [
+        "388528",
         "387073",
         "387270",
         "387159",
-        "387050",
-        "387099"
+        "388411"
       ]
     },
     {
@@ -23551,11 +23782,11 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
+        "388420",
         "387146",
         "387133",
-        "387526",
-        "387513",
-        "387505"
+        "388425",
+        "387526"
       ]
     },
     {
@@ -23571,10 +23802,10 @@
       "sale_price": null,
       "sugestoes": [
         "387544",
+        "388425",
         "387146",
-        "387133",
-        "387505",
-        "387513"
+        "388420",
+        "387133"
       ]
     },
     {
@@ -23622,11 +23853,11 @@
       "price": "89.90",
       "sale_price": "35.96",
       "sugestoes": [
+        "388528",
         "369601",
         "387182",
         "387190",
-        "328307",
-        "387539"
+        "328307"
       ]
     },
     {
@@ -23668,6 +23899,25 @@
       ]
     },
     {
+      "id": "387270",
+      "mpn": "JS4074",
+      "title": "Chuteiras Adidas Predator Pro FT MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JS4074_1.jpg?1751539722",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Adidas Performance",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388411",
+        "387281",
+        "387480",
+        "387073",
+        "388528"
+      ]
+    },
+    {
       "id": "372541",
       "mpn": "ID3825",
       "title": "Chuteiras Adidas Predator Pro MG",
@@ -23686,22 +23936,22 @@
       ]
     },
     {
-      "id": "387270",
-      "mpn": "JS4074",
-      "title": "Chuteiras Adidas Predator Pro FT MG",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JS4074_1.jpg?1751539722",
+      "id": "388411",
+      "mpn": "JI1186",
+      "title": "Chuteiras Adidas Predator Pro MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI1186_1.jpg?1752760019",
       "gender": "male",
       "site": "2",
       "category": "Calçado > Futebol > Chuteiras",
       "brand": "Adidas Performance",
-      "price": "159.90",
+      "price": "149.90",
       "sale_price": null,
       "sugestoes": [
         "387281",
-        "387480",
         "387073",
-        "387159",
-        "387182"
+        "387270",
+        "387182",
+        "387050"
       ]
     },
     {
@@ -23758,7 +24008,7 @@
         "342756",
         "354775",
         "337780",
-        "387235"
+        "388144"
       ]
     },
     {
@@ -23795,8 +24045,8 @@
         "342756",
         "337780",
         "354775",
-        "387235",
-        "387246"
+        "388144",
+        "387235"
       ]
     },
     {
@@ -28993,7 +29243,7 @@
       "sugestoes": [
         "372315",
         "372458",
-        "373124",
+        "373125",
         "372287",
         "374642"
       ]
@@ -29029,8 +29279,11 @@
       "price": "249.90",
       "sale_price": null,
       "sugestoes": [
-        "387812",
-        "387841"
+        "388467",
+        "387956",
+        "388351",
+        "387942",
+        "387812"
       ]
     },
     {
@@ -29083,7 +29336,7 @@
         "372458",
         "372136",
         "372287",
-        "373124",
+        "373125",
         "374642"
       ]
     },
@@ -29120,7 +29373,7 @@
       "sugestoes": [
         "372315",
         "372136",
-        "373124",
+        "373125",
         "374642",
         "372287"
       ]
@@ -29142,6 +29395,25 @@
         "372315",
         "372136",
         "372278"
+      ]
+    },
+    {
+      "id": "388451",
+      "mpn": "DV4342-003",
+      "title": "Sapatilhas Nike Tiempo Legend 10 Academy TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV4342-003_1.jpg?1752836051",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387803",
+        "388467",
+        "388441",
+        "387956",
+        "387932"
       ]
     },
     {
@@ -29779,7 +30051,7 @@
       ]
     },
     {
-      "id": "249158",
+      "id": "249156",
       "mpn": "DX5089-103",
       "title": "Meias Nike Everyday Essential",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DX5089-103_1.jpg?1737024238",
@@ -29991,7 +30263,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "79.92",
+      "sale_price": "69.93",
       "sugestoes": [
         "320921",
         "370140",
@@ -30256,7 +30528,7 @@
         "330879",
         "384525",
         "384583",
-        "384492"
+        "365302"
       ]
     },
     {
@@ -30274,8 +30546,8 @@
         "330879",
         "358962",
         "384620",
-        "384525",
-        "384583"
+        "365302",
+        "384525"
       ]
     },
     {
@@ -30291,10 +30563,10 @@
       "sale_price": null,
       "sugestoes": [
         "358962",
+        "365302",
         "384525",
         "330879",
-        "330871",
-        "384492"
+        "330871"
       ]
     },
     {
@@ -30312,8 +30584,8 @@
         "8424",
         "384620",
         "384607",
-        "384520",
-        "322003"
+        "365302",
+        "384520"
       ]
     },
     {
@@ -30331,8 +30603,8 @@
         "358962",
         "330879",
         "330871",
-        "384621",
-        "322003"
+        "365302",
+        "384621"
       ]
     },
     {
@@ -30349,9 +30621,9 @@
       "sugestoes": [
         "358962",
         "330879",
+        "365302",
         "384525",
-        "28078",
-        "33143"
+        "28078"
       ]
     },
     {
@@ -30389,7 +30661,7 @@
         "33143",
         "33167",
         "384621",
-        "358962"
+        "365302"
       ]
     },
     {
@@ -30446,7 +30718,7 @@
         "23396",
         "254639",
         "23413",
-        "384610"
+        "225436"
       ]
     },
     {
@@ -30464,8 +30736,8 @@
         "384597",
         "384598",
         "322003",
-        "384492",
-        "358962"
+        "365302",
+        "384492"
       ]
     },
     {
@@ -30502,8 +30774,8 @@
         "384492",
         "31063",
         "30908",
-        "322003",
-        "358771"
+        "365302",
+        "322003"
       ]
     },
     {
@@ -30521,8 +30793,8 @@
         "384615",
         "254639",
         "23396",
-        "23413",
-        "384585"
+        "225436",
+        "23413"
       ]
     },
     {
@@ -30579,7 +30851,7 @@
         "384615",
         "23396",
         "384585",
-        "225417"
+        "225436"
       ]
     },
     {
@@ -30654,8 +30926,8 @@
         "23413",
         "23396",
         "384615",
-        "384610",
-        "254639"
+        "225436",
+        "384610"
       ]
     },
     {
@@ -30675,6 +30947,25 @@
         "384583",
         "254639",
         "23396"
+      ]
+    },
+    {
+      "id": "225436",
+      "mpn": "EK000372-J32",
+      "title": "Estojo Eastpak Benchmark Single",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EK000372-J32_1.jpg?1626886523",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Acessórios > Estojos",
+      "brand": "Eastpak",
+      "price": "12.99",
+      "sale_price": null,
+      "sugestoes": [
+        "384585",
+        "384593",
+        "384600",
+        "23364",
+        "384583"
       ]
     },
     {
@@ -30863,8 +31154,8 @@
         "134609",
         "384525",
         "384620",
-        "8440",
-        "254669"
+        "365302",
+        "8440"
       ]
     },
     {
@@ -31054,7 +31345,7 @@
         "384600",
         "384585",
         "384583",
-        "384620"
+        "365302"
       ]
     },
     {
@@ -31149,6 +31440,25 @@
         "322003",
         "30994",
         "384601",
+        "384614"
+      ]
+    },
+    {
+      "id": "365302",
+      "mpn": "EK0A5BG4-77H",
+      "title": "Mochila Eastpak Day Pak'R Black Denim",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EK0A5BG4-77H_1.jpg?1726136455",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Acessórios > Mochilas",
+      "brand": "Eastpak",
+      "price": "59.90",
+      "sale_price": null,
+      "sugestoes": [
+        "384598",
+        "322003",
+        "320487",
+        "384609",
         "384614"
       ]
     },
@@ -34346,6 +34656,42 @@
       ]
     },
     {
+      "id": "388093",
+      "mpn": "FD6034-100",
+      "title": "Sapatilhas de Running Nike Quest 6 Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FD6034-100_1.jpg?1752676367",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "79.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383991",
+        "376565",
+        "383999",
+        "383965"
+      ]
+    },
+    {
+      "id": "388102",
+      "mpn": "FD6034-200",
+      "title": "Sapatilhas de Running Nike Quest 6 Bege Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FD6034-200_1.jpg?1752677065",
+      "gender": "female",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "79.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383991",
+        "383999",
+        "376565",
+        "383965"
+      ]
+    },
+    {
       "id": "369847",
       "mpn": "FD6454-001",
       "title": "Sapatilhas Nike Downshifter 13",
@@ -34652,8 +34998,8 @@
         "383415",
         "357995",
         "383088",
-        "275329",
-        "349179"
+        "388451",
+        "388493"
       ]
     },
     {
@@ -35086,10 +35432,10 @@
       "sale_price": "34.95",
       "sugestoes": [
         "383088",
+        "388451",
+        "388493",
         "383415",
-        "357995",
-        "275329",
-        "331436"
+        "357995"
       ]
     },
     {
@@ -35105,10 +35451,10 @@
       "sale_price": "168.94",
       "sugestoes": [
         "383088",
+        "388451",
         "383415",
-        "357995",
-        "367920",
-        "349179"
+        "388493",
+        "357995"
       ]
     },
     {
@@ -35169,7 +35515,7 @@
       ]
     },
     {
-      "id": "373124",
+      "id": "373125",
       "mpn": "FJ2575-300",
       "title": "Chuteiras Nike Phantom Luna 2 Pro FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ2575-300_1.jpg?1737047026",
@@ -35279,6 +35625,25 @@
         "36016",
         "370140",
         "1991"
+      ]
+    },
+    {
+      "id": "388079",
+      "mpn": "FJ3145-003",
+      "title": "Sapatilhas Nike Air Max DN Pretas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ3145-003_1.jpg?1752676109",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "169.90",
+      "sale_price": null,
+      "sugestoes": [
+        "370140",
+        "337097",
+        "200169",
+        "1991",
+        "369155"
       ]
     },
     {
@@ -36250,11 +36615,11 @@
       "price": "279.90",
       "sale_price": "223.92",
       "sugestoes": [
+        "388451",
+        "388493",
         "383088",
         "383415",
-        "357995",
-        "367920",
-        "275329"
+        "357995"
       ]
     },
     {
@@ -36307,8 +36672,11 @@
       "price": "279.90",
       "sale_price": null,
       "sugestoes": [
+        "387942",
         "387812",
-        "387803"
+        "388351",
+        "387932",
+        "388245"
       ]
     },
     {
@@ -36343,10 +36711,10 @@
       "sale_price": "188.93",
       "sugestoes": [
         "383415",
+        "388451",
         "383088",
-        "357995",
-        "367920",
-        "275329"
+        "388493",
+        "357995"
       ]
     },
     {
@@ -36361,8 +36729,30 @@
       "price": "269.90",
       "sale_price": null,
       "sugestoes": [
+        "388351",
         "387841",
-        "387803"
+        "387942",
+        "387803",
+        "387932"
+      ]
+    },
+    {
+      "id": "388467",
+      "mpn": "FQ1458-001",
+      "title": "Chuteiras Nike Mercurial Vapor 16 Academy FG/MG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ1458-001_1.jpg?1752835070",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "89.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387803",
+        "387956",
+        "387942",
+        "387932",
+        "388351"
       ]
     },
     {
@@ -36527,7 +36917,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": "95.92",
+      "sale_price": null,
       "sugestoes": [
         "380367",
         "358822",
@@ -36710,13 +37100,7 @@
       "brand": "Nike",
       "price": "74.90",
       "sale_price": null,
-      "sugestoes": [
-        "369557",
-        "384915",
-        "381138",
-        "347480",
-        "369565"
-      ]
+      "sugestoes": []
     },
     {
       "id": "372326",
@@ -36745,11 +37129,11 @@
       "price": "69.99",
       "sale_price": "51.09",
       "sugestoes": [
+        "388451",
+        "388493",
         "383088",
         "383415",
-        "357995",
-        "367920",
-        "331436"
+        "357995"
       ]
     },
     {
@@ -36804,8 +37188,8 @@
         "383415",
         "383088",
         "357995",
-        "349179",
-        "275329"
+        "388451",
+        "388493"
       ]
     },
     {
@@ -36839,11 +37223,11 @@
       "price": "94.90",
       "sale_price": null,
       "sugestoes": [
-        "383088",
-        "383415",
-        "357995",
-        "367920",
-        "275329"
+        "387942",
+        "387956",
+        "388351",
+        "387841",
+        "388467"
       ]
     },
     {
@@ -36943,8 +37327,8 @@
         "383415",
         "357995",
         "383088",
-        "349179",
-        "369226"
+        "388493",
+        "388451"
       ]
     },
     {
@@ -37088,7 +37472,7 @@
       "sale_price": null,
       "sugestoes": [
         "374642",
-        "373124",
+        "373125",
         "375335",
         "372287",
         "372315"
@@ -37108,7 +37492,7 @@
       "sugestoes": [
         "372278",
         "375335",
-        "373124",
+        "373125",
         "372287",
         "372315"
       ]
@@ -37144,11 +37528,11 @@
       "price": "64.90",
       "sale_price": "48.03",
       "sugestoes": [
+        "388451",
+        "388493",
         "383088",
         "383415",
-        "357995",
-        "367920",
-        "275329"
+        "357995"
       ]
     },
     {
@@ -37206,6 +37590,25 @@
         "373135",
         "372269",
         "372389"
+      ]
+    },
+    {
+      "id": "388351",
+      "mpn": "FQ8685-001",
+      "title": "Chuteiras Nike Mercurial Vapor 16 Pro FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8685-001_1.jpg?1752768199",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "159.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387942",
+        "387812",
+        "387841",
+        "387932",
+        "388467"
       ]
     },
     {
@@ -37813,10 +38216,10 @@
       "sale_price": "47.45",
       "sugestoes": [
         "383415",
+        "388493",
         "357995",
         "383088",
-        "349179",
-        "367920"
+        "388451"
       ]
     },
     {
@@ -40125,7 +40528,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": "83.93",
+      "sale_price": null,
       "sugestoes": [
         "358822",
         "211005",
@@ -40144,7 +40547,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": "83.93",
+      "sale_price": null,
       "sugestoes": [
         "380367",
         "358822",
@@ -40685,11 +41088,11 @@
       "price": "169.90",
       "sale_price": "110.44",
       "sugestoes": [
+        "388451",
+        "388493",
         "383088",
         "383415",
-        "357995",
-        "367920",
-        "275329"
+        "357995"
       ]
     },
     {
@@ -40723,11 +41126,11 @@
       "price": "169.90",
       "sale_price": null,
       "sugestoes": [
-        "383415",
-        "383088",
-        "357995",
-        "275329",
-        "367920"
+        "387841",
+        "387932",
+        "388351",
+        "388467",
+        "387812"
       ]
     },
     {
@@ -41127,6 +41530,25 @@
         "380943",
         "380985",
         "256151"
+      ]
+    },
+    {
+      "id": "388245",
+      "mpn": "HJ2147-003",
+      "title": "Chuteiras Nike Phantom 6 High Elite FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ2147-003_1.jpg?1752748767",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "279.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387956",
+        "387841",
+        "387942",
+        "387932",
+        "387803"
       ]
     },
     {
@@ -41631,7 +42053,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "129.90",
-      "sale_price": "97.43",
+      "sale_price": null,
       "sugestoes": [
         "358822",
         "380367",
@@ -41650,7 +42072,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "129.90",
-      "sale_price": "97.43",
+      "sale_price": null,
       "sugestoes": [
         "358822",
         "214470",
@@ -41669,7 +42091,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Nike",
       "price": "119.90",
-      "sale_price": "95.92",
+      "sale_price": null,
       "sugestoes": [
         "380367",
         "358822",
@@ -42069,6 +42491,44 @@
         "383368",
         "383122",
         "331580"
+      ]
+    },
+    {
+      "id": "388441",
+      "mpn": "HM0265-002",
+      "title": "Chuteiras Nike Premier III FG",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM0265-002_1.jpg?1752769782",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Chuteiras",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388493",
+        "388451",
+        "383088",
+        "383415",
+        "357995"
+      ]
+    },
+    {
+      "id": "388493",
+      "mpn": "HM0283-001",
+      "title": "Sapatilhas Nike Premier III TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM0283-001_1.jpg?1752835531",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388441",
+        "387803",
+        "388467",
+        "387956",
+        "387942"
       ]
     },
     {
@@ -42853,11 +43313,11 @@
       "price": "94.90",
       "sale_price": null,
       "sugestoes": [
-        "383088",
-        "383415",
-        "357995",
-        "367920",
-        "275329"
+        "388467",
+        "387932",
+        "387803",
+        "387942",
+        "388245"
       ]
     },
     {
@@ -50433,7 +50893,7 @@
     {
       "id": "387338",
       "mpn": "JJ231582-IKW",
-      "title": "Casaco New Balance F. C. Porto Junior EP25/26",
+      "title": "Casaco com Capuz New Balance F. C. Porto Junior EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JJ231582-IKW_1.jpg?1751891365",
       "gender": "unissex",
       "site": "2",
@@ -51478,7 +51938,7 @@
       ]
     },
     {
-      "id": "379695",
+      "id": "379696",
       "mpn": "M1080-J14",
       "title": "Sapatilhas New Balance Fresh Foam X 1080 v14 Verdes e Brancas Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1080-J14_1.jpg?1743412637",
@@ -51627,7 +52087,7 @@
       ]
     },
     {
-      "id": "381727",
+      "id": "381728",
       "mpn": "M1600-102",
       "title": "T-shirt Fred Perry Crew Neck Preta",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M1600-102_1.jpg?1745316245",
@@ -51676,7 +52136,7 @@
       "price": "119.90",
       "sale_price": null,
       "sugestoes": [
-        "381727",
+        "381728",
         "147611",
         "381731",
         "384200",
@@ -51779,7 +52239,7 @@
       ]
     },
     {
-      "id": "382901",
+      "id": "382902",
       "mpn": "M3519-X83",
       "title": "T-shirt Fred Perry Ringer Amarela",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M3519-X83_1.jpg?1745340625",
@@ -51849,7 +52309,7 @@
       "sugestoes": [
         "381731",
         "147611",
-        "381727",
+        "381728",
         "309179",
         "304857"
       ]
@@ -51866,7 +52326,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "381727",
+        "381728",
         "147611",
         "381731",
         "304857",
@@ -51888,7 +52348,7 @@
         "147611",
         "381731",
         "304857",
-        "381727",
+        "381728",
         "309179"
       ]
     },
@@ -51904,7 +52364,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "382901",
+        "382902",
         "381731",
         "381543",
         "383082",
@@ -51945,7 +52405,7 @@
         "383082",
         "381581",
         "381586",
-        "382901",
+        "382902",
         "381498"
       ]
     },
@@ -52059,7 +52519,7 @@
         "332749",
         "304857",
         "384871",
-        "381727",
+        "381728",
         "384200"
       ]
     },
@@ -52318,7 +52778,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "381727",
+        "381728",
         "304857",
         "384200",
         "332749",
@@ -52378,7 +52838,7 @@
         "383082",
         "381586",
         "381581",
-        "382901",
+        "382902",
         "384278"
       ]
     },
@@ -52432,7 +52892,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "381727",
+        "381728",
         "90527",
         "384871",
         "384208",
@@ -52610,7 +53070,7 @@
       ]
     },
     {
-      "id": "386890",
+      "id": "386891",
       "mpn": "M880-J15",
       "title": "Sapatilhas de Running New Balance Fresh Foam X 880 v15 Narrow Cinzentas e Amarelas Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/M880-J15_1.jpg?1751630574",
@@ -52696,7 +53156,7 @@
       "price": "119.90",
       "sale_price": null,
       "sugestoes": [
-        "381727",
+        "381728",
         "384200",
         "332749",
         "304857",
@@ -54009,7 +54469,7 @@
     {
       "id": "387315",
       "mpn": "MJ231572-AZ",
-      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "title": "Casaco com Capuz New Balance F. C. Porto EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231572-AZ_1.jpg?1751899425",
       "gender": "male",
       "site": "2",
@@ -54026,9 +54486,28 @@
       ]
     },
     {
+      "id": "387465",
+      "mpn": "MJ231572-NV",
+      "title": "Casaco com Capuz New Balance F. C. Porto EP25/26",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231572-NV_1.jpg?1752748909",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Casacos de Clubes",
+      "brand": "New Balance",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "386578",
+        "386465",
+        "387304",
+        "387300",
+        "386573"
+      ]
+    },
+    {
       "id": "387334",
       "mpn": "MJ231582-IKW",
-      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "title": "Casaco com Capuz New Balance F. C. Porto EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231582-IKW_1.jpg?1751895694",
       "gender": "male",
       "site": "2",
@@ -54047,7 +54526,7 @@
     {
       "id": "387345",
       "mpn": "MJ231582-NVG",
-      "title": "Casaco New Balance F. C. Porto EP25/26",
+      "title": "Casaco com Capuz New Balance F. C. Porto EP25/26",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231582-NVG_1.jpg?1751895408",
       "gender": "male",
       "site": "2",
@@ -54887,8 +55366,8 @@
         "386634",
         "387311",
         "386469",
-        "387293",
-        "387304"
+        "387465",
+        "387293"
       ]
     },
     {
@@ -55001,8 +55480,8 @@
         "386634",
         "386469",
         "387311",
-        "387293",
-        "387304"
+        "387465",
+        "387293"
       ]
     },
     {
@@ -55040,7 +55519,7 @@
         "386469",
         "387311",
         "387300",
-        "387293"
+        "387465"
       ]
     },
     {
@@ -55172,8 +55651,8 @@
         "386634",
         "386469",
         "387311",
-        "387293",
-        "387304"
+        "387465",
+        "387293"
       ]
     },
     {
@@ -55191,8 +55670,8 @@
         "386634",
         "386469",
         "387311",
-        "387304",
-        "387293"
+        "387465",
+        "387304"
       ]
     },
     {
@@ -55227,10 +55706,10 @@
       "sale_price": null,
       "sugestoes": [
         "387311",
+        "387465",
         "387293",
         "387345",
-        "387304",
-        "387341"
+        "387304"
       ]
     },
     {
@@ -55248,8 +55727,8 @@
         "387311",
         "387345",
         "387293",
-        "387341",
-        "387334"
+        "387465",
+        "387341"
       ]
     },
     {
@@ -55265,10 +55744,10 @@
       "sale_price": null,
       "sugestoes": [
         "385099",
+        "387465",
         "326635",
         "387311",
-        "387293",
-        "387341"
+        "387293"
       ]
     },
     {
@@ -55880,8 +56359,8 @@
         "386578",
         "387341",
         "386465",
-        "387345",
-        "387311"
+        "387465",
+        "387345"
       ]
     },
     {
@@ -56934,7 +57413,7 @@
       "sugestoes": []
     },
     {
-      "id": "378395",
+      "id": "378396",
       "mpn": "3ME10103285",
       "title": "Sapatilhas On Running Cloudtilt Salmão",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/3ME10103285_1.jpg?1741710201",
@@ -63512,8 +63991,8 @@
         "385517",
         "346314",
         "329672",
-        "331765",
-        "341352"
+        "388177",
+        "331765"
       ]
     },
     {
@@ -63529,10 +64008,10 @@
       "sale_price": null,
       "sugestoes": [
         "346314",
+        "388177",
         "305516",
         "385517",
-        "331765",
-        "376840"
+        "331765"
       ]
     },
     {
@@ -63550,8 +64029,8 @@
         "341352",
         "385517",
         "329672",
-        "387492",
-        "305516"
+        "388177",
+        "387492"
       ]
     },
     {
@@ -63570,7 +64049,7 @@
         "385517",
         "341352",
         "331765",
-        "305516"
+        "388177"
       ]
     },
     {
@@ -63587,9 +64066,9 @@
       "sugestoes": [
         "346314",
         "385517",
+        "388177",
         "305516",
-        "341352",
-        "331765"
+        "341352"
       ]
     },
     {
@@ -63604,11 +64083,11 @@
       "price": "37.99",
       "sale_price": null,
       "sugestoes": [
+        "388177",
         "346314",
         "385517",
         "329672",
-        "331765",
-        "387492"
+        "331765"
       ]
     },
     {
@@ -63624,10 +64103,10 @@
       "sale_price": null,
       "sugestoes": [
         "346314",
+        "388177",
         "331765",
         "385517",
-        "305516",
-        "340283"
+        "305516"
       ]
     },
     {
@@ -64056,7 +64535,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "119.90",
-      "sale_price": null,
+      "sale_price": "83.93",
       "sugestoes": [
         "326170",
         "353286",
@@ -64094,7 +64573,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "119.90",
-      "sale_price": null,
+      "sale_price": "83.93",
       "sugestoes": [
         "378283",
         "377766",
@@ -64835,7 +65314,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "378283",
         "377766",
@@ -64873,7 +65352,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "378283",
         "377447",
@@ -64930,7 +65409,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": "76.42",
+      "sale_price": "53.94",
       "sugestoes": [
         "378283",
         "377766",
@@ -64968,7 +65447,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": "62.93",
+      "sale_price": "44.95",
       "sugestoes": [
         "378283",
         "377766",
@@ -64987,7 +65466,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "378283",
         "377766",
@@ -65025,7 +65504,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "377447",
         "378283",
@@ -65044,7 +65523,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "44.95",
       "sugestoes": [
         "377447",
         "378283",
@@ -65063,7 +65542,7 @@
       "category": "Calçado > Sapatilhas",
       "brand": "Adidas Originals",
       "price": "89.90",
-      "sale_price": null,
+      "sale_price": "62.93",
       "sugestoes": [
         "377447",
         "378283",
@@ -65332,7 +65811,7 @@
       "sale_price": "15.96",
       "sugestoes": [
         "341525",
-        "337800",
+        "337801",
         "341254",
         "341258",
         "377332"
@@ -65370,10 +65849,10 @@
       "sale_price": null,
       "sugestoes": [
         "387146",
+        "388425",
+        "388420",
         "387246",
-        "387544",
-        "387133",
-        "387526"
+        "387544"
       ]
     },
     {
@@ -65527,10 +66006,10 @@
       "sale_price": null,
       "sugestoes": [
         "387242",
+        "388131",
+        "388503",
         "387198",
-        "387246",
-        "387228",
-        "387513"
+        "388144"
       ]
     },
     {
@@ -65546,10 +66025,10 @@
       "sale_price": null,
       "sugestoes": [
         "387038",
+        "388157",
         "387190",
         "387085",
-        "387026",
-        "387171"
+        "387026"
       ]
     },
     {
@@ -65567,8 +66046,8 @@
         "387002",
         "387061",
         "387171",
-        "387220",
-        "387038"
+        "388157",
+        "387220"
       ]
     },
     {
@@ -65584,10 +66063,29 @@
       "sale_price": null,
       "sugestoes": [
         "387198",
+        "388131",
         "387235",
         "387242",
-        "387513",
-        "387505"
+        "388144"
+      ]
+    },
+    {
+      "id": "388144",
+      "mpn": "JI0010",
+      "title": "Sapatilhas Adidas F50 League LL TF J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JI0010_1.jpg?1752743148",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388219",
+        "387235",
+        "388131",
+        "387242",
+        "387198"
       ]
     },
     {
@@ -67182,10 +67680,10 @@
       "sale_price": "19.96",
       "sugestoes": [
         "387480",
+        "388411",
         "387159",
         "387270",
-        "384927",
-        "387281"
+        "384927"
       ]
     },
     {
@@ -67202,7 +67700,7 @@
       "sugestoes": [
         "345113",
         "341525",
-        "337800",
+        "337801",
         "345100",
         "350476"
       ]
@@ -67233,10 +67731,10 @@
       "sale_price": null,
       "sugestoes": [
         "387182",
+        "388528",
         "387281",
         "387220",
-        "387270",
-        "387190"
+        "388411"
       ]
     },
     {
@@ -67252,10 +67750,10 @@
       "sale_price": null,
       "sugestoes": [
         "387281",
+        "388411",
+        "388528",
         "387073",
-        "387050",
-        "387159",
-        "387099"
+        "387050"
       ]
     },
     {
@@ -67271,10 +67769,29 @@
       "sale_price": null,
       "sugestoes": [
         "387133",
+        "388425",
+        "388420",
         "387505",
-        "387544",
-        "387526",
-        "387246"
+        "387544"
+      ]
+    },
+    {
+      "id": "388528",
+      "mpn": "JQ1072",
+      "title": "Sapatilhas Adidas Predator League FT TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JQ1072_1.jpg?1752847352",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Adidas Performance",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "387480",
+        "387182",
+        "387270",
+        "388411",
+        "387073"
       ]
     },
     {
@@ -68915,7 +69432,7 @@
         "345113",
         "305751",
         "345100",
-        "337800"
+        "337801"
       ]
     },
     {
@@ -71177,7 +71694,7 @@
         "230431",
         "369061",
         "376101",
-        "366474"
+        "388079"
       ]
     },
     {
@@ -71192,11 +71709,11 @@
       "price": "17.99",
       "sale_price": null,
       "sugestoes": [
+        "388079",
         "381355",
         "230431",
         "359311",
-        "377069",
-        "337073"
+        "377069"
       ]
     },
     {
@@ -71249,11 +71766,11 @@
       "price": "14.99",
       "sale_price": null,
       "sugestoes": [
+        "388079",
         "359311",
         "376101",
         "230431",
-        "362826",
-        "374697"
+        "362826"
       ]
     },
     {
