@@ -1925,7 +1925,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "328659",
+    "id": "328661",
     "mpn": "151181",
     "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Castanhos",
     "category": "Calçado > Chinelos",
@@ -1936,7 +1936,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "318783",
+    "id": "318784",
     "mpn": "951301",
     "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
     "category": "Calçado > Chinelos",
@@ -1980,7 +1980,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "386862",
+    "id": "386863",
     "mpn": "1030814",
     "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
     "category": "Calçado > Chinelos",
@@ -2519,6 +2519,17 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
+    "id": "387923",
+    "mpn": "FQ8308-001",
+    "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy AG J",
+    "category": "Calçado > Futebol > Chuteiras",
+    "brand": "Nike",
+    "site": "2",
+    "gender": "unissex",
+    "pack": "Nike Shadow Pack",
+    "motivo": "Sem candidatos com o mesmo pack"
+  },
+  {
     "id": "364963",
     "mpn": "FQ8377-800",
     "title": "Chuteiras Nike Mercurial Vapor 16 Academy Kylian Mbappé FG/MG",
@@ -3025,7 +3036,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "378395",
+    "id": "378396",
     "mpn": "3ME10103285",
     "title": "Sapatilhas On Running Cloudtilt Salmão",
     "category": "Calçado > Sapatilhas",
