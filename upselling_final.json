@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-07-24T07:19:06.566062",
+  "gerado_em": "2025-07-26T07:02:40.035892",
   "produtos": [
     {
       "id": "365143",
@@ -911,11 +911,11 @@
       "price": "74.90",
       "sale_price": null,
       "sugestoes": [
+        "389249",
         "179462",
         "359219",
         "363863",
-        "353134",
-        "344877"
+        "353134"
       ]
     },
     {
@@ -3105,7 +3105,7 @@
         "357212",
         "357298",
         "357187",
-        "357181",
+        "357186",
         "357276"
       ]
     },
@@ -3172,7 +3172,7 @@
       "price": "219.90",
       "sale_price": "109.95",
       "sugestoes": [
-        "357181",
+        "357186",
         "357298",
         "369052",
         "357276",
@@ -3192,14 +3192,14 @@
       "sale_price": "39.95",
       "sugestoes": [
         "357187",
-        "357181",
+        "357186",
         "369052",
         "357212",
         "357276"
       ]
     },
     {
-      "id": "357181",
+      "id": "357186",
       "mpn": "107866-02",
       "title": "Chuteiras Puma King Ultimate SG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/107866-02_1.jpg?1720193619",
@@ -3233,7 +3233,7 @@
         "357276",
         "357212",
         "369052",
-        "357181"
+        "357186"
       ]
     },
     {
@@ -3251,7 +3251,7 @@
         "357153",
         "357276",
         "357212",
-        "357181",
+        "357186",
         "369052"
       ]
     },
@@ -3371,7 +3371,7 @@
         "357276",
         "357298",
         "357140",
-        "357181"
+        "357186"
       ]
     },
     {
@@ -5120,7 +5120,7 @@
       ]
     },
     {
-      "id": "385351",
+      "id": "385353",
       "mpn": "60667637E",
       "title": "Boné New Era New York Yankees Food Icon 59FIFTY Azul",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/60667637E_1.jpg?1748865016",
@@ -5167,7 +5167,7 @@
         "341712",
         "340362",
         "372241",
-        "378151"
+        "378152"
       ]
     },
     {
@@ -5205,7 +5205,7 @@
         "340362",
         "378872",
         "341712",
-        "378151"
+        "378152"
       ]
     },
     {
@@ -5950,7 +5950,7 @@
       ]
     },
     {
-      "id": "378151",
+      "id": "378152",
       "mpn": "15339976-MBD",
       "title": "Saia de Ganga Midi Only ONLLumi Back Slit Azul",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/15339976-MBD_1.jpg?1741349319",
@@ -7861,7 +7861,7 @@
       ]
     },
     {
-      "id": "385690",
+      "id": "385691",
       "mpn": "211282-001",
       "title": "Sandálias Crocs Classic Reflective Pretas e Cinza",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/211282-001_1.jpg?1749727659",
@@ -8182,7 +8182,7 @@
       "sale_price": "27.45",
       "sugestoes": [
         "383259",
-        "364898",
+        "364899",
         "380207",
         "383491",
         "367937"
@@ -8990,7 +8990,7 @@
       ]
     },
     {
-      "id": "364898",
+      "id": "364899",
       "mpn": "29637629-G69",
       "title": "Sapatilhas Gant Zupimo",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/29637629-G69_1.jpg?1725610476",
@@ -10625,7 +10625,7 @@
       "sugestoes": []
     },
     {
-      "id": "345766",
+      "id": "345765",
       "mpn": "386607-01",
       "title": "Sapatilhas Puma Army Trainer",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/386607-01_1.jpg?1708695039",
@@ -10934,7 +10934,7 @@
       "sugestoes": []
     },
     {
-      "id": "343927",
+      "id": "343926",
       "mpn": "397276-01",
       "title": "Sapatilhas Puma Palermo Lth PS Kids",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/397276-01_1.jpg?1707412629",
@@ -14717,10 +14717,10 @@
       "sale_price": "87.92",
       "sugestoes": [
         "383779",
+        "389232",
         "380355",
         "387966",
-        "383377",
-        "375107"
+        "389221"
       ]
     },
     {
@@ -14754,11 +14754,11 @@
       "price": "109.90",
       "sale_price": null,
       "sugestoes": [
+        "389377",
         "298479",
         "375292",
         "375107",
-        "375236",
-        "379997"
+        "375236"
       ]
     },
     {
@@ -14795,8 +14795,8 @@
         "367694",
         "366942",
         "357267",
-        "358046",
-        "366792"
+        "389300",
+        "358046"
       ]
     },
     {
@@ -15005,7 +15005,7 @@
       ]
     },
     {
-      "id": "385356",
+      "id": "385359",
       "mpn": "60667633E",
       "title": "Boné New Era Chicago White Sox Food Icon 59FIFTY Preto",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/60667633E_1.jpg?1748865604",
@@ -15440,7 +15440,7 @@
       ]
     },
     {
-      "id": "384965",
+      "id": "384964",
       "mpn": "VN0008KUJDU1",
       "title": "Calções de Banho Vans Primary Print Azuis Estampados",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/VN0008KUJDU1_1.jpg?1748017559",
@@ -15737,7 +15737,7 @@
       ]
     },
     {
-      "id": "125730",
+      "id": "125732",
       "mpn": "56605-0017",
       "title": "T-shirt Levis Original Housemark",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/56605-0017_1.jpg?1722253106",
@@ -15746,7 +15746,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Levi´s",
       "price": "26.99",
-      "sale_price": null,
+      "sale_price": "20.24",
       "sugestoes": [
         "320591",
         "320620",
@@ -16056,9 +16056,9 @@
       "sugestoes": [
         "367400",
         "363911",
+        "389257",
         "358473",
-        "363875",
-        "364902"
+        "363875"
       ]
     },
     {
@@ -16675,10 +16675,10 @@
       "sale_price": null,
       "sugestoes": [
         "367400",
+        "389257",
         "363911",
-        "363875",
-        "179434",
-        "365072"
+        "389249",
+        "363875"
       ]
     },
     {
@@ -18355,7 +18355,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Levi´s",
       "price": "25.00",
-      "sale_price": null,
+      "sale_price": "17.50",
       "sugestoes": [
         "320591",
         "320610",
@@ -18621,7 +18621,7 @@
         "362186",
         "187866",
         "351848",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -19378,7 +19378,7 @@
       "sugestoes": [
         "358900",
         "135682",
-        "125730",
+        "125732",
         "346201",
         "201281"
       ]
@@ -19417,7 +19417,7 @@
         "358900",
         "346264",
         "135682",
-        "125730",
+        "125732",
         "125725"
       ]
     },
@@ -19624,10 +19624,10 @@
       "sale_price": null,
       "sugestoes": [
         "294279",
+        "389249",
         "349130",
         "248930",
-        "363863",
-        "179462"
+        "363863"
       ]
     },
     {
@@ -21217,7 +21217,7 @@
       ]
     },
     {
-      "id": "245264",
+      "id": "245263",
       "mpn": "769029C",
       "title": "Sapatilhas Converse Chuck Taylor All Star Brancas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/769029C_1.jpg?1709542594",
@@ -21571,7 +21571,7 @@
       "category": "Calçado > Chinelos",
       "brand": "Nike",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "383142",
         "381114",
@@ -21674,8 +21674,8 @@
     {
       "id": "179775",
       "mpn": "AR4997-013",
-      "title": "T-shirt Nike Sportswear Club",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-013_1.jpg?1614100788",
+      "title": "T-shirt Nike Sportswear Club Preta Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-013_1.jpg?1753367087",
       "gender": "male",
       "site": "1",
       "category": "Roupa > T-Shirts",
@@ -21683,11 +21683,11 @@
       "price": "24.99",
       "sale_price": null,
       "sugestoes": [
-        "213655",
-        "213662",
         "206971",
         "308397",
-        "192409"
+        "213655",
+        "213662",
+        "357263"
       ]
     },
     {
@@ -21712,8 +21712,8 @@
     {
       "id": "168556",
       "mpn": "AR4997-101",
-      "title": "T-shirt Nike Sportswear Club",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-101_1.jpg?1614100788",
+      "title": "T-shirt Nike Sportswear Club Branca Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-101_1.jpg?1753366879",
       "gender": "male",
       "site": "1",
       "category": "Roupa > T-Shirts",
@@ -21721,18 +21721,18 @@
       "price": "24.99",
       "sale_price": null,
       "sugestoes": [
-        "206971",
         "231360",
+        "206971",
         "385553",
         "308397",
-        "357228"
+        "213662"
       ]
     },
     {
       "id": "168560",
       "mpn": "AR4997-410",
-      "title": "T-shirt Nike Sportswear Club",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-410_1.jpg?1619098433",
+      "title": "T-shirt Nike Sportswear Club Azul Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-410_1.jpg?1753366406",
       "gender": "male",
       "site": "1",
       "category": "Roupa > T-Shirts",
@@ -21744,7 +21744,26 @@
         "213655",
         "206971",
         "308397",
-        "366859"
+        "255437"
+      ]
+    },
+    {
+      "id": "389285",
+      "mpn": "AR4997-225",
+      "title": "T-shirt Nike Sportswear Club Verde Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/AR4997-225_1.jpg?1753367445",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "Nike",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "206971",
+        "213655",
+        "308397",
+        "213662",
+        "212193"
       ]
     },
     {
@@ -21761,9 +21780,9 @@
       "sugestoes": [
         "206971",
         "213655",
+        "389324",
         "330365",
-        "212193",
-        "212328"
+        "212193"
       ]
     },
     {
@@ -22878,7 +22897,7 @@
         "376796",
         "383660",
         "375455",
-        "383669",
+        "383668",
         "303891"
       ]
     },
@@ -23218,7 +23237,7 @@
       ]
     },
     {
-      "id": "386228",
+      "id": "386227",
       "mpn": "1030916",
       "title": "Chinelos Birkenstock Arizona Couro em Camurça Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030916_1.jpg?1751015888",
@@ -23377,7 +23396,7 @@
       ]
     },
     {
-      "id": "379339",
+      "id": "379341",
       "mpn": "1027384",
       "title": "Chinelos Birkenstock Arizona Eva Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1027384_1.jpg?1742818328",
@@ -23959,6 +23978,25 @@
       ]
     },
     {
+      "id": "389393",
+      "mpn": "JP3072",
+      "title": "Bola Adidas Mundial de Clubes FIFA Final 2025",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JP3072_1.jpg?1753440789",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bolas",
+      "brand": "Adidas Performance",
+      "price": "39.99",
+      "sale_price": null,
+      "sugestoes": [
+        "340147",
+        "340122",
+        "336457",
+        "274981",
+        "385401"
+      ]
+    },
+    {
       "id": "376041",
       "mpn": "JE6455",
       "title": "Bola Adidas Messi Club",
@@ -24330,8 +24368,8 @@
         "367543",
         "367412",
         "294211",
-        "367654",
-        "364774"
+        "389269",
+        "367654"
       ]
     },
     {
@@ -25018,7 +25056,7 @@
       ]
     },
     {
-      "id": "111022",
+      "id": "168043",
       "mpn": "10879076E",
       "title": "Boné New Era New York Yankees League Basic MLB Kids Preto",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/10879076E_1.jpg?1597933313",
@@ -25511,7 +25549,7 @@
       "category": "Acessórios > Futebol > Bonés",
       "brand": "Adidas Performance",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "15.00",
       "sugestoes": [
         "341352",
         "341525",
@@ -26318,9 +26356,9 @@
       "sugestoes": [
         "367872",
         "378040",
+        "389366",
         "366474",
-        "388993",
-        "370815"
+        "388993"
       ]
     },
     {
@@ -26428,7 +26466,7 @@
       "category": "Roupa > Futebol > Calças",
       "brand": "Nike",
       "price": "59.90",
-      "sale_price": "29.95",
+      "sale_price": "23.96",
       "sugestoes": [
         "337564",
         "356130",
@@ -26523,7 +26561,7 @@
       "category": "Roupa > Futebol > Calções de Futebol",
       "brand": "Nike",
       "price": "52.90",
-      "sale_price": "31.74",
+      "sale_price": "26.45",
       "sugestoes": [
         "329947",
         "380947",
@@ -26598,8 +26636,8 @@
         "370441",
         "358736",
         "358782",
-        "168563",
-        "385553"
+        "389285",
+        "168563"
       ]
     },
     {
@@ -27445,7 +27483,7 @@
       "category": "Roupa > Futebol > Calções de Futebol",
       "brand": "Adidas Performance",
       "price": "44.90",
-      "sale_price": "31.43",
+      "sale_price": "22.45",
       "sugestoes": [
         "344776",
         "383691",
@@ -27464,7 +27502,7 @@
       "category": "Roupa > Futebol > Calções de Futebol",
       "brand": "Adidas Performance",
       "price": "44.90",
-      "sale_price": "31.43",
+      "sale_price": "22.45",
       "sugestoes": [
         "344836",
         "349721",
@@ -28643,9 +28681,9 @@
       "sugestoes": [
         "347911",
         "347817",
+        "389245",
         "294290",
-        "339441",
-        "363904"
+        "339441"
       ]
     },
     {
@@ -28679,11 +28717,11 @@
       "price": "54.90",
       "sale_price": "27.45",
       "sugestoes": [
+        "389265",
+        "389269",
         "294270",
         "367543",
-        "364771",
-        "364772",
-        "367412"
+        "364771"
       ]
     },
     {
@@ -28861,7 +28899,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Adidas Performance",
       "price": "99.90",
-      "sale_price": "59.94",
+      "sale_price": "49.95",
       "sugestoes": [
         "349402",
         "383691",
@@ -28880,7 +28918,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Adidas Performance",
       "price": "74.90",
-      "sale_price": null,
+      "sale_price": "37.45",
       "sugestoes": [
         "349003",
         "349381",
@@ -28899,7 +28937,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Adidas Performance",
       "price": "99.90",
-      "sale_price": "69.93",
+      "sale_price": "49.95",
       "sugestoes": [
         "344836",
         "288789",
@@ -29146,7 +29184,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Adidas Performance",
       "price": "74.90",
-      "sale_price": "59.92",
+      "sale_price": "37.45",
       "sugestoes": [
         "349312",
         "385539",
@@ -29165,7 +29203,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Adidas Performance",
       "price": "99.90",
-      "sale_price": "69.93",
+      "sale_price": "49.95",
       "sugestoes": [
         "349372",
         "288789",
@@ -29184,7 +29222,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Adidas Performance",
       "price": "99.90",
-      "sale_price": null,
+      "sale_price": "59.94",
       "sugestoes": [
         "385832",
         "385848",
@@ -29201,7 +29239,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Adidas Performance",
       "price": "74.90",
-      "sale_price": "59.92",
+      "sale_price": "37.45",
       "sugestoes": [
         "385783",
         "349312",
@@ -29284,6 +29322,25 @@
         "365688",
         "376506",
         "332311"
+      ]
+    },
+    {
+      "id": "389281",
+      "mpn": "NF0A8D0QJK3",
+      "title": "Camisola com Fecho The North Face Glacier Fleece Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8D0QJK3_1.jpg?1753357730",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Camisolas",
+      "brand": "The North Face",
+      "price": "64.90",
+      "sale_price": null,
+      "sugestoes": [
+        "367419",
+        "367408",
+        "389277",
+        "367379",
+        "389289"
       ]
     },
     {
@@ -29777,7 +29834,7 @@
         "363863",
         "358500",
         "365063",
-        "370307"
+        "389261"
       ]
     },
     {
@@ -29796,7 +29853,7 @@
         "363930",
         "367408",
         "351065",
-        "365050"
+        "389277"
       ]
     },
     {
@@ -29812,10 +29869,10 @@
       "sale_price": "59.43",
       "sugestoes": [
         "351065",
+        "389277",
         "365050",
         "229821",
-        "367379",
-        "367408"
+        "367379"
       ]
     },
     {
@@ -29849,11 +29906,11 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
+        "389281",
+        "389289",
         "229821",
         "370307",
-        "349121",
-        "339441",
-        "367877"
+        "389241"
       ]
     },
     {
@@ -29888,10 +29945,48 @@
       "sale_price": "59.43",
       "sugestoes": [
         "248885",
+        "389253",
+        "389261",
         "363863",
-        "367419",
-        "358510",
-        "363875"
+        "367419"
+      ]
+    },
+    {
+      "id": "389273",
+      "mpn": "NF0A89EMJK3",
+      "title": "Camisola com Capuz The North Face Drew Peak Pullover Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A89EMJK3_1.jpg?1753360142",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Camisolas com Capuz",
+      "brand": "The North Face",
+      "price": "79.90",
+      "sale_price": null,
+      "sugestoes": [
+        "389281",
+        "336536",
+        "365063",
+        "389289",
+        "370307"
+      ]
+    },
+    {
+      "id": "389277",
+      "mpn": "NF0A89ESJK3",
+      "title": "Camisola com Capuz The North Face Essential Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A89ESJK3_1.jpg?1753358991",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Camisolas com Capuz",
+      "brand": "The North Face",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "389281",
+        "389289",
+        "365050",
+        "229821",
+        "349121"
       ]
     },
     {
@@ -29907,10 +30002,10 @@
       "sale_price": null,
       "sugestoes": [
         "344906",
+        "389281",
         "349126",
         "363875",
-        "344873",
-        "365072"
+        "344873"
       ]
     },
     {
@@ -29925,11 +30020,11 @@
       "price": "99.90",
       "sale_price": null,
       "sugestoes": [
+        "389289",
+        "389281",
         "229821",
         "349121",
-        "344906",
-        "349126",
-        "370307"
+        "344906"
       ]
     },
     {
@@ -29947,8 +30042,8 @@
         "370307",
         "365063",
         "339441",
-        "363875",
-        "344906"
+        "389281",
+        "389289"
       ]
     },
     {
@@ -29965,9 +30060,9 @@
       "sugestoes": [
         "370307",
         "365063",
-        "365050",
-        "339441",
-        "229821"
+        "389289",
+        "389281",
+        "365050"
       ]
     },
     {
@@ -30004,8 +30099,8 @@
         "229821",
         "370307",
         "349121",
-        "339441",
-        "351065"
+        "389289",
+        "339441"
       ]
     },
     {
@@ -30020,11 +30115,11 @@
       "price": "119.90",
       "sale_price": "59.95",
       "sugestoes": [
+        "389265",
+        "389269",
         "364771",
         "364772",
-        "294211",
-        "367654",
-        "364774"
+        "294211"
       ]
     },
     {
@@ -30040,10 +30135,10 @@
       "sale_price": "59.95",
       "sugestoes": [
         "364772",
+        "389269",
+        "389265",
         "364774",
-        "364771",
-        "367654",
-        "294211"
+        "364771"
       ]
     },
     {
@@ -31024,7 +31119,7 @@
         "377430",
         "385482",
         "385492",
-        "385356",
+        "385359",
         "192104"
       ]
     },
@@ -31042,7 +31137,7 @@
       "sugestoes": [
         "385482",
         "385492",
-        "385356",
+        "385359",
         "377430",
         "192104"
       ]
@@ -31062,7 +31157,7 @@
         "385492",
         "385482",
         "377430",
-        "385356",
+        "385359",
         "192104"
       ]
     },
@@ -31116,11 +31211,11 @@
       "price": "349.90",
       "sale_price": null,
       "sugestoes": [
+        "389273",
         "339441",
         "367419",
         "363942",
-        "248885",
-        "363930"
+        "248885"
       ]
     },
     {
@@ -31139,7 +31234,7 @@
         "363930",
         "349121",
         "367408",
-        "351065"
+        "389277"
       ]
     },
     {
@@ -31157,8 +31252,8 @@
         "339441",
         "367419",
         "363938",
-        "363942",
-        "363930"
+        "389277",
+        "363942"
       ]
     },
     {
@@ -31249,11 +31344,11 @@
       "price": "349.90",
       "sale_price": null,
       "sugestoes": [
+        "389277",
         "358510",
         "349126",
         "339441",
-        "349121",
-        "365063"
+        "349121"
       ]
     },
     {
@@ -31269,10 +31364,10 @@
       "sale_price": null,
       "sugestoes": [
         "339441",
+        "389277",
         "363942",
         "365063",
-        "363930",
-        "367419"
+        "363930"
       ]
     },
     {
@@ -31310,7 +31405,26 @@
         "363938",
         "363942",
         "363930",
-        "365063"
+        "389277"
+      ]
+    },
+    {
+      "id": "389289",
+      "mpn": "NF0A89FDJK3",
+      "title": "Casaco com Capuz The North Face Simple Dome Preto",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A89FDJK3_1.jpg?1753367849",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Casacos",
+      "brand": "The North Face",
+      "price": "79.90",
+      "sale_price": null,
+      "sugestoes": [
+        "367408",
+        "389277",
+        "367419",
+        "363930",
+        "389281"
       ]
     },
     {
@@ -31706,8 +31820,8 @@
         "386774",
         "385993",
         "386243",
-        "371549",
-        "386205"
+        "389502",
+        "371549"
       ]
     },
     {
@@ -31934,8 +32048,8 @@
         "386774",
         "340172",
         "343109",
-        "386205",
-        "302478"
+        "389502",
+        "386205"
       ]
     },
     {
@@ -32218,9 +32332,9 @@
       "sugestoes": [
         "386243",
         "371575",
+        "389489",
         "386731",
-        "386695",
-        "340172"
+        "386695"
       ]
     },
     {
@@ -32538,7 +32652,7 @@
       ]
     },
     {
-      "id": "7293",
+      "id": "7295",
       "mpn": "051701",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/051701_1.jpg?1751630447",
@@ -32591,7 +32705,7 @@
       ]
     },
     {
-      "id": "349572",
+      "id": "349573",
       "mpn": "151183",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/151183_1.jpg?1711973547",
@@ -32625,7 +32739,7 @@
       ]
     },
     {
-      "id": "328661",
+      "id": "328659",
       "mpn": "151181",
       "title": "Chinelos Birkenstock Arizona Birko-Flor Nobuck Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/151181_1.jpg?1741629407",
@@ -32757,7 +32871,7 @@
       ]
     },
     {
-      "id": "318784",
+      "id": "318783",
       "mpn": "951301",
       "title": "Chinelos Birkenstock Arizona Soft Footbed Couro em Camurça Cinzentos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/951301_1.jpg?1751992235",
@@ -32884,7 +32998,7 @@
       ]
     },
     {
-      "id": "386862",
+      "id": "386863",
       "mpn": "1030814",
       "title": "Chinelos Birkenstock Boston Soft Footbed Couro em Camurça Castanhos",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/1030814_1.jpg?1751623389",
@@ -33820,8 +33934,8 @@
         "367373",
         "367376",
         "248885",
-        "248930",
-        "193283"
+        "389241",
+        "248930"
       ]
     },
     {
@@ -35979,7 +36093,7 @@
       ]
     },
     {
-      "id": "341531",
+      "id": "341538",
       "mpn": "IF3210",
       "title": "Chuteiras Adidas Predator League 2G/3G AG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF3210_1.jpg?1705493342",
@@ -36359,7 +36473,7 @@
       ]
     },
     {
-      "id": "358649",
+      "id": "358670",
       "mpn": "P1GA246027",
       "title": "Chuteiras Mizuno Alpha Japan FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/P1GA246027_1.jpg?1721406806",
@@ -36603,11 +36717,11 @@
       "price": "34.99",
       "sale_price": null,
       "sugestoes": [
-        "179775",
+        "389285",
         "370441",
         "212317",
-        "168560",
-        "375834"
+        "179775",
+        "168560"
       ]
     },
     {
@@ -36625,8 +36739,8 @@
         "212317",
         "168563",
         "168565",
-        "357402",
-        "179775"
+        "389285",
+        "357402"
       ]
     },
     {
@@ -36641,11 +36755,11 @@
       "price": "34.90",
       "sale_price": null,
       "sugestoes": [
-        "179775",
         "375556",
         "127028",
         "370441",
-        "168560"
+        "168560",
+        "389285"
       ]
     },
     {
@@ -36661,10 +36775,10 @@
       "sale_price": null,
       "sugestoes": [
         "237742",
+        "389285",
         "370441",
         "212348",
-        "212317",
-        "168565"
+        "179775"
       ]
     },
     {
@@ -37119,8 +37233,8 @@
         "229821",
         "363930",
         "294735",
-        "365050",
-        "300584"
+        "389277",
+        "365050"
       ]
     },
     {
@@ -37972,7 +38086,7 @@
         "375455",
         "383660",
         "303891",
-        "383669"
+        "383668"
       ]
     },
     {
@@ -38425,10 +38539,10 @@
       "sale_price": null,
       "sugestoes": [
         "365534",
-        "365538",
         "358193",
         "275593",
-        "343780"
+        "343780",
+        "255140"
       ]
     },
     {
@@ -38443,11 +38557,11 @@
       "price": "42.90",
       "sale_price": null,
       "sugestoes": [
-        "365538",
         "358193",
         "250264",
         "275593",
-        "365534"
+        "365534",
+        "255140"
       ]
     },
     {
@@ -38485,7 +38599,7 @@
         "365534",
         "275593",
         "255140",
-        "365538"
+        "250264"
       ]
     },
     {
@@ -38504,7 +38618,7 @@
         "365534",
         "275593",
         "250264",
-        "365538"
+        "255140"
       ]
     },
     {
@@ -38523,7 +38637,7 @@
         "358193",
         "275593",
         "250264",
-        "365538"
+        "343784"
       ]
     },
     {
@@ -38543,25 +38657,6 @@
         "299507",
         "213849",
         "378606"
-      ]
-    },
-    {
-      "id": "365538",
-      "mpn": "CZ9840-464",
-      "title": "Calções Nike Pro 365 20cm Azuis Para Mulher",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/CZ9840-464_1.jpg?1742301221",
-      "gender": "female",
-      "site": "2",
-      "category": "Roupa > Fitness & Training > Calções",
-      "brand": "Nike",
-      "price": "34.99",
-      "sale_price": null,
-      "sugestoes": [
-        "213362",
-        "299507",
-        "384258",
-        "362886",
-        "298572"
       ]
     },
     {
@@ -38615,10 +38710,10 @@
       "sale_price": "26.94",
       "sugestoes": [
         "381401",
+        "389324",
         "366965",
         "380792",
-        "192397",
-        "212193"
+        "192397"
       ]
     },
     {
@@ -38646,11 +38741,11 @@
       "price": "59.90",
       "sale_price": "35.94",
       "sugestoes": [
+        "389249",
+        "389257",
+        "389261",
         "349130",
-        "294279",
-        "363863",
-        "365072",
-        "364902"
+        "294279"
       ]
     },
     {
@@ -38794,8 +38889,8 @@
         "213833",
         "367147",
         "300193",
-        "168556",
-        "301467"
+        "301467",
+        "168556"
       ]
     },
     {
@@ -38834,6 +38929,44 @@
         "212317",
         "159598",
         "168556"
+      ]
+    },
+    {
+      "id": "389316",
+      "mpn": "DA0001-137",
+      "title": "Casaco Corta-Vento com Capuz Nike Heritage Sportswear Windrunner Branco e Amarelo Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DA0001-137_1.jpg?1753373954",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Casacos",
+      "brand": "Nike",
+      "price": "104.90",
+      "sale_price": null,
+      "sugestoes": [
+        "308412",
+        "213833",
+        "237742",
+        "168556",
+        "179775"
+      ]
+    },
+    {
+      "id": "389320",
+      "mpn": "DA0001-297",
+      "title": "Casaco Corta-Vento com Capuz Nike Heritage Sportswear Windrunner Caqui e Bege Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DA0001-297_1.jpg?1753373686",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Casacos",
+      "brand": "Nike",
+      "price": "104.90",
+      "sale_price": null,
+      "sugestoes": [
+        "301467",
+        "367147",
+        "301472",
+        "213833",
+        "308412"
       ]
     },
     {
@@ -38905,25 +39038,6 @@
       "price": "19.99",
       "sale_price": null,
       "sugestoes": []
-    },
-    {
-      "id": "247378",
-      "mpn": "DA4086-100",
-      "title": "Sapatilhas Nike Blazer Mid 77",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DA4086-100_1.jpg?1652720004",
-      "gender": "unissex",
-      "site": "1",
-      "category": "Calçado > Sapatilhas",
-      "brand": "Nike",
-      "price": "89.90",
-      "sale_price": null,
-      "sugestoes": [
-        "320921",
-        "320790",
-        "370140",
-        "320829",
-        "367357"
-      ]
     },
     {
       "id": "247390",
@@ -39154,6 +39268,25 @@
       ]
     },
     {
+      "id": "389299",
+      "mpn": "DB0456-265",
+      "title": "Bolsa a Tiracolo Nike Heritage Crossbody Castanha",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DB0456-265_1.jpg?1753369585",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Acessórios > Bolsas a Tiracolo",
+      "brand": "Nike",
+      "price": "27.99",
+      "sale_price": null,
+      "sugestoes": [
+        "357404",
+        "304421",
+        "359067",
+        "370140",
+        "338641"
+      ]
+    },
+    {
       "id": "261997",
       "mpn": "DB0488-010",
       "title": "Bolsa de Cintura Nike Air Heritage Preta",
@@ -39321,7 +39454,7 @@
         "213655",
         "308397",
         "213662",
-        "366859"
+        "389324"
       ]
     },
     {
@@ -39424,8 +39557,8 @@
         "250264",
         "213362",
         "255140",
-        "365538",
-        "358193"
+        "358193",
+        "299507"
       ]
     },
     {
@@ -39906,7 +40039,7 @@
     {
       "id": "308475",
       "mpn": "DH6621-410",
-      "title": "Meias Nike Strike",
+      "title": "Meias de Futebol Nike Strike Azuis",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DH6621-410_1.jpg?1712936000",
       "gender": "unissex",
       "site": "2",
@@ -40014,6 +40147,21 @@
       ]
     },
     {
+      "id": "389197",
+      "mpn": "DH7723-010",
+      "title": "Sapatilhas Nike Streetgato IN J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DH7723-010_1.jpg?1753346357",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Nike",
+      "price": "64.90",
+      "sale_price": null,
+      "sugestoes": [
+        "351853"
+      ]
+    },
+    {
       "id": "247706",
       "mpn": "DH8015-001",
       "title": "Sapatilhas Nike Air Max 95 W",
@@ -40071,7 +40219,7 @@
       ]
     },
     {
-      "id": "303606",
+      "id": "303607",
       "mpn": "DH9390-100",
       "title": "Sapatilhas Nike Air Max Motif",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DH9390-100_1.jpg?1674558087",
@@ -42354,7 +42502,7 @@
         "367724",
         "247952",
         "370181",
-        "367038"
+        "389300"
       ]
     },
     {
@@ -42408,10 +42556,10 @@
       "sale_price": null,
       "sugestoes": [
         "370136",
+        "389324",
         "366965",
         "212328",
-        "212193",
-        "380792"
+        "212193"
       ]
     },
     {
@@ -42448,8 +42596,8 @@
         "212328",
         "212193",
         "381401",
-        "380792",
-        "366965"
+        "389324",
+        "380792"
       ]
     },
     {
@@ -43672,7 +43820,7 @@
         "255140",
         "358193",
         "365534",
-        "365538"
+        "250272"
       ]
     },
     {
@@ -43897,7 +44045,7 @@
         "357995",
         "369822",
         "370129",
-        "353993"
+        "389441"
       ]
     },
     {
@@ -43954,6 +44102,25 @@
         "380448",
         "388900",
         "301647",
+        "329758"
+      ]
+    },
+    {
+      "id": "389340",
+      "mpn": "DV1238-111",
+      "title": "Sapatilhas Nike Motiva Brancas Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV1238-111_1.jpg?1753435532",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380447",
+        "301647",
+        "380448",
+        "388900",
         "329758"
       ]
     },
@@ -44015,7 +44182,7 @@
       ]
     },
     {
-      "id": "383531",
+      "id": "383532",
       "mpn": "DV1678-017",
       "title": "Sapatilhas Nike Air Vapormax 2023 Flyknit Pretas e Azuis Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV1678-017_1.jpg?1746175408",
@@ -44197,9 +44364,9 @@
       "sugestoes": [
         "369822",
         "370129",
+        "389401",
         "388493",
-        "369857",
-        "388451"
+        "369857"
       ]
     },
     {
@@ -44216,7 +44383,7 @@
       "sugestoes": [
         "372315",
         "372458",
-        "373125",
+        "373126",
         "372287",
         "374642"
       ]
@@ -44348,7 +44515,7 @@
         "372458",
         "372136",
         "372287",
-        "373125",
+        "373126",
         "374642"
       ]
     },
@@ -44404,7 +44571,7 @@
       "sugestoes": [
         "372315",
         "372136",
-        "373125",
+        "373126",
         "374642",
         "372287"
       ]
@@ -44427,6 +44594,19 @@
         "372136",
         "372278"
       ]
+    },
+    {
+      "id": "389451",
+      "mpn": "DV4341-402",
+      "title": "Sapatilhas Nike Tiempo Legend 10 Academy IN",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DV4341-402_1.jpg?1753454880",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Nike",
+      "price": "84.90",
+      "sale_price": null,
+      "sugestoes": []
     },
     {
       "id": "388451",
@@ -44462,8 +44642,8 @@
         "372471",
         "388608",
         "381138",
-        "355449",
-        "369557"
+        "389425",
+        "355449"
       ]
     },
     {
@@ -44786,7 +44966,7 @@
         "369218",
         "350698",
         "333558",
-        "350676"
+        "389312"
       ]
     },
     {
@@ -44938,7 +45118,7 @@
         "370301",
         "370104",
         "299558",
-        "333558"
+        "389308"
       ]
     },
     {
@@ -45026,8 +45206,8 @@
         "212193",
         "212348",
         "308397",
-        "366965",
-        "212317"
+        "389285",
+        "179775"
       ]
     },
     {
@@ -45134,7 +45314,7 @@
         "359731",
         "362186",
         "351848",
-        "348282",
+        "348283",
         "367081"
       ]
     },
@@ -45424,7 +45604,7 @@
       ]
     },
     {
-      "id": "373063",
+      "id": "373064",
       "mpn": "DX5089-105",
       "title": "Meias Nike Sportswear Dri-FIT Everyday Essential Brancas e Azuis (3 Pares)",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/DX5089-105_1.jpg?1737029448",
@@ -45534,7 +45714,7 @@
         "365534",
         "373085",
         "275593",
-        "365538"
+        "299507"
       ]
     },
     {
@@ -45550,10 +45730,10 @@
       "sale_price": null,
       "sugestoes": [
         "357267",
+        "389300",
         "362171",
         "366942",
-        "358744",
-        "359987"
+        "358744"
       ]
     },
     {
@@ -45571,8 +45751,8 @@
         "359818",
         "359987",
         "362171",
-        "366942",
-        "366792"
+        "389300",
+        "366942"
       ]
     },
     {
@@ -45590,8 +45770,8 @@
         "359818",
         "381016",
         "359987",
-        "362171",
-        "381455"
+        "389304",
+        "362171"
       ]
     },
     {
@@ -45773,9 +45953,9 @@
       "sugestoes": [
         "103816",
         "380919",
-        "365538",
         "376728",
-        "298572"
+        "298572",
+        "365570"
       ]
     },
     {
@@ -46878,6 +47058,25 @@
       ]
     },
     {
+      "id": "384622",
+      "mpn": "EK000620-008",
+      "title": "Mochila Escolar Eastpak Padded Pak'R Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/EK000620-008_1.jpg?1747319663",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Acessórios > Mochilas",
+      "brand": "Eastpak",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "384588",
+        "320495",
+        "384506",
+        "384536",
+        "384580"
+      ]
+    },
+    {
       "id": "358784",
       "mpn": "EK000717-6O0",
       "title": "Estojo Eastpak Oval Single City Bay Black",
@@ -47003,11 +47202,11 @@
       "price": "219.90",
       "sale_price": null,
       "sugestoes": [
+        "384622",
         "358963",
         "373415",
         "358960",
-        "384580",
-        "8424"
+        "384580"
       ]
     },
     {
@@ -48031,9 +48230,9 @@
       "sugestoes": [
         "373415",
         "384499",
+        "384622",
         "384537",
-        "358963",
-        "358960"
+        "358963"
       ]
     },
     {
@@ -50952,9 +51151,9 @@
       "sugestoes": [
         "131613",
         "159452",
-        "247378",
         "153674",
-        "230431"
+        "230431",
+        "320921"
       ]
     },
     {
@@ -51775,9 +51974,9 @@
       "sugestoes": [
         "388608",
         "355449",
+        "389425",
         "372471",
-        "388600",
-        "381138"
+        "388600"
       ]
     },
     {
@@ -51872,7 +52071,7 @@
         "376728",
         "299507",
         "275593",
-        "365538"
+        "365534"
       ]
     },
     {
@@ -52062,7 +52261,7 @@
         "348329",
         "358793",
         "359718",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -52080,7 +52279,7 @@
         "351848",
         "359731",
         "335482",
-        "348282",
+        "348283",
         "357431"
       ]
     },
@@ -52115,7 +52314,7 @@
       "price": "49.90",
       "sale_price": null,
       "sugestoes": [
-        "348282",
+        "348283",
         "351848",
         "359731",
         "348244",
@@ -52289,7 +52488,7 @@
         "348329",
         "366796",
         "358793",
-        "348282",
+        "348283",
         "370656"
       ]
     },
@@ -52346,7 +52545,7 @@
         "348329",
         "358793",
         "366796",
-        "348282",
+        "348283",
         "348357"
       ]
     },
@@ -52364,7 +52563,7 @@
       "sugestoes": [
         "359731",
         "362186",
-        "348282",
+        "348283",
         "377233",
         "351848"
       ]
@@ -52383,7 +52582,7 @@
       "sugestoes": [
         "359731",
         "362186",
-        "348282",
+        "348283",
         "261997",
         "187866"
       ]
@@ -52403,7 +52602,7 @@
         "362186",
         "359731",
         "187866",
-        "348282",
+        "348283",
         "351848"
       ]
     },
@@ -52477,10 +52676,10 @@
       "sale_price": null,
       "sugestoes": [
         "380367",
+        "389232",
+        "389221",
         "370455",
-        "25302",
-        "376060",
-        "375107"
+        "25302"
       ]
     },
     {
@@ -52731,6 +52930,25 @@
       ]
     },
     {
+      "id": "389347",
+      "mpn": "FD6454-014",
+      "title": "Sapatilhas de Running Nike Downshifter 13 Pretas e Verdes Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FD6454-014_1.jpg?1753435888",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Running > Sapatilhas",
+      "brand": "Nike",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "275633",
+        "298763",
+        "365716",
+        "381448",
+        "376782"
+      ]
+    },
+    {
       "id": "369647",
       "mpn": "FD6476-101",
       "title": "Sapatilhas Nike Downshifter 13",
@@ -52859,8 +53077,8 @@
         "388600",
         "372471",
         "388608",
-        "369557",
-        "381138"
+        "389425",
+        "369557"
       ]
     },
     {
@@ -52891,8 +53109,8 @@
         "369557",
         "381138",
         "388608",
-        "388600",
-        "372471"
+        "389425",
+        "388600"
       ]
     },
     {
@@ -52947,8 +53165,8 @@
         "370129",
         "369822",
         "383415",
-        "353993",
-        "369857"
+        "389441",
+        "389401"
       ]
     },
     {
@@ -53073,7 +53291,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Nike",
       "price": "94.90",
-      "sale_price": "80.67",
+      "sale_price": "66.43",
       "sugestoes": [
         "183460",
         "369226",
@@ -53092,7 +53310,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Nike",
       "price": "74.90",
-      "sale_price": "63.67",
+      "sale_price": "52.43",
       "sugestoes": [
         "349286",
         "353252",
@@ -53111,7 +53329,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "Nike",
       "price": "94.90",
-      "sale_price": "75.92",
+      "sale_price": "61.69",
       "sugestoes": [
         "349696",
         "350520",
@@ -53367,7 +53585,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "149.90",
-      "sale_price": "119.92",
+      "sale_price": "74.95",
       "sugestoes": [
         "333553",
         "383628",
@@ -53424,7 +53642,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "39.95",
       "sugestoes": [
         "349289",
         "368995",
@@ -53580,9 +53798,9 @@
       "sugestoes": [
         "383088",
         "388451",
+        "389481",
         "370129",
-        "388493",
-        "353993"
+        "388493"
       ]
     },
     {
@@ -53656,13 +53874,13 @@
       "sugestoes": [
         "384915",
         "372471",
+        "389425",
         "381138",
-        "369557",
-        "355449"
+        "369557"
       ]
     },
     {
-      "id": "373125",
+      "id": "373126",
       "mpn": "FJ2575-300",
       "title": "Chuteiras Nike Phantom Luna 2 Pro FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ2575-300_1.jpg?1737047026",
@@ -53917,7 +54135,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "149.90",
-      "sale_price": "119.92",
+      "sale_price": "74.95",
       "sugestoes": [
         "383628",
         "333558",
@@ -53936,7 +54154,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "79.92",
+      "sale_price": "49.95",
       "sugestoes": [
         "333553",
         "369335",
@@ -53955,7 +54173,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "69.93",
+      "sale_price": "49.95",
       "sugestoes": [
         "383628",
         "369335",
@@ -53974,7 +54192,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "79.92",
+      "sale_price": "49.95",
       "sugestoes": [
         "369226",
         "333548",
@@ -53993,7 +54211,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "79.92",
+      "sale_price": "49.95",
       "sugestoes": [
         "383628",
         "369335",
@@ -54012,7 +54230,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "99.90",
-      "sale_price": "79.92",
+      "sale_price": "49.95",
       "sugestoes": [
         "383628",
         "333558",
@@ -54056,7 +54274,7 @@
         "369218",
         "350698",
         "275226",
-        "333558"
+        "389312"
       ]
     },
     {
@@ -54069,7 +54287,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "39.95",
       "sugestoes": [
         "349289",
         "337958",
@@ -54088,7 +54306,7 @@
       "category": "Roupa > Futebol > Camisolas de Seleções",
       "brand": "Nike",
       "price": "79.90",
-      "sale_price": null,
+      "sale_price": "39.95",
       "sugestoes": [
         "337958",
         "278459",
@@ -54244,9 +54462,9 @@
       "sugestoes": [
         "372578",
         "372351",
+        "389409",
         "381131",
-        "384906",
-        "372561"
+        "389465"
       ]
     },
     {
@@ -54307,7 +54525,7 @@
       ]
     },
     {
-      "id": "348282",
+      "id": "348283",
       "mpn": "FJ6348-451",
       "title": "T-shirt Nike Sportswear Kids",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FJ6348-451_1.jpg?1710420246",
@@ -54547,10 +54765,10 @@
       "sale_price": null,
       "sugestoes": [
         "381401",
+        "389324",
         "380792",
         "366965",
-        "212193",
-        "192397"
+        "212193"
       ]
     },
     {
@@ -54566,10 +54784,10 @@
       "sale_price": null,
       "sugestoes": [
         "381362",
+        "389328",
         "366965",
         "357417",
-        "168565",
-        "375174"
+        "168565"
       ]
     },
     {
@@ -54588,7 +54806,7 @@
         "301605",
         "381362",
         "366965",
-        "366951"
+        "389328"
       ]
     },
     {
@@ -54608,6 +54826,44 @@
         "366942",
         "359987",
         "357267"
+      ]
+    },
+    {
+      "id": "389324",
+      "mpn": "FN3787-010",
+      "title": "Calças Nike Club Joggers Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FN3787-010_1.jpg?1753430923",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Calças",
+      "brand": "Nike",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "255164",
+        "380985",
+        "192409",
+        "256154",
+        "255437"
+      ]
+    },
+    {
+      "id": "389328",
+      "mpn": "FN3787-355",
+      "title": "Calças Nike Club Joggers Verdes Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FN3787-355_1.jpg?1753431478",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > Calças",
+      "brand": "Nike",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "381374",
+        "380985",
+        "192409",
+        "385556",
+        "350723"
       ]
     },
     {
@@ -55091,7 +55347,7 @@
         "388493",
         "383088",
         "383415",
-        "370129"
+        "389401"
       ]
     },
     {
@@ -55241,7 +55497,7 @@
         "388451",
         "383088",
         "388493",
-        "370129"
+        "389401"
       ]
     },
     {
@@ -55467,9 +55723,9 @@
       "sugestoes": [
         "366965",
         "381401",
+        "389324",
         "212193",
-        "380792",
-        "381362"
+        "380792"
       ]
     },
     {
@@ -55655,7 +55911,7 @@
         "369557",
         "372471",
         "334725",
-        "334820"
+        "389425"
       ]
     },
     {
@@ -55706,10 +55962,10 @@
       "sale_price": "44.94",
       "sugestoes": [
         "384915",
+        "389425",
         "388600",
         "372471",
-        "388608",
-        "355449"
+        "388608"
       ]
     },
     {
@@ -55797,6 +56053,25 @@
       ]
     },
     {
+      "id": "389425",
+      "mpn": "FQ8313-600",
+      "title": "Sapatilhas Nike Mercurial Superfly 10 Club TF J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8313-600_1.jpg?1753445221",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "372370",
+        "388535",
+        "372420",
+        "383310",
+        "372335"
+      ]
+    },
+    {
       "id": "366554",
       "mpn": "FQ8314-002",
       "title": "Chuteiras Nike Mercurial Superfly 10 Club FG/MG",
@@ -55811,8 +56086,8 @@
         "388451",
         "388493",
         "383088",
-        "370129",
-        "353993"
+        "389401",
+        "370129"
       ]
     },
     {
@@ -55846,6 +56121,25 @@
       "price": "69.90",
       "sale_price": null,
       "sugestoes": []
+    },
+    {
+      "id": "389481",
+      "mpn": "FQ8317-600",
+      "title": "Sapatilhas Nike Mercurial Superfly 10 Club TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8317-600_1.jpg?1753455179",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388390",
+        "388553",
+        "372315",
+        "372136",
+        "380813"
+      ]
     },
     {
       "id": "372370",
@@ -55885,6 +56179,21 @@
       ]
     },
     {
+      "id": "389465",
+      "mpn": "FQ8320-600",
+      "title": "Sapatilhas Nike Mercurial Superfly 10 Club IN J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8320-600_1.jpg?1753454394",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Nike",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "351853"
+      ]
+    },
+    {
       "id": "369804",
       "mpn": "FQ8329-700",
       "title": "Chuteiras Nike Zoom Mercurial Superfly 10 Academy AG",
@@ -55899,8 +56208,8 @@
         "369857",
         "369822",
         "370129",
-        "353993",
-        "383415"
+        "389481",
+        "389441"
       ]
     },
     {
@@ -55958,6 +56267,25 @@
         "367684",
         "367848",
         "367800"
+      ]
+    },
+    {
+      "id": "389418",
+      "mpn": "FQ8331-600",
+      "title": "Sapatilhas Nike Mercurial Superfly 10 Academy TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8331-600_1.jpg?1753446361",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "94.90",
+      "sale_price": null,
+      "sugestoes": [
+        "380869",
+        "388390",
+        "388518",
+        "380813",
+        "375332"
       ]
     },
     {
@@ -56123,7 +56451,7 @@
         "381138",
         "334725",
         "388600",
-        "388608"
+        "389425"
       ]
     },
     {
@@ -56246,6 +56574,21 @@
       ]
     },
     {
+      "id": "389409",
+      "mpn": "FQ8411-600",
+      "title": "Sapatilhas Nike Mercurial Vapor 16 Academy IN J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8411-600_1.jpg?1753445657",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Nike",
+      "price": "64.90",
+      "sale_price": null,
+      "sugestoes": [
+        "351853"
+      ]
+    },
+    {
       "id": "384906",
       "mpn": "FQ8414-500",
       "title": "Sapatilhas Nike Mercurial Vapor 16 Kylian Mbappé IN J",
@@ -56286,7 +56629,7 @@
       "sale_price": null,
       "sugestoes": [
         "374642",
-        "373125",
+        "373126",
         "375332",
         "372287",
         "372315"
@@ -56319,10 +56662,23 @@
       "sugestoes": [
         "372278",
         "375332",
-        "373125",
+        "373126",
         "372287",
         "372315"
       ]
+    },
+    {
+      "id": "389434",
+      "mpn": "FQ8438-600",
+      "title": "Sapatilhas Nike Mercurial Vapor 16 Club IN",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8438-600_1.jpg?1753450862",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Nike",
+      "price": "64.90",
+      "sale_price": null,
+      "sugestoes": []
     },
     {
       "id": "363835",
@@ -56358,8 +56714,8 @@
         "388451",
         "388493",
         "383088",
-        "383415",
-        "370129"
+        "389401",
+        "383415"
       ]
     },
     {
@@ -56436,6 +56792,25 @@
         "380653",
         "388400",
         "380633"
+      ]
+    },
+    {
+      "id": "389441",
+      "mpn": "FQ8449-600",
+      "title": "Sapatilhas Nike Mercurial Vapor 16 Academy TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/FQ8449-600_1.jpg?1753450278",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "89.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388553",
+        "388390",
+        "388400",
+        "380813",
+        "380869"
       ]
     },
     {
@@ -56530,7 +56905,7 @@
         "384014",
         "385374",
         "380027",
-        "388050"
+        "389385"
       ]
     },
     {
@@ -56704,11 +57079,11 @@
       "price": "84.90",
       "sale_price": null,
       "sugestoes": [
+        "389366",
         "378040",
         "372712",
-        "303606",
-        "374721",
-        "388987"
+        "303607",
+        "374721"
       ]
     },
     {
@@ -56822,7 +57197,7 @@
         "359987",
         "367694",
         "381016",
-        "358744"
+        "389304"
       ]
     },
     {
@@ -57011,8 +57386,8 @@
         "376758",
         "376728",
         "299507",
-        "365538",
-        "275593"
+        "275593",
+        "365534"
       ]
     },
     {
@@ -57087,8 +57462,8 @@
         "357267",
         "255343",
         "250097",
-        "358046",
-        "384306"
+        "389296",
+        "358046"
       ]
     },
     {
@@ -57103,11 +57478,11 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
+        "389296",
         "250078",
         "357267",
-        "359818",
-        "370181",
-        "255343"
+        "389300",
+        "359818"
       ]
     },
     {
@@ -57123,10 +57498,10 @@
       "sale_price": null,
       "sugestoes": [
         "380676",
+        "389304",
         "359987",
         "359811",
-        "384126",
-        "381016"
+        "384126"
       ]
     },
     {
@@ -57143,7 +57518,7 @@
       "sugestoes": [
         "380809",
         "377149",
-        "389185",
+        "389184",
         "381321",
         "383969"
       ]
@@ -57479,11 +57854,11 @@
       "price": "94.90",
       "sale_price": "47.45",
       "sugestoes": [
+        "389401",
         "370129",
         "369822",
         "383415",
-        "353993",
-        "388493"
+        "389441"
       ]
     },
     {
@@ -57616,7 +57991,7 @@
         "381062",
         "369914",
         "372654",
-        "359911"
+        "389211"
       ]
     },
     {
@@ -57632,10 +58007,10 @@
       "sale_price": null,
       "sugestoes": [
         "365534",
-        "365538",
         "275593",
         "362886",
-        "373085"
+        "373085",
+        "376758"
       ]
     },
     {
@@ -57692,7 +58067,7 @@
         "362186",
         "351848",
         "367081",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -57850,8 +58225,8 @@
         "366788",
         "372916",
         "247947",
-        "358744",
-        "250101"
+        "389300",
+        "358744"
       ]
     },
     {
@@ -57869,7 +58244,7 @@
         "362186",
         "359731",
         "261997",
-        "348282",
+        "348283",
         "367081"
       ]
     },
@@ -58245,11 +58620,11 @@
       "price": "54.90",
       "sale_price": null,
       "sugestoes": [
+        "389477",
         "381321",
         "359987",
-        "380809",
-        "381455",
-        "378147"
+        "389304",
+        "380809"
       ]
     },
     {
@@ -60983,6 +61358,25 @@
       ]
     },
     {
+      "id": "389211",
+      "mpn": "HF3165-003",
+      "title": "Sapatilhas Nike Field General Castanhas e Azuis Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HF3165-003_1.jpg?1753344926",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "99.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388884",
+        "380367",
+        "25302",
+        "380335",
+        "369661"
+      ]
+    },
+    {
       "id": "383331",
       "mpn": "HF3417-500",
       "title": "Chuteiras Nike Mercurial Superfly 10 Academy Kylian Mbappé FG/MG J",
@@ -61298,7 +61692,7 @@
         "388493",
         "383088",
         "383415",
-        "370129"
+        "389481"
       ]
     },
     {
@@ -61370,11 +61764,11 @@
       "price": "34.99",
       "sale_price": "24.49",
       "sugestoes": [
+        "389300",
         "359987",
         "358744",
         "367694",
-        "366942",
-        "366792"
+        "366942"
       ]
     },
     {
@@ -61391,9 +61785,9 @@
       "sugestoes": [
         "359987",
         "367694",
+        "389300",
         "362171",
-        "359818",
-        "358744"
+        "359818"
       ]
     },
     {
@@ -61408,11 +61802,11 @@
       "price": "54.90",
       "sale_price": null,
       "sugestoes": [
+        "389304",
         "381016",
         "380809",
         "359987",
-        "255343",
-        "383919"
+        "255343"
       ]
     },
     {
@@ -61430,8 +61824,8 @@
         "383974",
         "367092",
         "384225",
-        "375829",
-        "373102"
+        "389293",
+        "375829"
       ]
     },
     {
@@ -61621,7 +62015,7 @@
         "213655",
         "159598",
         "370441",
-        "179775"
+        "168563"
       ]
     },
     {
@@ -61636,11 +62030,11 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
+        "389328",
         "366965",
         "357417",
         "381362",
-        "366951",
-        "212193"
+        "366951"
       ]
     },
     {
@@ -61655,11 +62049,11 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
+        "389324",
         "192398",
         "381362",
-        "380660",
-        "212317",
-        "212328"
+        "389328",
+        "380660"
       ]
     },
     {
@@ -61772,8 +62166,8 @@
         "383478",
         "206971",
         "192398",
-        "255426",
-        "255164"
+        "389324",
+        "255426"
       ]
     },
     {
@@ -61809,9 +62203,9 @@
       "sugestoes": [
         "378147",
         "377149",
+        "389477",
         "383919",
-        "367694",
-        "381016"
+        "367694"
       ]
     },
     {
@@ -62493,9 +62887,9 @@
       "sugestoes": [
         "384527",
         "367920",
+        "389336",
         "333530",
-        "349298",
-        "275329"
+        "349298"
       ]
     },
     {
@@ -62514,7 +62908,7 @@
         "333558",
         "367098",
         "369218",
-        "370104"
+        "389312"
       ]
     },
     {
@@ -62553,6 +62947,44 @@
         "380947",
         "367920",
         "275329"
+      ]
+    },
+    {
+      "id": "389332",
+      "mpn": "HJ3796-066",
+      "title": "Calções de Futebol Nike Academy Dri-FIT 21cm Cinzentos Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ3796-066_1.jpg?1753431933",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calções de Futebol",
+      "brand": "Nike",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "380947",
+        "369218",
+        "389312",
+        "383632",
+        "350676"
+      ]
+    },
+    {
+      "id": "389336",
+      "mpn": "HJ3796-410",
+      "title": "Calções de Futebol Nike Academy Dri-FIT 21cm Azuis Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HJ3796-410_1.jpg?1753432288",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calções de Futebol",
+      "brand": "Nike",
+      "price": "24.99",
+      "sale_price": null,
+      "sugestoes": [
+        "380947",
+        "369218",
+        "389312",
+        "333558",
+        "350698"
       ]
     },
     {
@@ -62645,9 +63077,9 @@
       "sugestoes": [
         "378147",
         "381321",
+        "389477",
         "377149",
-        "380809",
-        "380795"
+        "380809"
       ]
     },
     {
@@ -62700,11 +63132,11 @@
       "price": "32.99",
       "sale_price": null,
       "sugestoes": [
+        "389336",
         "333530",
         "349298",
-        "349179",
-        "369222",
-        "369280"
+        "389332",
+        "349179"
       ]
     },
     {
@@ -63362,8 +63794,8 @@
         "388493",
         "388451",
         "370129",
-        "353993",
-        "383088"
+        "389401",
+        "353993"
       ]
     },
     {
@@ -63531,7 +63963,7 @@
         "362186",
         "351848",
         "367081",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -63567,7 +63999,7 @@
       "sugestoes": [
         "351848",
         "359731",
-        "348282",
+        "348283",
         "362186",
         "261997"
       ]
@@ -63643,9 +64075,9 @@
       "sugestoes": [
         "384047",
         "381455",
+        "389304",
         "255348",
-        "380809",
-        "367694"
+        "380809"
       ]
     },
     {
@@ -63744,6 +64176,21 @@
       ]
     },
     {
+      "id": "389202",
+      "mpn": "HM8757-500",
+      "title": "Sapatilhas Nike Streetgato IN J",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HM8757-500_1.jpg?1753345379",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Calçado > Futsal > Sapatilhas",
+      "brand": "Nike",
+      "price": "64.90",
+      "sale_price": null,
+      "sugestoes": [
+        "351853"
+      ]
+    },
+    {
       "id": "388291",
       "mpn": "HM8933-400",
       "title": "Chuteiras Nike Phantom 6 Low Club FG/MG",
@@ -63795,9 +64242,9 @@
       "sugestoes": [
         "377149",
         "255635",
+        "389296",
         "381093",
-        "376477",
-        "359987"
+        "376477"
       ]
     },
     {
@@ -63812,11 +64259,11 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
+        "389473",
         "381321",
         "378147",
         "366942",
-        "381455",
-        "359987"
+        "381455"
       ]
     },
     {
@@ -64496,9 +64943,9 @@
       "sugestoes": [
         "255343",
         "359987",
+        "389304",
         "380809",
-        "359818",
-        "378147"
+        "359818"
       ]
     },
     {
@@ -64517,7 +64964,7 @@
         "381016",
         "358744",
         "367694",
-        "366792"
+        "389300"
       ]
     },
     {
@@ -64759,6 +65206,25 @@
         "388291",
         "388663",
         "388697"
+      ]
+    },
+    {
+      "id": "389401",
+      "mpn": "HQ2325-400",
+      "title": "Sapatilhas Nike Phantom 6 Low Academy TF",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HQ2325-400_1.jpg?1753445971",
+      "gender": "male",
+      "site": "2",
+      "category": "Calçado > Futebol > Sapatilhas",
+      "brand": "Nike",
+      "price": "89.90",
+      "sale_price": null,
+      "sugestoes": [
+        "388431",
+        "388663",
+        "388674",
+        "388697",
+        "388291"
       ]
     },
     {
@@ -65023,8 +65489,8 @@
         "381016",
         "381321",
         "380809",
-        "378147",
-        "255343"
+        "389304",
+        "378147"
       ]
     },
     {
@@ -65252,7 +65718,7 @@
         "351848",
         "362186",
         "187866",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -65503,6 +65969,44 @@
       ]
     },
     {
+      "id": "389308",
+      "mpn": "HV1822-010",
+      "title": "Calças de Futebol Nike Dri-FIT Academy Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV1822-010_1.jpg?1753372528",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calças",
+      "brand": "Nike",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "367920",
+        "389336",
+        "349298",
+        "331436",
+        "349179"
+      ]
+    },
+    {
+      "id": "389312",
+      "mpn": "HV1822-065",
+      "title": "Calças de Futebol Nike Dri-FIT Academy Cinzentas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV1822-065_1.jpg?1753373014",
+      "gender": "male",
+      "site": "2",
+      "category": "Roupa > Futebol > Calças",
+      "brand": "Nike",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "333530",
+        "380947",
+        "389336",
+        "349298",
+        "369222"
+      ]
+    },
+    {
       "id": "379324",
       "mpn": "HV2180-345",
       "title": "Camisola com Fecho de Running Nike Stride Dri-FIT Azul Para Homem",
@@ -65519,6 +66023,101 @@
         "378579",
         "379568",
         "337952"
+      ]
+    },
+    {
+      "id": "389300",
+      "mpn": "HV2403-052",
+      "title": "Vestido Nike Sportswear Chill Knit Branco Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV2403-052_1.jpg?1753370011",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Vestidos",
+      "brand": "Nike",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "358744",
+        "362171",
+        "367694",
+        "372916",
+        "359987"
+      ]
+    },
+    {
+      "id": "389304",
+      "mpn": "HV2403-410",
+      "title": "Vestido Nike Sportswear Chill Knit Azul Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV2403-410_1.jpg?1753369783",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Vestidos",
+      "brand": "Nike",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "381455",
+        "381016",
+        "359987",
+        "359818",
+        "384047"
+      ]
+    },
+    {
+      "id": "389470",
+      "mpn": "HV2496-754",
+      "title": "Saia Midi Nike Sportswear Loose Cargo Camel Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV2496-754_1.jpg?1753456057",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Saias",
+      "brand": "Nike",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "389296",
+        "357267",
+        "255343",
+        "380795",
+        "250078"
+      ]
+    },
+    {
+      "id": "389473",
+      "mpn": "HV2496-410",
+      "title": "Saia Midi Nike Sportswear Loose Cargo Azul Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV2496-410_1.jpg?1753455792",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Saias",
+      "brand": "Nike",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "384306",
+        "383919",
+        "359818",
+        "389304",
+        "381455"
+      ]
+    },
+    {
+      "id": "389477",
+      "mpn": "HV2496-010",
+      "title": "Saia Midi Nike Sportswear Loose Cargo Preta Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV2496-010_1.jpg?1753455510",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Saias",
+      "brand": "Nike",
+      "price": "69.90",
+      "sale_price": null,
+      "sugestoes": [
+        "383919",
+        "384897",
+        "381321",
+        "384306",
+        "359818"
       ]
     },
     {
@@ -65554,9 +66153,9 @@
       "sugestoes": [
         "372788",
         "380540",
+        "389340",
         "380616",
-        "381046",
-        "370019"
+        "381046"
       ]
     },
     {
@@ -65573,9 +66172,9 @@
       "sugestoes": [
         "388900",
         "372788",
+        "389340",
         "230442",
-        "380540",
-        "372509"
+        "380540"
       ]
     },
     {
@@ -65740,7 +66339,7 @@
         "348329",
         "366796",
         "376231",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -65778,7 +66377,7 @@
         "362186",
         "351848",
         "377233",
-        "348282"
+        "348283"
       ]
     },
     {
@@ -65815,7 +66414,7 @@
         "359731",
         "351848",
         "362186",
-        "348282",
+        "348283",
         "187866"
       ]
     },
@@ -65874,6 +66473,82 @@
         "369981",
         "348329",
         "367126"
+      ]
+    },
+    {
+      "id": "389394",
+      "mpn": "HV6249-100",
+      "title": "Bola Nike Pitch 25 Branca e Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV6249-100_1.jpg?1753441523",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bolas",
+      "brand": "Nike",
+      "price": "22.99",
+      "sale_price": null,
+      "sugestoes": [
+        "308597",
+        "369038",
+        "339749",
+        "338831",
+        "331726"
+      ]
+    },
+    {
+      "id": "389396",
+      "mpn": "HV6249-635",
+      "title": "Bola Nike Pitch 25 Vermelha e Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV6249-635_1.jpg?1753441000",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bolas",
+      "brand": "Nike",
+      "price": "22.99",
+      "sale_price": null,
+      "sugestoes": [
+        "308597",
+        "339503",
+        "369038",
+        "338598",
+        "339749"
+      ]
+    },
+    {
+      "id": "389397",
+      "mpn": "HV6249-101",
+      "title": "Bola Nike Pitch 25 Branca e Azul",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV6249-101_1.jpg?1753441336",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bolas",
+      "brand": "Nike",
+      "price": "22.99",
+      "sale_price": null,
+      "sugestoes": [
+        "308597",
+        "369038",
+        "302930",
+        "339503",
+        "369544"
+      ]
+    },
+    {
+      "id": "389400",
+      "mpn": "HV6341-702",
+      "title": "Bola de Treino Nike Pitch 25",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV6341-702_1.jpg?1753441808",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bolas",
+      "brand": "Nike",
+      "price": "19.99",
+      "sale_price": null,
+      "sugestoes": [
+        "369038",
+        "308597",
+        "339749",
+        "339503",
+        "331726"
       ]
     },
     {
@@ -65972,7 +66647,7 @@
       ]
     },
     {
-      "id": "389185",
+      "id": "389184",
       "mpn": "HV6747-320",
       "title": "Casaco com Capuz Nike Sportswear Tech Fleece Windrunner Verde Para Mulher",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV6747-320_1.jpg?1753284633",
@@ -66061,9 +66736,9 @@
       "sugestoes": [
         "275593",
         "376758",
-        "365538",
         "376728",
-        "365534"
+        "365534",
+        "347804"
       ]
     },
     {
@@ -66079,10 +66754,48 @@
       "sale_price": null,
       "sugestoes": [
         "358193",
-        "365538",
         "275593",
         "365534",
-        "255140"
+        "255140",
+        "376728"
+      ]
+    },
+    {
+      "id": "389221",
+      "mpn": "HV8568-001",
+      "title": "Sapatilhas Nike Field General Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV8568-001_1.jpg?1753343945",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "25302",
+        "369661",
+        "388884",
+        "380367",
+        "380335"
+      ]
+    },
+    {
+      "id": "389232",
+      "mpn": "HV8568-201",
+      "title": "Sapatilhas Nike Field General Camel Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/HV8568-201_1.jpg?1753344214",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "109.90",
+      "sale_price": null,
+      "sugestoes": [
+        "25302",
+        "388884",
+        "380367",
+        "369661",
+        "380335"
       ]
     },
     {
@@ -66211,7 +66924,7 @@
       "sugestoes": [
         "357911",
         "373318",
-        "365312",
+        "365311",
         "370405",
         "262190"
       ]
@@ -66593,7 +67306,7 @@
         "343647",
         "386092",
         "335303",
-        "365312"
+        "365311"
       ]
     },
     {
@@ -66745,7 +67458,7 @@
         "353968",
         "370405",
         "358106",
-        "365312"
+        "365311"
       ]
     },
     {
@@ -67566,7 +68279,7 @@
       ]
     },
     {
-      "id": "223076",
+      "id": "223073",
       "mpn": "I029208.01.WI",
       "title": "Calças de Ganga Carhartt WIP Newel",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I029208.01.WI_1.jpg?1704969269",
@@ -69190,7 +69903,7 @@
         "262190",
         "352593",
         "358186",
-        "365312"
+        "365311"
       ]
     },
     {
@@ -69566,7 +70279,7 @@
       "price": "98.90",
       "sale_price": null,
       "sugestoes": [
-        "365312",
+        "365311",
         "331300",
         "386092",
         "370405",
@@ -70461,7 +71174,7 @@
       "sugestoes": [
         "370405",
         "262190",
-        "365312",
+        "365311",
         "358106",
         "335303"
       ]
@@ -71493,7 +72206,7 @@
       ]
     },
     {
-      "id": "365312",
+      "id": "365311",
       "mpn": "I034237.01.12",
       "title": "Calças de Ganga Carhartt WIP Aaron",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/I034237.01.12_1.jpg?1729693432",
@@ -73502,7 +74215,7 @@
         "370405",
         "262190",
         "343647",
-        "365312",
+        "365311",
         "358106"
       ]
     },
@@ -73537,7 +74250,7 @@
       "price": "108.90",
       "sale_price": null,
       "sugestoes": [
-        "365312",
+        "365311",
         "370405",
         "358106",
         "262190",
@@ -73704,7 +74417,7 @@
       "sugestoes": [
         "358106",
         "335303",
-        "365312",
+        "365311",
         "328852",
         "262190"
       ]
@@ -74584,6 +75297,63 @@
       ]
     },
     {
+      "id": "389377",
+      "mpn": "IB0612-001",
+      "title": "Sapatilhas Nike Air Pegasus Wave Pretas Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB0612-001_1.jpg?1753438595",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "149.90",
+      "sale_price": null,
+      "sugestoes": [
+        "369661",
+        "214470",
+        "25302",
+        "388884",
+        "380335"
+      ]
+    },
+    {
+      "id": "389293",
+      "mpn": "IB2153-410",
+      "title": "Polo Nike Sportswear Oversized Azul e Amarelo Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB2153-410_1.jpg?1753368345",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Polos",
+      "brand": "Nike",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "247902",
+        "384302",
+        "367092",
+        "376914",
+        "250101"
+      ]
+    },
+    {
+      "id": "389296",
+      "mpn": "IB2153-133",
+      "title": "Polo Nike Sportswear Oversized Branco e Verde Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB2153-133_1.jpg?1753368084",
+      "gender": "female",
+      "site": "1",
+      "category": "Roupa > Polos",
+      "brand": "Nike",
+      "price": "54.90",
+      "sale_price": null,
+      "sugestoes": [
+        "362894",
+        "380847",
+        "359811",
+        "380795",
+        "250101"
+      ]
+    },
+    {
       "id": "380540",
       "mpn": "IB2766-101",
       "title": "Sapatilhas Nike Uplift SC Brancas Para Mulher",
@@ -74619,6 +75389,25 @@
         "380448",
         "388900",
         "329758"
+      ]
+    },
+    {
+      "id": "389385",
+      "mpn": "IB2983-400",
+      "title": "Sapatilhas Nike Air Pegasus 2005 SE Azuis e Verdes Para Homem",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IB2983-400_1.jpg?1753438339",
+      "gender": "male",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "139.90",
+      "sale_price": null,
+      "sugestoes": [
+        "369661",
+        "356794",
+        "25302",
+        "358822",
+        "214470"
       ]
     },
     {
@@ -75154,6 +75943,25 @@
       ]
     },
     {
+      "id": "389366",
+      "mpn": "IH3324-001",
+      "title": "Sapatilhas Nike Field General Castanhas e Azuis Júnior",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IH3324-001_1.jpg?1753437771",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "74.90",
+      "sale_price": null,
+      "sugestoes": [
+        "367357",
+        "200169",
+        "337097",
+        "369155",
+        "200178"
+      ]
+    },
+    {
       "id": "388735",
       "mpn": "IH3646-499",
       "title": "Sapatilhas Nike P-6000 SE Azuis Para Homem",
@@ -75208,6 +76016,44 @@
         "367357",
         "200169",
         "337097"
+      ]
+    },
+    {
+      "id": "389357",
+      "mpn": "IH4478-030",
+      "title": "Sapatilhas Nike Field General Cow Print Para Mulher",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IH4478-030_1.jpg?1753436543",
+      "gender": "female",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Nike",
+      "price": "119.90",
+      "sale_price": null,
+      "sugestoes": [
+        "301647",
+        "388900",
+        "383122",
+        "331580",
+        "359722"
+      ]
+    },
+    {
+      "id": "389399",
+      "mpn": "IH7533-100",
+      "title": "Bola Nike Total 90 Skills",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IH7533-100_1.jpg?1753441974",
+      "gender": "unissex",
+      "site": "2",
+      "category": "Acessórios > Futebol > Bolas",
+      "brand": "Nike",
+      "price": "17.99",
+      "sale_price": null,
+      "sugestoes": [
+        "308597",
+        "369038",
+        "302930",
+        "369350",
+        "331726"
       ]
     },
     {
@@ -76142,7 +76988,7 @@
       ]
     },
     {
-      "id": "383249",
+      "id": "383250",
       "mpn": "J2660-248",
       "title": "Casaco Fred Perry Brentham Azul Marinho",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/J2660-248_1.jpg?1745923553",
@@ -76508,7 +77354,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "69.90",
-      "sale_price": "48.93",
+      "sale_price": "34.95",
       "sugestoes": [
         "354820",
         "354809",
@@ -77019,7 +77865,7 @@
       "category": "Roupa > Futebol > Equipamentos de Futebol",
       "brand": "Adidas Performance",
       "price": "69.90",
-      "sale_price": "55.92",
+      "sale_price": "34.95",
       "sugestoes": [
         "349381",
         "349246",
@@ -77963,8 +78809,8 @@
         "294211",
         "364777",
         "364774",
-        "364772",
-        "367543"
+        "389269",
+        "389265"
       ]
     },
     {
@@ -79291,7 +80137,7 @@
       "sugestoes": [
         "193153",
         "384282",
-        "383249",
+        "383250",
         "383235",
         "365040"
       ]
@@ -79653,7 +80499,7 @@
         "384286",
         "193153",
         "383242",
-        "383249",
+        "383250",
         "344355"
       ]
     },
@@ -79727,7 +80573,7 @@
       "sale_price": "101.94",
       "sugestoes": [
         "345953",
-        "383249",
+        "383250",
         "348490",
         "345900",
         "193153"
@@ -79746,7 +80592,7 @@
       "sale_price": null,
       "sugestoes": [
         "384282",
-        "383249",
+        "383250",
         "193153",
         "363671",
         "345953"
@@ -79764,7 +80610,7 @@
       "price": "109.90",
       "sale_price": null,
       "sugestoes": [
-        "383249",
+        "383250",
         "344355",
         "384282",
         "384286",
@@ -79995,7 +80841,7 @@
         "381557",
         "384289",
         "381481",
-        "383249",
+        "383250",
         "384282"
       ]
     },
@@ -80123,7 +80969,7 @@
       "category": "Acessórios > Futebol > Meias de Futebol",
       "brand": "New Balance",
       "price": "19.99",
-      "sale_price": "15.99",
+      "sale_price": "10.00",
       "sugestoes": [
         "345850",
         "373751",
@@ -80592,7 +81438,7 @@
         "330383",
         "334282",
         "385985",
-        "385995"
+        "389517"
       ]
     },
     {
@@ -80723,7 +81569,7 @@
       "sugestoes": [
         "152535",
         "152537",
-        "190998",
+        "190999",
         "110312",
         "152544"
       ]
@@ -81262,7 +82108,7 @@
       ]
     },
     {
-      "id": "386782",
+      "id": "386783",
       "mpn": "MFCX-LY5",
       "title": "Sapatilhas New Balance FuelCell Rebel v5 Castanhas e Bege Para Homem",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MFCX-LY5_1.jpg?1751543200",
@@ -81509,25 +82355,6 @@
       ]
     },
     {
-      "id": "356298",
-      "mpn": "MJ231311-BUL",
-      "title": "Casaco New Balance Impermeável F. C. Porto EP24/25",
-      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MJ231311-BUL_1.jpg?1718985872",
-      "gender": "male",
-      "site": "2",
-      "category": "Roupa > Futebol > Casacos de Clubes",
-      "brand": "New Balance",
-      "price": "94.90",
-      "sale_price": "66.43",
-      "sugestoes": [
-        "385544",
-        "386747",
-        "356269",
-        "386465",
-        "385417"
-      ]
-    },
-    {
       "id": "326579",
       "mpn": "MJ231331-HME",
       "title": "Casaco New Balance Pre-Game F. C. Porto EP23/24",
@@ -81540,7 +82367,7 @@
       "sale_price": "44.95",
       "sugestoes": [
         "326950",
-        "356269",
+        "356270",
         "385107",
         "356163",
         "385115"
@@ -81617,7 +82444,7 @@
       "sugestoes": [
         "385544",
         "386747",
-        "356269",
+        "356270",
         "385937",
         "386578"
       ]
@@ -82084,8 +82911,8 @@
         "367543",
         "364772",
         "367654",
-        "364771",
-        "294270"
+        "389269",
+        "364771"
       ]
     },
     {
@@ -82231,12 +83058,12 @@
       "category": "Roupa > Futebol > Calças",
       "brand": "New Balance",
       "price": "57.90",
-      "sale_price": "37.64",
+      "sale_price": "28.95",
       "sugestoes": [
         "356174",
         "386743",
         "385937",
-        "356269",
+        "356270",
         "356202"
       ]
     },
@@ -82250,13 +83077,13 @@
       "category": "Roupa > Futebol > Calças",
       "brand": "New Balance",
       "price": "57.90",
-      "sale_price": "37.64",
+      "sale_price": "28.95",
       "sugestoes": [
         "356202",
         "356174",
         "354815",
         "386743",
-        "356269"
+        "356270"
       ]
     },
     {
@@ -82291,7 +83118,7 @@
       "sale_price": "44.95",
       "sugestoes": [
         "304637",
-        "383669",
+        "383668",
         "383664",
         "383680",
         "383672"
@@ -82309,7 +83136,7 @@
       "price": "89.90",
       "sale_price": null,
       "sugestoes": [
-        "383669",
+        "383668",
         "383664",
         "383680",
         "304637",
@@ -82328,7 +83155,7 @@
       "price": "54.90",
       "sale_price": null,
       "sugestoes": [
-        "383669",
+        "383668",
         "304637",
         "383680",
         "383664",
@@ -82347,7 +83174,7 @@
       "price": "54.90",
       "sale_price": null,
       "sugestoes": [
-        "383669",
+        "383668",
         "375481",
         "383680",
         "383664",
@@ -82366,7 +83193,7 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
-        "383669",
+        "383668",
         "383680",
         "383672",
         "383664",
@@ -82385,7 +83212,7 @@
       "price": "79.90",
       "sale_price": null,
       "sugestoes": [
-        "383669",
+        "383668",
         "383680",
         "304637",
         "383664",
@@ -82535,13 +83362,13 @@
       "category": "Roupa > Futebol > Calções de Futebol",
       "brand": "New Balance",
       "price": "39.90",
-      "sale_price": "23.94",
+      "sale_price": "19.95",
       "sugestoes": [
         "356197",
         "355039",
         "385115",
         "356174",
-        "356269"
+        "356270"
       ]
     },
     {
@@ -82888,7 +83715,7 @@
       ]
     },
     {
-      "id": "383669",
+      "id": "383668",
       "mpn": "MS51583-SOT",
       "title": "Calções New Balance Athletics Standard 18cm Bege",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MS51583-SOT_1.jpg?1746456307",
@@ -82973,9 +83800,9 @@
       "sugestoes": [
         "326579",
         "356184",
-        "356298",
         "356197",
-        "356202"
+        "356202",
+        "387311"
       ]
     },
     {
@@ -82988,7 +83815,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "89.90",
-      "sale_price": "62.93",
+      "sale_price": "44.95",
       "sugestoes": [
         "386634",
         "387311",
@@ -83007,7 +83834,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "89.90",
-      "sale_price": "62.93",
+      "sale_price": "44.95",
       "sugestoes": [
         "356207",
         "356202",
@@ -83026,7 +83853,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "89.90",
-      "sale_price": "62.93",
+      "sale_price": "44.95",
       "sugestoes": [
         "356184",
         "356197",
@@ -83051,7 +83878,7 @@
         "356202",
         "356184",
         "356197",
-        "356298"
+        "354815"
       ]
     },
     {
@@ -83068,9 +83895,9 @@
       "sugestoes": [
         "387293",
         "387311",
-        "356298",
         "187677",
-        "386469"
+        "386469",
+        "326579"
       ]
     },
     {
@@ -83102,7 +83929,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "59.90",
-      "sale_price": "41.93",
+      "sale_price": "29.95",
       "sugestoes": [
         "187677",
         "386634",
@@ -83121,7 +83948,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "59.90",
-      "sale_price": "38.94",
+      "sale_price": "29.95",
       "sugestoes": [
         "326579",
         "356207",
@@ -83131,7 +83958,7 @@
       ]
     },
     {
-      "id": "356269",
+      "id": "356270",
       "mpn": "MT231307-HME",
       "title": "T-shirt New Balance Pre-Game F. C. Porto EP24/25",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/MT231307-HME_1.jpg?1718986179",
@@ -83140,7 +83967,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "59.90",
-      "sale_price": "41.93",
+      "sale_price": "29.95",
       "sugestoes": [
         "356184",
         "326579",
@@ -83178,7 +84005,7 @@
       "category": "Roupa > Futebol > Polos",
       "brand": "New Balance",
       "price": "44.90",
-      "sale_price": "31.43",
+      "sale_price": "22.45",
       "sugestoes": [
         "355039",
         "356174",
@@ -83355,7 +84182,7 @@
         "387311",
         "387341",
         "387345",
-        "356298"
+        "387334"
       ]
     },
     {
@@ -83409,10 +84236,10 @@
       "sale_price": null,
       "sugestoes": [
         "385099",
-        "356298",
         "387465",
         "326635",
-        "387311"
+        "387311",
+        "387293"
       ]
     },
     {
@@ -83650,7 +84477,7 @@
       "sugestoes": [
         "383664",
         "303891",
-        "383669",
+        "383668",
         "304637",
         "376800"
       ]
@@ -83671,7 +84498,7 @@
         "303891",
         "376796",
         "383680",
-        "383669"
+        "383668"
       ]
     },
     {
@@ -83687,7 +84514,7 @@
       "sale_price": "27.99",
       "sugestoes": [
         "304637",
-        "383669",
+        "383668",
         "383680",
         "383676",
         "303891"
@@ -83728,7 +84555,7 @@
         "376800",
         "383664",
         "304637",
-        "383669"
+        "383668"
       ]
     },
     {
@@ -83814,7 +84641,7 @@
       "sale_price": "20.99",
       "sugestoes": [
         "303891",
-        "383669",
+        "383668",
         "304637",
         "383664",
         "383680"
@@ -83834,7 +84661,7 @@
       "sugestoes": [
         "303891",
         "304637",
-        "383669",
+        "383668",
         "375455",
         "383680"
       ]
@@ -83853,7 +84680,7 @@
       "sugestoes": [
         "383664",
         "303891",
-        "383669",
+        "383668",
         "304637",
         "375455"
       ]
@@ -83892,7 +84719,7 @@
         "378156",
         "383652",
         "303891",
-        "383669",
+        "383668",
         "376800"
       ]
     },
@@ -83910,7 +84737,7 @@
       "sugestoes": [
         "304637",
         "383680",
-        "383669",
+        "383668",
         "303891",
         "383676"
       ]
@@ -83927,7 +84754,7 @@
       "price": "31.99",
       "sale_price": "22.39",
       "sugestoes": [
-        "383669",
+        "383668",
         "383664",
         "303891",
         "376796",
@@ -83947,7 +84774,7 @@
       "sale_price": "34.93",
       "sugestoes": [
         "303891",
-        "383669",
+        "383668",
         "383664",
         "304637",
         "376796"
@@ -83967,7 +84794,7 @@
       "sugestoes": [
         "383676",
         "383672",
-        "383669",
+        "383668",
         "383680",
         "304637"
       ]
@@ -83985,7 +84812,7 @@
       "sale_price": "79.95",
       "sugestoes": [
         "376796",
-        "383669",
+        "383668",
         "383660",
         "383680",
         "375455"
@@ -84195,7 +85022,7 @@
       "category": "Roupa > Futebol > Fatos de Treino",
       "brand": "New Balance",
       "price": "129.90",
-      "sale_price": "90.93",
+      "sale_price": "64.95",
       "sugestoes": [
         "356174",
         "355039",
@@ -84439,7 +85266,7 @@
         "334566",
         "355084",
         "373271",
-        "330264",
+        "330265",
         "364690"
       ]
     },
@@ -87204,7 +88031,7 @@
         "367479",
         "367476",
         "363556",
-        "369323",
+        "369322",
         "356666"
       ]
     },
@@ -87222,7 +88049,7 @@
       "sugestoes": [
         "367476",
         "363556",
-        "369323",
+        "369322",
         "356542",
         "367504"
       ]
@@ -87266,7 +88093,7 @@
       ]
     },
     {
-      "id": "369323",
+      "id": "369322",
       "mpn": "PLS60010-402",
       "title": "Sapatilhas Pepe Jeans Lucky Flag W",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PLS60010-402_1.jpg?1730387548",
@@ -87551,7 +88378,7 @@
       ]
     },
     {
-      "id": "362865",
+      "id": "362866",
       "mpn": "PMS31059-800",
       "title": "Sapatilhas Pepe Jeans Kenton Rise M",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PMS31059-800_1.jpg?1723220348",
@@ -87703,7 +88530,7 @@
       ]
     },
     {
-      "id": "359352",
+      "id": "359353",
       "mpn": "PMS60031-800",
       "title": "Sapatilhas Pepe Jeans Dave Master M",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/PMS60031-800_1.jpg?1722428881",
@@ -88435,7 +89262,7 @@
         "376796",
         "303891",
         "375455",
-        "383669",
+        "383668",
         "383660"
       ]
     },
@@ -92260,7 +93087,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Vans",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "20.99",
       "sugestoes": [
         "244335",
         "261492",
@@ -92279,7 +93106,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Vans",
       "price": "29.99",
-      "sale_price": null,
+      "sale_price": "17.99",
       "sugestoes": [
         "261497",
         "261492",
@@ -93820,7 +94647,7 @@
       "sugestoes": []
     },
     {
-      "id": "309337",
+      "id": "309338",
       "mpn": "S8138BW-AAE",
       "title": "Sapatilhas Superga 2790 Light Leopard Foxing Print",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/S8138BW-AAE_1.jpg?1678968412",
@@ -94126,9 +94953,9 @@
       "sugestoes": [
         "294270",
         "364774",
+        "389269",
         "294211",
-        "367543",
-        "367515"
+        "367543"
       ]
     },
     {
@@ -94289,9 +95116,9 @@
       "sugestoes": [
         "12834",
         "316313",
-        "7293",
+        "7295",
         "328736",
-        "318784"
+        "318783"
       ]
     },
     {
@@ -94307,7 +95134,7 @@
       "sale_price": null,
       "sugestoes": [
         "316313",
-        "318784",
+        "318783",
         "311833",
         "12834",
         "328736"
@@ -96168,7 +96995,7 @@
       ]
     },
     {
-      "id": "386279",
+      "id": "386280",
       "mpn": "JQ9209",
       "title": "Sapatilhas Adidas Court Flight Padel W Bege e Douradas",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JQ9209_1.jpg?1751022187",
@@ -96936,7 +97763,7 @@
       ]
     },
     {
-      "id": "365526",
+      "id": "365529",
       "mpn": "IF9655",
       "title": "Sapatilhas Adidas Gazelle",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/IF9655_1.jpg?1726585781",
@@ -98095,6 +98922,25 @@
       ]
     },
     {
+      "id": "389517",
+      "mpn": "JR0776",
+      "title": "Sapatilhas Adidas com Velcro Grand Court 00s CF EL I Verdes",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/JR0776_1.jpg?1753459684",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "39.99",
+      "sale_price": null,
+      "sugestoes": [
+        "358483",
+        "360480",
+        "319806",
+        "314457",
+        "351564"
+      ]
+    },
+    {
       "id": "385995",
       "mpn": "JP5893",
       "title": "Sapatilhas Adidas com Velcro Grand Court 00s Verdes J",
@@ -98304,7 +99150,7 @@
       ]
     },
     {
-      "id": "345279",
+      "id": "345280",
       "mpn": "H03860",
       "title": "Sapatilhas Adidas Hoops 3.0 Cf I",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/H03860_1.jpg?1708513470",
@@ -100501,6 +101347,44 @@
       ]
     },
     {
+      "id": "389489",
+      "mpn": "ID6309",
+      "title": "Sapatilhas Adidas VL Court 3.0 C Verdes Em Camurça",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID6309_1.jpg?1753458926",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "360480",
+        "358483",
+        "350902",
+        "358643",
+        "351564"
+      ]
+    },
+    {
+      "id": "389502",
+      "mpn": "ID9062",
+      "title": "Sapatilhas Adidas VL Court 3.0 C Brancas e Pretas",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/ID9062_1.jpg?1753459361",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Calçado > Sapatilhas",
+      "brand": "Adidas Sportswear",
+      "price": "49.90",
+      "sale_price": null,
+      "sugestoes": [
+        "350902",
+        "360480",
+        "358483",
+        "358643",
+        "351564"
+      ]
+    },
+    {
       "id": "371464",
       "mpn": "JQ7315",
       "title": "Sapatilhas Adidas VL Court 3.0 Prateadas W",
@@ -100929,7 +101813,7 @@
       "sale_price": null,
       "sugestoes": [
         "316313",
-        "318784",
+        "318783",
         "366770",
         "310162",
         "311896"
@@ -102709,7 +103593,7 @@
       "price": "139.90",
       "sale_price": null,
       "sugestoes": [
-        "386862",
+        "386863",
         "329484",
         "328736",
         "366770",
@@ -102728,7 +103612,7 @@
       "price": "139.90",
       "sale_price": null,
       "sugestoes": [
-        "386862",
+        "386863",
         "328736",
         "329484",
         "386856",
@@ -102812,7 +103696,7 @@
       ]
     },
     {
-      "id": "190998",
+      "id": "190999",
       "mpn": "8043111",
       "title": "Sapatos Aquáticos Arena Beach Sharm 2",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/8043111_1.jpg?1551380428",
@@ -102845,7 +103729,7 @@
         "366770",
         "366764",
         "329484",
-        "386862",
+        "386863",
         "328736"
       ]
     },
@@ -103138,7 +104022,7 @@
       "price": "230.00",
       "sale_price": "149.50",
       "sugestoes": [
-        "373690",
+        "373691",
         "373679",
         "373701",
         "374235",
@@ -103178,7 +104062,7 @@
       ]
     },
     {
-      "id": "373690",
+      "id": "373691",
       "mpn": "SF1F-IB8",
       "title": "Chuteiras New Balance Furon Elite V8 FG",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/SF1F-IB8_1.jpg?1737650686",
@@ -103307,7 +104191,7 @@
       "price": "230.00",
       "sale_price": "103.50",
       "sugestoes": [
-        "373690",
+        "373691",
         "373775",
         "373679",
         "373710",
@@ -103345,7 +104229,7 @@
       "price": "130.00",
       "sale_price": "65.00",
       "sugestoes": [
-        "373690",
+        "373691",
         "373775",
         "373701",
         "374235",
@@ -103451,7 +104335,7 @@
       "sale_price": null,
       "sugestoes": [
         "373679",
-        "373690",
+        "373691",
         "373710",
         "373775",
         "373785"
@@ -103830,7 +104714,7 @@
       "category": "Roupa > Futebol > Equipamentos de Futebol",
       "brand": "Nike",
       "price": "74.90",
-      "sale_price": "63.67",
+      "sale_price": "52.43",
       "sugestoes": [
         "352973",
         "296017",
@@ -103977,7 +104861,7 @@
         "373710",
         "374235",
         "373775",
-        "373690",
+        "373691",
         "373679"
       ]
     },
@@ -103996,7 +104880,7 @@
         "373785",
         "374235",
         "373679",
-        "373690",
+        "373691",
         "373701"
       ]
     },
@@ -106272,6 +107156,44 @@
       ]
     },
     {
+      "id": "389265",
+      "mpn": "NF0A8E3YBOX",
+      "title": "T-shirt The North Face Connect Relaxed Bege",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8E3YBOX_1.jpg?1753356488",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "367412",
+        "294211",
+        "367543",
+        "364771",
+        "364772"
+      ]
+    },
+    {
+      "id": "389269",
+      "mpn": "NF0A8E3YQLI",
+      "title": "T-shirt The North Face Connect Relaxed Branca",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8E3YQLI_1.jpg?1753355644",
+      "gender": "unissex",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "367543",
+        "367412",
+        "294211",
+        "364771",
+        "364774"
+      ]
+    },
+    {
       "id": "179434",
       "mpn": "NF00CEQ5LA9",
       "title": "T-shirt The North Face Fine",
@@ -106288,6 +107210,25 @@
         "347817",
         "347911",
         "367877"
+      ]
+    },
+    {
+      "id": "389257",
+      "mpn": "NF0A8EE9FN4",
+      "title": "T-shirt The North Face Half Dome Photo Branca",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8EE9FN4_1.jpg?1753353680",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "351053",
+        "344906",
+        "347817",
+        "347911",
+        "365063"
       ]
     },
     {
@@ -106419,8 +107360,8 @@
         "351053",
         "344906",
         "367379",
-        "349126",
-        "347911"
+        "389277",
+        "349126"
       ]
     },
     {
@@ -106481,6 +107422,63 @@
       ]
     },
     {
+      "id": "389241",
+      "mpn": "NF0A8EE8JK3",
+      "title": "T-shirt The North Face Mountain Sketch Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8EE8JK3_1.jpg?1753351918",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "367419",
+        "365063",
+        "363942",
+        "389281",
+        "248885"
+      ]
+    },
+    {
+      "id": "389249",
+      "mpn": "NF0A8EE8BO9",
+      "title": "T-shirt The North Face Mountain Sketch Verde",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8EE8BO9_1.jpg?1753352415",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "351053",
+        "347817",
+        "347911",
+        "248885",
+        "344906"
+      ]
+    },
+    {
+      "id": "389261",
+      "mpn": "NF0A87NSJK3",
+      "title": "T-shirt The North Face Never Stop Exploring Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A87NSJK3_1.jpg?1753356829",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "351053",
+        "248885",
+        "367877",
+        "347817",
+        "344906"
+      ]
+    },
+    {
       "id": "179462",
       "mpn": "NF0A2TX5FN4",
       "title": "T-shirt The North Face Simple Dome",
@@ -106497,6 +107495,44 @@
         "349133",
         "248885",
         "347911"
+      ]
+    },
+    {
+      "id": "389245",
+      "mpn": "NF0A8EE7FN4",
+      "title": "T-shirt The North Face Vertical Logo Branca",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8EE7FN4_1.jpg?1753352897",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "347817",
+        "351053",
+        "365063",
+        "347911",
+        "351065"
+      ]
+    },
+    {
+      "id": "389253",
+      "mpn": "NF0A8EE7JK3",
+      "title": "T-shirt The North Face Vertical Logo Preta",
+      "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/NF0A8EE7JK3_1.jpg?1753353293",
+      "gender": "male",
+      "site": "1",
+      "category": "Roupa > T-Shirts",
+      "brand": "The North Face",
+      "price": "34.99",
+      "sale_price": null,
+      "sugestoes": [
+        "351053",
+        "367877",
+        "248885",
+        "347817",
+        "389273"
       ]
     },
     {
@@ -108760,7 +109796,7 @@
         "376796",
         "383660",
         "375455",
-        "383669",
+        "383668",
         "383680"
       ]
     },
@@ -108778,7 +109814,7 @@
       "sugestoes": [
         "376796",
         "375455",
-        "383669",
+        "383668",
         "383660",
         "303891"
       ]
@@ -108834,7 +109870,7 @@
       "sale_price": null,
       "sugestoes": [
         "376796",
-        "383669",
+        "383668",
         "383660",
         "303891",
         "383652"
@@ -110260,7 +111296,7 @@
       ]
     },
     {
-      "id": "356509",
+      "id": "356511",
       "mpn": "VN0009QJQJM1",
       "title": "Sapatilhas Vans Rowley Classic",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/VN0009QJQJM1_1.jpg?1719586571",
@@ -110991,7 +112027,7 @@
       "category": "Roupa > T-Shirts",
       "brand": "Vans",
       "price": "23.99",
-      "sale_price": null,
+      "sale_price": "17.99",
       "sugestoes": [
         "244335",
         "349854",
@@ -112124,7 +113160,7 @@
       "category": "Roupa > Futebol > Camisolas de Clubes",
       "brand": "New Balance",
       "price": "89.90",
-      "sale_price": "62.93",
+      "sale_price": "44.95",
       "sugestoes": []
     },
     {
@@ -112517,7 +113553,7 @@
         "327282",
         "332537",
         "339234",
-        "330264",
+        "330265",
         "342518"
       ]
     },
@@ -112536,7 +113572,7 @@
         "327282",
         "332537",
         "342518",
-        "330264",
+        "330265",
         "339234"
       ]
     },
@@ -112669,12 +113705,12 @@
         "331912",
         "332056",
         "330561",
-        "330264",
+        "330265",
         "330257"
       ]
     },
     {
-      "id": "330264",
+      "id": "330265",
       "mpn": "YT33512-DMY",
       "title": "T-shirt New Balance Essentials Logo Kids",
       "image": "https://1565619539.rsc.cdn77.org/images_prods_static/SKU_GROUP/YT33512-DMY_1.jpg?1690878577",
@@ -112706,7 +113742,7 @@
       "sugestoes": [
         "332537",
         "330561",
-        "330264",
+        "330265",
         "330257",
         "333922"
       ]
@@ -112726,7 +113762,7 @@
         "332537",
         "330561",
         "333922",
-        "330264",
+        "330265",
         "330257"
       ]
     },
