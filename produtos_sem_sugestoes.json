@@ -2640,7 +2640,7 @@
     "motivo": "Sem candidatos com categoria diferente (site ≠ 2)"
   },
   {
-    "id": "381451",
+    "id": "381452",
     "mpn": "FZ5510-423",
     "title": "Calções de Basquetebol Nike Fly Crossover 18cm Azuis Para Mulher",
     "category": "Roupa > Basquetebol > Calções",
@@ -3883,17 +3883,6 @@
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
   {
-    "id": "345162",
-    "mpn": "IE7562",
-    "title": "Sapatilhas Adidas Top Sala Competition IN J",
-    "category": "Calçado > Futsal > Sapatilhas",
-    "brand": "Adidas Performance",
-    "site": "2",
-    "gender": "unissex",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
     "id": "385594",
     "mpn": "JR3004",
     "title": "Sapatilhas Adidas Ultrarun 5 TR W Bege e Laranja",
@@ -4110,17 +4099,6 @@
     "brand": "Veja",
     "site": "2",
     "gender": "female",
-    "pack": null,
-    "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
-  },
-  {
-    "id": "374878",
-    "mpn": "CE2820742",
-    "title": "Sapatilhas VEJA Condor 3 Advanced",
-    "category": "Calçado > Running > Sapatilhas",
-    "brand": "Veja",
-    "site": "2",
-    "gender": "male",
     "pack": null,
     "motivo": "Sem candidatos com o mesmo segundo nível de categoria"
   },
