@@ -2,9 +2,11 @@
   {
     "id": "267575",
     "mpn": "030049000002-PRLSG",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Gola CDT Sublimada",
+      "es": "Bufanda CDT Sublimada",
+      "en": "CDT Sublimada Neck Warmer"
+    },
     "category": "Acessórios > Futebol > Golas",
     "brand": "CDT",
     "site": "2",
@@ -15,9 +17,11 @@
   {
     "id": "293654",
     "mpn": "050.5546.02JR",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Leggings Ho Soccer Under Protek Trousers Perf J",
+      "es": "Leggings Ho Soccer Under Protek Trousers Perf J",
+      "en": "Ho Soccer Under Protek Trousers Perf Leggings J"
+    },
     "category": "Roupa > Futebol > Leggings",
     "brand": "HO Soccer",
     "site": "2",
@@ -28,9 +32,11 @@
   {
     "id": "293655",
     "mpn": "050.5546.02JR",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Leggings Ho Soccer Under Protek Trousers Perf J",
+      "es": "Leggings Ho Soccer Under Protek Trousers Perf J",
+      "en": "Ho Soccer Under Protek Trousers Perf Leggings J"
+    },
     "category": "Roupa > Futebol > Leggings",
     "brand": "HO Soccer",
     "site": "2",
@@ -41,9 +47,11 @@
   {
     "id": "293656",
     "mpn": "050.5546.02JR",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Leggings Ho Soccer Under Protek Trousers Perf J",
+      "es": "Leggings Ho Soccer Under Protek Trousers Perf J",
+      "en": "Ho Soccer Under Protek Trousers Perf Leggings J"
+    },
     "category": "Roupa > Futebol > Leggings",
     "brand": "HO Soccer",
     "site": "2",
@@ -54,9 +62,11 @@
   {
     "id": "254748",
     "mpn": "10117136-ORANGE",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rodas Enjoi Box Panda",
+      "es": "Ruedas Enjoi Box Panda",
+      "en": "Enjoi Box Panda Wheels"
+    },
     "category": "Acessórios > Skate > Rodas",
     "brand": "Enjoi",
     "site": "2",
@@ -67,9 +77,11 @@
   {
     "id": "201807",
     "mpn": "10415284-GREENRAW",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Truck Tensor Aluminium Green Raw",
+      "es": "Truck Tensor Aluminium Green Raw",
+      "en": "Tensor Aluminium Green Raw Truck"
+    },
     "category": "Acessórios > Skate > Trucks",
     "brand": "Tensor",
     "site": "2",
@@ -80,9 +92,11 @@
   {
     "id": "244794",
     "mpn": "112228419",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sapatos Hey Dude Welsh",
+      "es": "Zapatos Hey Dude Welsh",
+      "en": "Hey Dude Welsh Shoes"
+    },
     "category": "Calçado > Sapatos",
     "brand": "Hey Dude",
     "site": "1",
@@ -93,9 +107,11 @@
   {
     "id": "244795",
     "mpn": "112228419",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sapatos Hey Dude Welsh",
+      "es": "Zapatos Hey Dude Welsh",
+      "en": "Hey Dude Welsh Shoes"
+    },
     "category": "Calçado > Sapatos",
     "brand": "Hey Dude",
     "site": "1",
@@ -106,9 +122,11 @@
   {
     "id": "244796",
     "mpn": "112228419",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sapatos Hey Dude Welsh",
+      "es": "Zapatos Hey Dude Welsh",
+      "en": "Hey Dude Welsh Shoes"
+    },
     "category": "Calçado > Sapatos",
     "brand": "Hey Dude",
     "site": "1",
@@ -119,9 +137,11 @@
   {
     "id": "244797",
     "mpn": "112228419",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sapatos Hey Dude Welsh",
+      "es": "Zapatos Hey Dude Welsh",
+      "en": "Hey Dude Welsh Shoes"
+    },
     "category": "Calçado > Sapatos",
     "brand": "Hey Dude",
     "site": "1",
@@ -132,9 +152,11 @@
   {
     "id": "244798",
     "mpn": "112228419",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sapatos Hey Dude Welsh",
+      "es": "Zapatos Hey Dude Welsh",
+      "en": "Hey Dude Welsh Shoes"
+    },
     "category": "Calçado > Sapatos",
     "brand": "Hey Dude",
     "site": "1",
@@ -145,9 +167,11 @@
   {
     "id": "244799",
     "mpn": "112228419",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sapatos Hey Dude Welsh",
+      "es": "Zapatos Hey Dude Welsh",
+      "en": "Hey Dude Welsh Shoes"
+    },
     "category": "Calçado > Sapatos",
     "brand": "Hey Dude",
     "site": "1",
@@ -158,9 +182,11 @@
   {
     "id": "246030",
     "mpn": "1131610C-PMM",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Teva Midform Universal Metalic",
+      "es": "Sandalias Teva Midform Universal Metalic",
+      "en": "Teva Midform Universal Metalic Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Teva",
     "site": "1",
@@ -171,9 +197,11 @@
   {
     "id": "246031",
     "mpn": "1131610C-PMM",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Teva Midform Universal Metalic",
+      "es": "Sandalias Teva Midform Universal Metalic",
+      "en": "Teva Midform Universal Metalic Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Teva",
     "site": "1",
@@ -184,9 +212,11 @@
   {
     "id": "246032",
     "mpn": "1131610C-PMM",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Teva Midform Universal Metalic",
+      "es": "Sandalias Teva Midform Universal Metalic",
+      "en": "Teva Midform Universal Metalic Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Teva",
     "site": "1",
@@ -197,9 +227,11 @@
   {
     "id": "246033",
     "mpn": "1131610C-PMM",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Teva Midform Universal Metalic",
+      "es": "Sandalias Teva Midform Universal Metalic",
+      "en": "Teva Midform Universal Metalic Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Teva",
     "site": "1",
@@ -210,9 +242,11 @@
   {
     "id": "246034",
     "mpn": "1131610C-PMM",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Teva Midform Universal Metalic",
+      "es": "Sandalias Teva Midform Universal Metalic",
+      "en": "Teva Midform Universal Metalic Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Teva",
     "site": "1",
@@ -223,9 +257,11 @@
   {
     "id": "205590",
     "mpn": "133110-W",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Pins Thrasher Logo",
+      "es": "Alfileres Thrasher Logo",
+      "en": "Thrasher Logo Button Pins"
+    },
     "category": "Acessórios > Outros Acessórios",
     "brand": "Thrasher",
     "site": "1",
@@ -234,11 +270,73 @@
     "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
   },
   {
+    "id": "270339",
+    "mpn": "1748031-010",
+    "title": {
+      "pt": "Colete Columbia Powder Lite",
+      "es": "Chaleco Columbia Powder Lite",
+      "en": "Columbia Powder Lite Vest"
+    },
+    "category": "Roupa > Coletes",
+    "brand": "Columbia",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
+  },
+  {
+    "id": "270340",
+    "mpn": "1748031-010",
+    "title": {
+      "pt": "Colete Columbia Powder Lite",
+      "es": "Chaleco Columbia Powder Lite",
+      "en": "Columbia Powder Lite Vest"
+    },
+    "category": "Roupa > Coletes",
+    "brand": "Columbia",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
+  },
+  {
+    "id": "270341",
+    "mpn": "1748031-010",
+    "title": {
+      "pt": "Colete Columbia Powder Lite",
+      "es": "Chaleco Columbia Powder Lite",
+      "en": "Columbia Powder Lite Vest"
+    },
+    "category": "Roupa > Coletes",
+    "brand": "Columbia",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
+  },
+  {
+    "id": "270342",
+    "mpn": "1748031-010",
+    "title": {
+      "pt": "Colete Columbia Powder Lite",
+      "es": "Chaleco Columbia Powder Lite",
+      "en": "Columbia Powder Lite Vest"
+    },
+    "category": "Roupa > Coletes",
+    "brand": "Columbia",
+    "site": "1",
+    "gender": "male",
+    "pack": null,
+    "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
+  },
+  {
     "id": "218963",
     "mpn": "2565-MIX",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Capa para Higienizador de Mãos Haan Shake It Up",
+      "es": "Funda para Desinfectante de Manos Haan Shake It Up",
+      "en": "Haan Shake It Up hand Sanitizer Cover"
+    },
     "category": "Acessórios > Outros Acessórios",
     "brand": "Haan",
     "site": "1",
@@ -249,9 +347,11 @@
   {
     "id": "218637",
     "mpn": "4260317657410",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Tote Bag Loqi Reflective Smiley",
+      "es": "Tote Bag Loqi Reflective Smiley",
+      "en": "Loqi Reflective Smiley Tote Bag"
+    },
     "category": "Acessórios > Tote Bags",
     "brand": "Loqi",
     "site": "1",
@@ -262,9 +362,11 @@
   {
     "id": "234729",
     "mpn": "602547029294",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Disco de Vinil Bon Jovi - New Jersey",
+      "es": "Disco de Vinilo Bon Jovi - New Jersey",
+      "en": "Bon Jovi - New Jersey Vinyl Record"
+    },
     "category": "Acessórios > Música",
     "brand": "Vinil",
     "site": "1",
@@ -275,9 +377,11 @@
   {
     "id": "272918",
     "mpn": "76257Z",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Bola Spalding TF 33",
+      "es": "Pelota Spalding TF 33",
+      "en": "Spalding TF 33 Basketball"
+    },
     "category": "Acessórios > Basquetebol > Bolas",
     "brand": "Spalding",
     "site": "2",
@@ -288,9 +392,11 @@
   {
     "id": "266240",
     "mpn": "804400-KK001",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Fita p/ Cabeça Champion Legacy Athletic",
+      "es": "Cinta p/ Pelo Champion Legacy Athletic",
+      "en": "Champion Legacy Athletic Headband"
+    },
     "category": "Acessórios > Running > Fitas",
     "brand": "Champion Legacy",
     "site": "2",
@@ -301,9 +407,11 @@
   {
     "id": "351007",
     "mpn": "A1130-502",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Relógio Nixon Medium Time Teller",
+      "es": "Reloj Nixon Medium Time Teller",
+      "en": "Nixon Medium Time Teller Watch"
+    },
     "category": "Acessórios > Relógios",
     "brand": "Nixon",
     "site": "1",
@@ -314,9 +422,11 @@
   {
     "id": "273450",
     "mpn": "AUR-LED1",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Auriculares Innova Bluetooth Sport Led",
+      "es": "Auriculares Innova Bluetooth Sport Led",
+      "en": "Innova Bluetooth Sport Led Earphones"
+    },
     "category": "Acessórios > Fitness & Training > Outros Acessórios",
     "brand": "Innova",
     "site": "2",
@@ -327,9 +437,11 @@
   {
     "id": "358930",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -340,9 +452,11 @@
   {
     "id": "358931",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -353,9 +467,11 @@
   {
     "id": "358932",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -366,9 +482,11 @@
   {
     "id": "358933",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -379,9 +497,11 @@
   {
     "id": "358934",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -392,9 +512,11 @@
   {
     "id": "358935",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -405,9 +527,11 @@
   {
     "id": "358936",
     "mpn": "B254VA00085C4211",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Sandálias Geox Macchia Boy",
+      "es": "Sandalias Geox Macchia Boy",
+      "en": "Geox Macchia Boy Sandals"
+    },
     "category": "Calçado > Sandálias",
     "brand": "Geox",
     "site": "1",
@@ -418,9 +542,11 @@
   {
     "id": "229739",
     "mpn": "BIR-SKW-0037",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rodas Birdhouse Wheels Logo 99A",
+      "es": "Ruedas Birdhouse Wheels Logo 99A",
+      "en": "Birdhouse Wheels Logo 99A Wheels"
+    },
     "category": "Acessórios > Skate > Rodas",
     "brand": "Birdhouse",
     "site": "2",
@@ -431,9 +557,11 @@
   {
     "id": "218361",
     "mpn": "CW4002",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rodas Chocolate Plantaisa",
+      "es": "Ruedas Chocolate Plantaisa",
+      "en": "Chocolate Plantaisa Wheels"
+    },
     "category": "Acessórios > Skate > Rodas",
     "brand": "Chocolate",
     "site": "2",
@@ -444,9 +572,11 @@
   {
     "id": "339566",
     "mpn": "DST-COM-2145",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Skate D-Street Cruiser Army Green 23",
+      "es": "Monopatín D-Street Cruiser Army Green 23",
+      "en": "D-Street Cruiser Army Green 23 Skateboard"
+    },
     "category": "Acessórios > Skate > Skates",
     "brand": "Dstreet",
     "site": "2",
@@ -457,9 +587,11 @@
   {
     "id": "146025",
     "mpn": "EI7418",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Saco Reebok Gym Pack",
+      "es": "Saco Reebok Gym Pack",
+      "en": "Reebok Gym Pack Bag"
+    },
     "category": "Acessórios > Fitness & Training > Sacos",
     "brand": "Reebok",
     "site": "2",
@@ -470,9 +602,11 @@
   {
     "id": "162223",
     "mpn": "ER-650S",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Megafone com Sirene",
+      "es": "Megáfono con Sirena",
+      "en": "Megaphone with Siren"
+    },
     "category": "Acessórios > Futsal > Outros Acessórios",
     "brand": "CINASPORTO",
     "site": "2",
@@ -483,9 +617,11 @@
   {
     "id": "290177",
     "mpn": "JS9203",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Fitas de Suspensão Softee",
+      "es": "Tiras de Suspensión Softee",
+      "en": "Softee Suspension Straps"
+    },
     "category": "Acessórios > Fitness & Training > Outros Acessórios",
     "brand": "Softee",
     "site": "2",
@@ -496,9 +632,11 @@
   {
     "id": "234037",
     "mpn": "KRK-COM-0178",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Skate Krooked Complete Classic Sweatpants XL 32.2 / 8.25",
+      "es": "Monopatín Krooked Complete Classic Sweatpants XL 32.2 / 8.25",
+      "en": "Krooked Complete Classic Sweatpants XL 32.2 / 8.25 Skateboard"
+    },
     "category": "Acessórios > Skate > Skates",
     "brand": "Krooked",
     "site": "2",
@@ -509,9 +647,11 @@
   {
     "id": "309672",
     "mpn": "LXDARK-ORANGE",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Lixa Darkroom Caos Orange",
+      "es": "Lija Darkroom Caos Orange",
+      "en": "Darkroom Caos Orange Grip Tape"
+    },
     "category": "Acessórios > Skate > Lixas",
     "brand": "Darkroom",
     "site": "2",
@@ -522,9 +662,11 @@
   {
     "id": "308667",
     "mpn": "LXGRIII-GHOST",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Lixa Grizzly Ghost Rider",
+      "es": "Lija Grizzly Ghost Rider",
+      "en": "Grizzly Ghost Rider Grip Tape"
+    },
     "category": "Acessórios > Skate > Outros Acessórios",
     "brand": "Grizzly",
     "site": "2",
@@ -535,9 +677,11 @@
   {
     "id": "310066",
     "mpn": "LXGRIII-GHOST",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Lixa Grizzly Ghost Rider",
+      "es": "Lija Grizzly Ghost Rider",
+      "en": "Grizzly Ghost Rider Grip Tape"
+    },
     "category": "Acessórios > Skate > Outros Acessórios",
     "brand": "Grizzly",
     "site": "2",
@@ -548,9 +692,11 @@
   {
     "id": "4990",
     "mpn": "M-BORDEAUX",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Carteira M Secrid",
+      "es": "Cartera M Secrid",
+      "en": "M Secrid Wallet"
+    },
     "category": "Acessórios > Carteiras",
     "brand": "Secrid",
     "site": "1",
@@ -561,9 +707,11 @@
   {
     "id": "325487",
     "mpn": "M4953-010",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Camisa Replay Paisley",
+      "es": "Camisa Replay Paisley",
+      "en": "Replay Paisley Shirt"
+    },
     "category": "Roupa > Camisas",
     "brand": "REPLAY",
     "site": "1",
@@ -574,9 +722,11 @@
   {
     "id": "325488",
     "mpn": "M4953-010",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Camisa Replay Paisley",
+      "es": "Camisa Replay Paisley",
+      "en": "Replay Paisley Shirt"
+    },
     "category": "Roupa > Camisas",
     "brand": "REPLAY",
     "site": "1",
@@ -587,9 +737,11 @@
   {
     "id": "333977",
     "mpn": "MSP-RED",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Carteira Secrid Sparkle",
+      "es": "Cartera Secrid Sparkle",
+      "en": "Secrid Sparkle Wallet"
+    },
     "category": "Acessórios > Carteiras",
     "brand": "Secrid",
     "site": "1",
@@ -600,9 +752,11 @@
   {
     "id": "162224",
     "mpn": "PL18",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Alvo de Mesa Electrónico Cinasporto",
+      "es": "Tablero de Dardos de Mesa Electronico Cinasporto",
+      "en": "Cinasporto Electronic Mini Dartboard"
+    },
     "category": "Acessórios > Outros Acessórios",
     "brand": "CINASPORTO",
     "site": "1",
@@ -613,9 +767,11 @@
   {
     "id": "245982",
     "mpn": "PRT-PHE-914",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Capacete Pro-Tec Old School",
+      "es": "Casco Pro-Tec Old School",
+      "en": "Pro-Tec Old School Helmet"
+    },
     "category": "Acessórios > Skate > Outros Acessórios",
     "brand": "Helmet",
     "site": "2",
@@ -626,9 +782,11 @@
   {
     "id": "245983",
     "mpn": "PRT-PHE-914",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Capacete Pro-Tec Old School",
+      "es": "Casco Pro-Tec Old School",
+      "en": "Pro-Tec Old School Helmet"
+    },
     "category": "Acessórios > Skate > Outros Acessórios",
     "brand": "Helmet",
     "site": "2",
@@ -639,9 +797,11 @@
   {
     "id": "162230",
     "mpn": "R7",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Conjunto de Dardos Cinasporto",
+      "es": "Conjunto de Dardos Cinasporto",
+      "en": "Cinasporto Set of Darts"
+    },
     "category": "Acessórios > Outros Acessórios",
     "brand": "CINASPORTO",
     "site": "1",
@@ -652,9 +812,11 @@
   {
     "id": "352821",
     "mpn": "RDGOOD-SOLIDWHITE",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rodas Form Solid White Pk4",
+      "es": "Ruedas Form Solid White Pk4",
+      "en": "Form Solid White Pk4 Wheels"
+    },
     "category": "Acessórios > Skate > Outros Acessórios",
     "brand": "Form",
     "site": "2",
@@ -665,9 +827,11 @@
   {
     "id": "352822",
     "mpn": "RDGOOD-SOLIDWHITE",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rodas Form Solid White Pk4",
+      "es": "Ruedas Form Solid White Pk4",
+      "en": "Form Solid White Pk4 Wheels"
+    },
     "category": "Acessórios > Skate > Outros Acessórios",
     "brand": "Form",
     "site": "2",
@@ -678,9 +842,11 @@
   {
     "id": "349270",
     "mpn": "RDHS-EVENRED",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rodas The Hearth Supply Even Red Pk4",
+      "es": "Ruedas The Hearth Supply Even Red Pk4",
+      "en": "The Hearth Supply Even Red Pk4 Wheels"
+    },
     "category": "Acessórios > Skate > Rodas",
     "brand": "Hearth Supply",
     "site": "2",
@@ -691,9 +857,11 @@
   {
     "id": "228301",
     "mpn": "REA-SKD-2445",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Tábua Real Renewal Doves 8.25",
+      "es": "Tabla Real Renewal Doves 8.25",
+      "en": "Real Renewal Doves 8.25 Deck"
+    },
     "category": "Acessórios > Skate > Tábuas",
     "brand": "Real",
     "site": "2",
@@ -704,9 +872,11 @@
   {
     "id": "218370",
     "mpn": "RLMAND7",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rolamentos Andale ABEC 7",
+      "es": "Cojinetes Andale ABEC 7",
+      "en": "Andale ABEC 7 Bearings"
+    },
     "category": "Acessórios > Skate > Rolamentos",
     "brand": "Andale",
     "site": "2",
@@ -717,9 +887,11 @@
   {
     "id": "96904",
     "mpn": "RLMREDS",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rolamentos Bones Reds",
+      "es": "Cojinetes Bones Reds",
+      "en": "Bones Reds Bearings"
+    },
     "category": "Acessórios > Skate > Rolamentos",
     "brand": "Bones",
     "site": "2",
@@ -730,9 +902,11 @@
   {
     "id": "248660",
     "mpn": "RLMSD-STARS",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Rolamentos Speed Demons Stars ABEC 5",
+      "es": "Cojinetes Speed Demons Stars ABEC 5",
+      "en": "Speed Demons Stars ABEC 5 Bearings"
+    },
     "category": "Acessórios > Skate > Rolamentos",
     "brand": "Marteleira",
     "site": "2",
@@ -743,9 +917,11 @@
   {
     "id": "292027",
     "mpn": "RSRPG0020",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Bases Pig Soft",
+      "es": "Bases Pig Soft",
+      "en": "Pig Soft Riser Pads"
+    },
     "category": "Acessórios > Outros Acessórios",
     "brand": "PIG",
     "site": "2",
@@ -756,9 +932,11 @@
   {
     "id": "292362",
     "mpn": "S4615960265",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Bola Select Liga Brillant Super TB Bwin EP22/23",
+      "es": "Balón Select Liga Brillant Super TB Bwin 22/23",
+      "en": "Select Liga Brillant Super TB Bwin 22/23 Ball"
+    },
     "category": "Acessórios > Futebol > Bolas",
     "brand": "Select",
     "site": "2",
@@ -769,9 +947,11 @@
   {
     "id": "309878",
     "mpn": "TBCLICHET-PURPLE",
-    "title_pt": "",
-    "title_es": "",
-    "title_en": "",
+    "title": {
+      "pt": "Tábua Cliché Peace 8",
+      "es": "Tabla Cliché Peace 8",
+      "en": "Cliché Peace 8 Deck"
+    },
     "category": "Acessórios > Skate > Tábuas",
     "brand": "Cliché",
     "site": "2",
