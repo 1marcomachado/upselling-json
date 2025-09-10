@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "103812",
+    "mpn": "SX4863-010",
+    "title": {
+      "pt": "Meias Nike Lightweight",
+      "es": "Calcetines Nike Lightweight",
+      "en": "Nike Lightweight Socks"
+    },
+    "category": "Acessórios > Meias",
+    "brand": "Nike",
+    "site": "0",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
+  },
+  {
+    "id": "103813",
+    "mpn": "SX4863-010",
+    "title": {
+      "pt": "Meias Nike Lightweight",
+      "es": "Calcetines Nike Lightweight",
+      "en": "Nike Lightweight Socks"
+    },
+    "category": "Acessórios > Meias",
+    "brand": "Nike",
+    "site": "0",
+    "gender": "unissex",
+    "pack": null,
+    "motivo": "Sem candidatos (site/gender/brand + regra Acessórios)"
+  }
+]
